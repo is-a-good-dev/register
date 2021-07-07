@@ -11,7 +11,7 @@
 <ul>
   <li>Fork this repo</li>
   <li>Add a new <code>sub-logs/your-domain-name.json</code> file directory to register your domain name (<code>your-domain.is-a-good.dev</code>)</li>
-  <li>Read the <a href="https://github.com/is-a-good-dev/register/tree/main/documentation">documentation</a> on the different .json layouts.</li>
+  <li>Read the <a href="https://docs.is-a-good.dev/">documentation</a> on the different .json layouts.</li>
   <li>Make a pull request</li>
   <li>Once your pull request merged, enjoy your free subdomain!</li>
 </ul>
