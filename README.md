@@ -15,6 +15,15 @@
   <li>Make a pull request</li>
   <li>Once your pull request merged, enjoy your free subdomain!</li>
 </ul>
+<h2>Information</h2>
+<ul>
+  <li>
+    <a href="https://is-a-good.dev">Website</a>
+  </li>
+  <li>
+    <a href="https://docs.is-a-good.dev">Documentation</a>
+  </li>
+</ul>
 
 
 
