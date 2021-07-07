@@ -1,0 +1,10 @@
+EXAMPLE
+{    "repo": "https://github.com/willcoder-web/willcoder-web.github.io",
+    "owner": {
+        "username": "willcoder-web",
+        "email": "clarke8w@gmail.com",
+    },
+    "target": {
+        "CNAME": "doesnt-actually-exist-this-is-an-example"
+    } :)
+}
