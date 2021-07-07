@@ -1,0 +1,46 @@
+GITHUB FORMAT 
+
+{
+    "repo": "https://github.com/github-username/github-username.github.io",
+    "owner": {
+        "username": "github-username",
+        "email": "your-name-here@domain",
+    },
+    "target": {
+        "CNAME": "github-username.github.io"
+    }
+}
+
+
+
+
+
+
+
+
+OTHER HOSTING SERVICE FORMAT
+
+{
+    "repo": "https://github.com/github-username",
+    "owner": {
+        "username": "github-username",
+        "email": "your-name-here@domain",
+    }
+    "record": {}
+}
+
+RECORD TYPES
+
+FOR CNAME 
+{
+    "record": {
+        "CNAME": "target-goes-here"
+    }
+}
+ 
+FOR URL REDIRECTION 
+{ 
+    "record": {
+        "link": "https://url-goes-here"
+    }
+}
