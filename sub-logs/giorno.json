@@ -1,0 +1,10 @@
+    {
+        "repo": "https://github.com/giorno420",
+        "owner": {
+            "username": "giorno",
+            "email": "kondakshitij@gmail.com",
+        },
+        "target": {
+            "CNAME": "giorno420.github.io"
+        }
+    }
