@@ -1,0 +1,10 @@
+    {
+        "repo": "https://github.com/WaffleCodez/main",
+        "owner": {
+            "username": "github-username",
+            "email": "your-name-here@domain",
+        },
+        "target": {
+            "CNAME": "wafflecodez.github.io/main"
+        }
+    }
