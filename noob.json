@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/cancelledcactus/register",
+    "owner": {
+        "username": "cancelledcactus",
+        "email": "",
+    },
+    "target": {
+        "CNAME": "github-username.github.io"
+    }
+}
