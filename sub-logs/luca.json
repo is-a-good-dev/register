@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/lucatolton",
+    "owner": {
+        "username": "lucatolton",
+        "email": "hi@lucatolton.me",
+    }
+    "record": {
+        "CNAME": "s.lucatolton.me"
+    }
+}
