@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/quizbooks/quizbooks.github.Io",
+    "owner": {
+        "username": "quizbooks",
+        "email": "your-name-here@domain",
+    },
+    "target": {
+        "CNAME": "quizbooks.github.io"
+    }
+}
