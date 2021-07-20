@@ -5,6 +5,6 @@
         "email": "hi@lucatolton.me",
     }
     "record": {
-        "CNAME": "s.lucatolton.me"
+        "A": "78.31.66.142"
     }
 }
