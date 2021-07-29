@@ -1,0 +1,9 @@
+{
+    "repo": "https://github.com/idevmc/register",
+    "owner": {
+        "username": "idevmc",
+        "email": "mick@micks.world",
+    },
+    "target": {
+        "CNAME": "idevmc.github.io"
+}
