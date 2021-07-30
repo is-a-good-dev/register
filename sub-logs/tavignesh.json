@@ -1,0 +1,10 @@
+    {
+        "repo": "https://github.com/tavignesh",
+        "owner": {
+            "username": "tavignesh",
+            "email": "tavignesh2004@gmail.com",
+        },
+        "target": {
+            "CNAME": "tavignesh-is-a-good-dev.pages.dev"
+        }
+    }
