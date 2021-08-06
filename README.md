@@ -16,6 +16,13 @@ This project was heavily inspired by similar projects, check them out below**:**
 - Make a pull request
 - Once your pull request has been merged, enjoy your free subdomain!
 
+### Errors:
+
+Your pull request **will not** be merged if:
+- You already own a subdomain on our service.
+- You have violated our terms and conditions, found at [https://is-a-good.dev/legal](https://is-a-good.dev/legal)
+- The record you provided was invalid or did not exist, in this case you will be notified. 
+
 ### Information
 
 - **[Our website](https://is-a-good.dev)**
