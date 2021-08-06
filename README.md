@@ -1,30 +1,23 @@
-<h1><i>is-a-good-dev</i></h1>
-<p>A free domain for developers on the web.</p>
-<h2>Inspiration</h2>
-<p>This project was heavily inspired by other free domain services, check them out below:</p>
-<ul>
-  <li><a href="https://github.com/is-a-dev/register" target="_blank">is-a-dev</a></li>
-  <li><a href="https://github.com/js-org/js.org/tree/master" target="_blank">js.org</a></li>
-  <li><a href="https://github.com/fransallen/thedev.id" target="_blank">thedev.id</a></li>
-</ul>
-<h2>Getting yours</h2>
-<ul>
-  <li>Fork this repo</li>
-  <li>Add a new <code>sub-logs/your-domain-name.json</code> file directory to register your domain name (<code>your-domain.is-a-good.dev</code>)</li>
-  <li>Read the <a href="https://docs.is-a-good.dev/">documentation</a> on the different .json layouts.</li>
-  <li>Make a pull request</li>
-  <li>Once your pull request merged, enjoy your free subdomain!</li>
-</ul>
-<h2>Information</h2>
-<ul>
-  <li>
-    <a href="https://is-a-good.dev">Website</a>
-  </li>
-  <li>
-    <a href="https://docs.is-a-good.dev">Documentation</a>
-  </li>
-</ul>
+## ***is-a-good-dev***
 
+A free subdomain provider for developers around the globe.
 
+### **Inspiration**
 
+This project was heavily inspired by similar projects, check them out below**:**
+- **[is-a-dev](https://github.com/is-a-dev/register)**
+- **[js.org](https://github.com/js-org/js.org/tree/master)**
+- **[thedev.id](https://github.com/fransallen/thedev.id)**
 
+### How to get your domain:
+- Fork this repository
+- Add a new `sub-logs/your-domain-name.json` file directory to register your domain name (`your-domain.is-a-good.dev`)
+- Read the [documentation](https://docs.is-a-good.dev) on the different `.json` layouts.
+- Make a pull request
+- Once your pull request has been merged, enjoy your free subdomain!
+
+### Information
+
+- **[Our website](https://is-a-good.dev)**
+- **[Documentation](https://docs.is-a-good.dev)**
+- **[Support server (discord)](https://discord.is-a-good.dev)**
