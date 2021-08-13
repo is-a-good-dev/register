@@ -1,0 +1,10 @@
+    {
+        "repo": "https://github.com/FaultedDev/register",
+        "owner": {
+            "username": "FaultedDev",
+            "email": "dekkerm913@gmail.com",
+        },
+        "target": {
+            "CNAME": "faulteddev.github.io"
+        }
+    }
