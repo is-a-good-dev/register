@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/Artsui/tudordev",
+    "owner": {
+        "username": "Artsui",
+        "email": "Tudor.P.15@protonmail.com",
+    },
+    "target": {
+        "CNAME": "artsui.github.io"
+    }
+}
