@@ -1,27 +1,10 @@
     {
-        "repo": "nil",
-
+        "repo": "ionetty/register-1,
         "owner": {
-
-            "username": "Io.Netty",
-
+            "username": "ionetty",
             "discord": "Io.Netty#3118",
-
         },
-
         "target": {
-
-            "SRV": "ionetty.is-a-good.dev",
-            "service": "_minecraft",
-            "protocol": "TCP",
-            "priority": "0",
-            "weight": "0",
-            "port":     "25567",
-            "target": "ionetty.is-a-good.dev"
-
+            "A": "66.94.121.50"
         }
-        "target": {
-            "CNAME": "bu-eu-1.hostily.cloud"
-        }
-
     }
