@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/daydreamer-231/daydreamer-231.github.io",
+    "owner": {
+        "username": "Daydreamer-231",
+        "email": "ilariadelvecchio1001@gmail.com",
+    },
+    "target": {
+        "CNAME": "daydreamer-231.github.io"
+    }
+}
