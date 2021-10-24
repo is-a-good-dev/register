@@ -28,3 +28,6 @@ Your pull request **will not** be merged if:
 - **[Our website](https://is-a-good.dev)**
 - **[Documentation](https://docs.is-a-good.dev)**
 - **[Support server (discord)](https://discord.is-a-good.dev)**
+
+
+### **Please make sure that you fill in the relevenet information on your pullrequest, we are currently opporating this manually meaning it takes time to link the domains. Filling in the correct information just makes our lives that little bit easier.**
