@@ -1,16 +1,10 @@
 {
-
-    "repo": "https://github.com/RehanPlayz",
-
-    "owner": {
-
-        "username": "RehanPlayz",
-
-        "email": "RehanPlayz321@protonmail.com",
-
-    },
-
-    "record": {
-         "CNAME": "rehanplayz.gq"}
-
+   "repo":"https://github.com/RehanPlayz",
+   "owner":{
+      "username":"RehanPlayz",
+      "email":"RehanPlayz321@protonmail.com"
+   },
+   "record":{
+      "CNAME":"rehanplayz.gq"
+   }
 }
