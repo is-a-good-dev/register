@@ -1,10 +1,10 @@
     {
-        "repo": "https://github.com/Fqulted/website",
+        "repo": "https://github.com/FaultedDev/register",
         "owner": {
-            "username": "Fqulted",
+            "username": "FaultedDev",
             "email": "dekkerm913@gmail.com",
         },
         "target": {
-            "CNAME": "xenofm.live"
+            "CNAME": "faulteddev.github.io"
         }
     }

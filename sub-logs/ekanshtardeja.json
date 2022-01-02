@@ -1,0 +1,11 @@
+
+{
+    "repo": "https://github.com/ekanshmtardeja/EkanshTardeja",
+    "owner": {
+        "username": "ekanshmtardeja",
+        "email": "ekanshtardeja@gmail.com",
+    },
+    "target": {
+        "CNAME": "ekanshmtardeja.github.io"
+    }
+}
