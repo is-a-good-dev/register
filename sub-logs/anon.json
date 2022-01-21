@@ -5,6 +5,6 @@
         "email": "contact@anonym-dev.tk",
     },
     "target": {
-        "CNAME": "glitch.edgeapp.net"
+        "CNAME": "anondev.up.railway.app"
     }
 }
