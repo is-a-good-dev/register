@@ -1,4 +1,3 @@
-### **Important updates- The use of this repository to get your free subdomain will start to be phased out when our dashboard is online, this will be accessible on [dash.is-a-good.dev](https://dash.is-a-good.dev)**
 ## ***is-a-good-dev***
 
 A free subdomain provider for developers around the globe.
