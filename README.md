@@ -20,7 +20,6 @@ This project was heavily inspired by similar projects, check them out below:
 
 Your pull request **will not** be merged if:
 - You already own a subdomain on our service.
-- You have violated our terms and conditions, found at [https://is-a-good.dev/legal](https://is-a-good.dev/legal)
 - The record you provided was invalid or did not exist, in this case you will be notified. 
 
 ### Information
