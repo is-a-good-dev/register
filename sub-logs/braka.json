@@ -1,0 +1,10 @@
+{
+        "repo": "https://tachtas.github.io/brakas/",
+        "owner": {
+            "username": "tachtas",
+            "email": "sapatyal@protonmail.com",
+        },
+        "target": {
+            "CNAME": "tachtas.github.io"
+        }
+}
