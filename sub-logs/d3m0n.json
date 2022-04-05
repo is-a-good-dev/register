@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/demonkingswarn/demonkingswarn.github.io",
+    "owner": {
+        "username": "demonkingswarn",
+        "email": "demonkingswarn@protonmail.com",
+    },
+    "target": {
+        "CNAME": "demonkingswarn.github.io"
+    }
+}
