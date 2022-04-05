@@ -1,11 +1,11 @@
 {
     "repo": "https://github.com/kazz0001/kazz0001.github.io",
     "owner": {
-        "username": "kaz",
+        "username": "kazz0001",
         "email": "kaz442197@gmail.com",
         "discord":"kaz.#0001",
-    },
-    "target": {
-        "CNAME": "kazz0001.github.io"
+{ 
+    "record": {
+        "link": "https://kaz.is-a.dev"
     }
 }
