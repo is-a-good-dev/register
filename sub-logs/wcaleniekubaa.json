@@ -1,0 +1,21 @@
+
+
+    {
+
+        "repo": "https://github.com/wcaleniekubaa/wcaleniekubaa.github.io",
+
+        "owner": {
+
+            "username": "wcaleniekubaa",
+
+            "email": "wcaleniekubaa@gmail.com",
+
+        },
+
+        "target": {
+
+            "CNAME": "wcaleniekubaa.github.io"
+
+        }
+
+    }
