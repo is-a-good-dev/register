@@ -1,0 +1,11 @@
+{
+    "repo": "https://github.com/boolean44-repos/Register-1/",
+    "owner": {
+        "username": "boolean44-repos",
+        "email": "riley@mail.boolean44.is-a.dev,
+    },
+    "target": {
+        "CNAME": "https://crisis-bot.netlify.app/"
+    }
+}
+
