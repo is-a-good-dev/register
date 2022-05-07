@@ -37,3 +37,10 @@ FOR CNAME
         "CNAME": "target-goes-here"
     }
 }
+
+FOR A 
+{
+    "record":{
+    "A": "ip-goes-here"
+    }
+}
