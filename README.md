@@ -27,3 +27,11 @@ Your pull request **will not** be merged if:
 
 
 ### **Please make sure that you fill in the relevenet information on your pullrequest, we are currently operating this manually meaning it takes time to link the domains. Filling in the correct information just makes our lives that little bit easier.**
+
+--- 
+## **Upcoming changes:**
+- Website
+- Interface when visiting root domain to allow easy navigation to website or github repository
+- Possible addition of more domains/options
+- Possible dashboard 
+- Automatic processing of domains after pull request is merged
