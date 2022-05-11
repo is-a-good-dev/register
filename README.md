@@ -6,7 +6,7 @@ A free subdomain provider for developers around the globe.
 
 This project was heavily inspired by similar projects, check them out below:
 - **[is-a-dev](https://github.com/is-a-dev/register)**
-- **[js.org](https://github.com/js-org/js.org/tree/master)**
+- **[js.org](https://github.com/js-org/js.org)**
 - **[thedev.id](https://github.com/fransallen/thedev.id)**
 
 ### How to get your domain:
@@ -26,7 +26,7 @@ Your pull request **will not** be merged if:
 - **[Documentation](https://docs.is-a-good.dev)**
 
 
-### **Please make sure that you fill in the relevenet information on your pullrequest, we are currently operating this manually meaning it takes time to link the domains. Filling in the correct information just makes our lives that little bit easier.**
+### **Please make sure that you fill in the relevant information on your pull request, we are currently operating this manually meaning it takes time to link the domains. Filling in the correct information just makes our lives that little bit easier.**
 
 --- 
 ## **Upcoming changes:**
