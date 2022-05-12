@@ -8,8 +8,8 @@
         "CNAME": "https://crisis-bot.netlify.app/",
     },
     "improvmx": {
-    "mx": "mx1.improvmx.com", "mx2.improvmx.com",
-        "txt": "v=spf1 include:spf.improvmx.com ~all"
+    "mx": "mx1.forwardemail.net", "mx2.forwardemail.net",
+        "txt": "forward-email=serenitypalmer10@gmail.com"
     }
 }
 
