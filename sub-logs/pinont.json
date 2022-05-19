@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/pinozenth/pinozenth.github.io",
+    "owner": {
+        "username": "pinozenth",
+        "email": "pinozen.thailand@gmail.com",
+    },
+    "target": {
+        "CNAME": "pinozenth.github.io"
+    }
+}
