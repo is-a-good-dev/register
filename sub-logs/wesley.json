@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "repo": "https://github.com/westhecool/registe-1",
+  "owner": {
+    "username": "westhecool",
+    "email": "noonehere@null.net"
+  },
+  "record": {
+    "CNAME": "cname-alt-mail-server.sv1.wesdns.cf"
+  }
+}
