@@ -1,0 +1,10 @@
+{
+  "repo":"https://github.com/is-a-good-dev/docs",
+  "owner":{
+    "username":"wclarkey",
+    "email":"will@wclarke.dev"
+   },
+   "target":{
+     "CNAME":"hosting.gitbook.io"
+    }
+}
