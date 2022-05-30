@@ -1,0 +1,9 @@
+{
+  "repo":"https://github.com/AvileForsure/AvileForsure.github.io",
+  "owner":{
+    "username":"AvileForsure"
+   },
+   "target":{
+     "CNAME":"avileforsure.github.io"
+    }
+}
