@@ -1,11 +1,10 @@
 {
-    "repo": "https://github.com/zeusgangzz/zeusgangzz.github.io",
-    "owner": {
-        "username": "ayah",
-        "email": "kaz442197@gmail.com",
-        "discord":"Ethan ឵឵#6321",
-{ 
-    "target": {
-        "CNAME": "https://zeusgangzz.github.io"
+  "repo":"https://github.com/zeusgangzz/zeusgangzz.github.io",
+  "owner":{
+    "username":"ayah",
+    "email":"kaz442197@gmail.com"
+   },
+   "target":{
+     "CNAME":"https://zeusgangzz.github.io"
     }
 }
