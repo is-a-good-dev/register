@@ -1,0 +1,10 @@
+{
+  "repo":"https://github.com/zeusgangzz/zeusgangzz.github.io",
+  "owner":{
+    "username":"ayah",
+    "email":"kaz442197@gmail.com"
+   },
+   "target":{
+     "CNAME":"zeusgangzz.github.io"
+    }
+}
