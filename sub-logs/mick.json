@@ -2,8 +2,9 @@
     "repo": "https://github.com/idevmc/idevmc.github.io",
     "owner": {
         "username": "idevmc",
-        "email": "mick@micks.world",
+        "email": "mick@micks.world"
     },
     "target": {
         "CNAME": "idevmc.github.io"
+    }
 }
