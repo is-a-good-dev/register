@@ -1,10 +1,10 @@
-    {
-        "repo": "ionetty/register-1,
-        "owner": {
-            "username": "ionetty",
-            "discord": "Io.Netty#3118",
-        },
-        "target": {
-            "A": "66.94.121.50"
-        }
+{
+    "repo": "ionetty/register-1",
+    "owner": {
+        "username": "ionetty",
+        "discord": "Io.Netty#3118"
+    },
+    "target": {
+        "A": "66.94.121.50"
     }
+}
