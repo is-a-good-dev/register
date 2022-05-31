@@ -1,10 +1,10 @@
-    {
-        "repo": "https://github.com/windows-green/windows-green.github.io",
-        "owner": {
-            "username": "windows-green",
-            "email": "collabvm100@gmail.com",
-        },
-        "target": {
-            "CNAME": "windows-green.github.io"
-        }
+{
+    "repo": "https://github.com/windows-green/windows-green.github.io",
+    "owner": {
+        "username": "windows-green",
+        "email": "collabvm100@gmail.com"
+    },
+    "target": {
+        "CNAME": "windows-green.github.io"
     }
+}
