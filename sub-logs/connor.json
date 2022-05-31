@@ -1,8 +1,8 @@
 {
     "repo": "https://github.com/ConnorDoesDev/connordoesdev.github.io",
     "owner": {
-        "username": "ConnorDoesDev"
-        "email": "connor@cstudios.gay",
+        "username": "ConnorDoesDev",
+        "email": "connor@cstudios.gay"
     },
     "target": {
         "CNAME": "connordoesdev.github.io"
