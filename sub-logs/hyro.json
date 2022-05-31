@@ -2,7 +2,7 @@
     "repo": "https://github.com/xHyroM/xHyroM/tree/master/web",
     "owner": {
         "username": "Hyro",
-        "email": "generalkubo@gmail.com",
+        "email": "generalkubo@gmail.com"
     },
     "target": {
         "CNAME": "hyro.pages.dev"
