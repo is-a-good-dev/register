@@ -2,7 +2,7 @@
     "repo": "https://github.com/dzired/site",
     "owner": {
         "username": "dzired",
-        "email": "mehf@protonmail.com",
+        "email": "mehf@protonmail.com"
     },
     "target": {
         "CNAME": "dzired.github.io"
