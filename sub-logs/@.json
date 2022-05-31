@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/is-a-good-dev/Register",
+    "owner": {
+        "username": "wclarkey / is-a-good-dev",
+        "email": "will@wclarke.dev"
+    },
+    "record": {
+      "CNAME": "is-a-good-dev.github.io"
+    }
+}
