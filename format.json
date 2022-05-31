@@ -1,10 +1,10 @@
-GITHUB FORMAT 
+//GITHUB FORMAT 
 
 {
     "repo": "https://github.com/github-username/github-username.github.io",
     "owner": {
         "username": "github-username",
-        "email": "your-name-here@domain",
+        "email": "your-name-here@domain"
     },
     "target": {
         "CNAME": "github-username.github.io"
@@ -18,27 +18,27 @@ GITHUB FORMAT
 
 
 
-OTHER HOSTING SERVICE FORMAT
+//OTHER HOSTING SERVICE FORMAT
 
 {
     "repo": "https://github.com/github-username",
     "owner": {
         "username": "github-username",
-        "email": "your-name-here@domain",
-    }
+        "email": "your-name-here@domain"
+    },
     "record": {}
 }
 
-RECORD TYPES
+//RECORD TYPES
 
-FOR CNAME 
+//FOR CNAME 
 {
     "record": {
         "CNAME": "target-goes-here"
     }
 }
 
-FOR A 
+//FOR A 
 {
     "record":{
     "A": "ip-goes-here"
