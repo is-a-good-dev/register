@@ -2,7 +2,7 @@
         "repo": "https://github.com/WaffleCodez/wafflecodez.github.io",
         "owner": {
             "username": "WaffleCodez",
-            "email": "waffles.30th.email@gmail.com",
+            "email": "waffles.30th.email@gmail.com"
         },
         "target": {
             "CNAME": "wafflecodez.github.io"
