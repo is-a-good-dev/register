@@ -2,8 +2,8 @@
     "repo": "https://github.com/masskducks/maaskduck.github.io",
     "owner": {
         "username": "MaskDuck",
-        "email": "maskduckuwu@gmail.com",
-    }
+        "email": "maskduckuwu@gmail.com"
+    },
     "record": {
       "CNAME": "maaskduck.github.io"
     }
