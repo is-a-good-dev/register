@@ -2,8 +2,9 @@
     "repo": "https://github.com/Bad-Boy-Codes/my-web",
     "owner": {
         "username": "bad-boy-codes",
-        "email": "contact@semant.is-a.dev",
+        "email": "contact@semant.is-a.dev"
     },
     "target": {
         "CNAME": "bad-boy-codes.github.io"
     }
+}
