@@ -2,14 +2,10 @@
     "repo": "https://github.com/boolean44-repos/Register-1/",
     "owner": {
         "username": "boolean44-repos",
-        "email": "riley@mail.boolean44.is-a.dev,
+        "email": "riley@mail.boolean44.is-a.dev"
     },
     "target": {
-        "CNAME": "https://crisis-bot.netlify.app/",
-    },
-    "improvmx": {
-    "mx": "mx1.improvmx.com", "mx2.improvmx.com",
-        "txt": "v=spf1 include:spf.improvmx.com ~all"
+        "CNAME": "https://crisis-bot.netlify.app/"
     }
 }
 
