@@ -24,10 +24,13 @@ A free subdomain provider for developers around the globe.
 
 Your pull request **will not** be merged if:
 - You already own a subdomain on our service.
-- The record you provided was invalid or did not exist, in this case you will be notified. 
+- The records provided includes invalid/unpermitted record types. Should this happen we will notify you and request changes.
 
 ### Information
 - **[Documentation](https://docs.is-a-good.dev)**
 
+### NOTICE:
+If your subdomain is inactive, i.e not being actively used, it may be purged.
+We will try and notify you before purging via the email you provided.
 
 ### **Please make sure that you fill in the relevant information on your pull request, we are currently operating this manually meaning it takes time to link the domains. Filling in the correct information just makes our lives that little bit easier.**
