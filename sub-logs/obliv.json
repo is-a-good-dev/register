@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/obliviator123/obliviator123.github.io",
+    "owner": {
+        "username": "obliviator123",
+        "email": "oblivisadev@gmail.com"
+    },
+    "target": {
+        "CNAME": "obliviator123.github.io"
+    }
+}
