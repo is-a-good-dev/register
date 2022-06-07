@@ -8,7 +8,8 @@
     },
     "target": {
         "CNAME": "github-username.github.io"
-    }
+    },
+    "proxied": false
 }
 
 
@@ -26,21 +27,23 @@
         "username": "github-username",
         "email": "your-name-here@domain"
     },
-    "record": {}
+    "target": {
+    },
+    "proxied": false
 }
 
 //RECORD TYPES
 
 //FOR CNAME 
 {
-    "record": {
+    "target": {
         "CNAME": "target-goes-here"
     }
 }
 
 //FOR A 
 {
-    "record":{
+    "target":{
     "A": "ip-goes-here"
     }
 }
