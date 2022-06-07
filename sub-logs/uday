@@ -7,5 +7,5 @@
         "target": {
             "CNAME": "codingwithuday.github.io"
         },
-	    "proxied": false
+	"proxied": false
     }
