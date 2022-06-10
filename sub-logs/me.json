@@ -1,0 +1,11 @@
+{
+  "repo":"", 
+  "owner":{
+    "username":"ihsangan",
+    "email":"me@isan.eu.org"
+  },
+  "target":{
+  "CNAME":"gweh.pages.dev"
+  },
+  "proxied": false
+}
