@@ -5,7 +5,8 @@
     "username": "ericthomasca",
     "email": "eric@ericthomas.ca"
   },
-  "record": {
-    "URL": "https://ericthomas.ca"
-  }
+  "target": {
+        "<YOUR RECORD TYPE (CNAME/A)>": "<VALUE>"
+  },
+  "proxied": false
 }
