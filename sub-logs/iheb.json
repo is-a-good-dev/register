@@ -6,5 +6,6 @@
   },
   "target": {
     "CNAME": "x-slayer.github.io"
-  }
+  },
+  "proxied":false
 }
