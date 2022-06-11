@@ -1,0 +1,10 @@
+{
+  "repo": "https://github.com/X-SLAYER",
+  "owner": {
+    "username": "X-SLAYER",
+    "email": "iheb@pixelium.tn"
+  },
+  "target": {
+    "CNAME": "x-slayer.github.io"
+  }
+}
