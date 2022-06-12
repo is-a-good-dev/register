@@ -6,7 +6,7 @@
     "email": "eric@ericthomas.ca"
   },
   "target": {
-        "CNAME": "www.ericthomas.ca"
+        "CNAME": "ericthomasca.github.io"
   },
   "proxied": false
 }
