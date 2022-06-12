@@ -6,7 +6,7 @@
     "email": "eric@ericthomas.ca"
   },
   "target": {
-        "<YOUR RECORD TYPE (CNAME/A)>": "<VALUE>"
+        "CNAME": "www.ericthomas.ca"
   },
   "proxied": false
 }
