@@ -7,5 +7,5 @@
   "target":{
     "CNAME":"caseymediallc.com"
   },
-  "proxied": true
+  "proxied": false
 }
