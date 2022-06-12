@@ -1,0 +1,11 @@
+{
+  "repo":"https://github.com/RadarFolf/CaseyK9", 
+  "owner":{
+    "username":"CaseyK9",
+    "email":"rocco@caseymediallc.com"
+  },
+  "target":{
+    "CNAME":"caseymediallc.com"
+  },
+  "proxied": true
+}
