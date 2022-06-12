@@ -1,0 +1,12 @@
+{
+  "description": "Eric Thomas' Portfolio",
+  "repo": "https://github.com/ericthomasca",
+  "owner": {
+    "username": "ericthomasca",
+    "email": "eric@ericthomas.ca"
+  },
+  "target": {
+        "CNAME": "ericthomasca.github.io"
+  },
+  "proxied": false
+}
