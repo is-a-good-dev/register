@@ -6,5 +6,6 @@
   },
   "target": {
     "CNAME": "ericthomasca.github.io"
-  }
+  },
+  "proxied": false
 }
