@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "WilliamDavidHarrison",
+        "email": "william@williamharrison.dev"
+    },
+
+    "target": {
+        "CNAME": "edge.redirect.pizza"
+    },
+    "proxied": false
+}
