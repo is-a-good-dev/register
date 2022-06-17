@@ -5,6 +5,6 @@
     },
 
     "target": {
-        "A": "89.106.200.1"
+        "CNAME": "edge.redirect.pizza"
     }
 }
