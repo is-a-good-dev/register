@@ -5,7 +5,7 @@
     "email": "eric@ericthomas.ca"
   },
   "target": {
-    "CNAME": "www.ericthomas.ca"
+    "CNAME": "edge.redirect.pizza."
   },
   "proxied": false
 }
