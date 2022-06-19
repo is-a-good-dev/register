@@ -1,0 +1,11 @@
+{
+  "repo":"https://github.com/AKGaming0001/akgaming0001.github.io", 
+  "owner":{
+    "username":"AKGaming0001",
+    "email":""
+  },
+  "target":{
+  "CNAME":"akgaming0001.github.io"
+  },
+  "proxied": false
+}
