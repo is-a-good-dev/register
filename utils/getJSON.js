@@ -3,7 +3,7 @@ function getFileExtension(filename) {
   return (/[.]/.exec(filename)) ? /[^.]+$/.exec(filename) : undefined;
 }
 function getJSON(file) {
-  const path = `${process.env.actions_path}/sub-logs/${file}`; //json file path
+  const path = `${process.env.actions_path}/${file}`; //json file path
   if (!getFileExtension(file) | getFileExtension(file) != "json") return false; //if no file extension, or file extension is not json, return.
   try {
       if (fs.existsSync(path)) { //check if file exists in domain directory
