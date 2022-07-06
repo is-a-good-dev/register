@@ -26,9 +26,9 @@ jobs:
       with:
         message: | 
           **Validation Results**
-          - Info
+          - Information Validation
           ${{steps.tests.outputs.infoMessage}}
-          - Records
+          - DNS Record Validation
           ${{steps.tests.outputs.recordMessage}}
           
         repo-token: ${{ secrets.GITHUB_TOKEN }}
