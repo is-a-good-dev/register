@@ -6,5 +6,6 @@
    },
    "target":{
      "CNAME":"hosting.gitbook.io"
-    }
+    },
+    "proxied":false
 }

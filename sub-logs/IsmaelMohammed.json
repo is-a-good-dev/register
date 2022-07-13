@@ -6,5 +6,6 @@
    },
    "target":{
      "CNAME":"IsmaelMohammed.github.io"
-    }
+    },
+    "proxied":false
 }

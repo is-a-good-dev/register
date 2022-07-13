@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "hyro.pages.dev"
-    }
+    },
+    "proxied":false
 }

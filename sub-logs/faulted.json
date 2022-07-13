@@ -6,5 +6,6 @@
         },
         "target": {
             "CNAME": "faulteddev.github.io"
-        }
+        },
+        "proxied":false
     }
