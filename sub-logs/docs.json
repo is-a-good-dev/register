@@ -1,11 +1,11 @@
 {
-  "repo":"https://github.com/is-a-good-dev/docs",
-  "owner":{
-    "username":"wclarkey",
-    "email":"will@wclarke.dev"
-   },
-   "target":{
-     "CNAME":"hosting.gitbook.io"
-    },
-    "proxied":false
+  "repo": "https://github.com/is-a-good-dev/docs",
+  "owner": {
+      "username": "is-a-good-dev",
+      "email": "info@wclarke.dev"
+  },
+  "record": {
+    "CNAME": "hosting.gitbook.io"
+  },
+  "proxied":false
 }
