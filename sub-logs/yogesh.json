@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "yogeshseeni.github.io"
-    }
+    },
+    "proxied":false
 }

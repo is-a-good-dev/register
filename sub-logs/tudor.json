@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "artsui.github.io"
-    }
+    },
+    "proxied":false
 }
