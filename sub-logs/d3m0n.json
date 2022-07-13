@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "demonkingswarn.github.io"
-    }
+    },
+    "proxied":false
 }

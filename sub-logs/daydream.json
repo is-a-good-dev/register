@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "daydreamer-231.github.io"
-    }
+    },
+    "proxied":false
 }

@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "connordoesdev.github.io"
-    }
+    },
+    "proxied":false
 }
