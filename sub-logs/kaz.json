@@ -1,0 +1,11 @@
+{
+    "repo": "~",
+    "owner": {
+        "username": "kazz0001",
+        "email": "kaz442197@gmail.com"
+    },
+    "target": {
+        "CNAME": "kazz0001.github.io"
+    },
+    "proxied":false
+}
