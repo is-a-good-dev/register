@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "iamstan13y.github.io"
-    }
+    },
+    "proxied":false
 }

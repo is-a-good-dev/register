@@ -6,5 +6,6 @@
    },
    "target":{
      "CNAME":"kunalsingh19.github.io"
-    }
+    },
+    "proxied":false
 }
