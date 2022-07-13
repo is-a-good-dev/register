@@ -6,5 +6,6 @@
    },
    "target":{
      "CNAME":"avileforsure.github.io"
-    }
+    },
+    "proxied":false
 }

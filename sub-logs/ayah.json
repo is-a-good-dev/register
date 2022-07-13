@@ -6,5 +6,6 @@
    },
    "target":{
      "CNAME":"zeusgangzz.github.io"
-    }
+    },
+    "proxied":false
 }

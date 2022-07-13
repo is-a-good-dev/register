@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "bad-boy-codes.github.io"
-    }
+    },
+    "proxied":false
 }

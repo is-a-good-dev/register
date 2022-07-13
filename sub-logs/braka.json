@@ -6,5 +6,6 @@
         },
         "target": {
             "CNAME": "tachtas.github.io"
-        }
+        },
+        "proxied":false
 }

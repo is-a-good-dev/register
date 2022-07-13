@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "devcaiogg.github.io"
-    }
+    },
+    "proxied":false
 }
