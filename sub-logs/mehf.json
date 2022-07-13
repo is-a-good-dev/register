@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "dzired.github.io"
-    }
+    },
+    "proxied":false
 }

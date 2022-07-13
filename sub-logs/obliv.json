@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "obliviator123.github.io"
-    }
+    },
+    "proxied":false
 }

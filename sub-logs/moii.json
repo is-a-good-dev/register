@@ -6,5 +6,6 @@
         },
         "target": {
             "CNAME": "moii.github.io"
-        }
+        },
+        "proxied":false
     }

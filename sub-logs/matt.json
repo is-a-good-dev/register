@@ -6,5 +6,6 @@
     },
     "record": {
       "CNAME": "dns.talosbot.xyz"
-    }
+    },
+    "proxied":false
 }

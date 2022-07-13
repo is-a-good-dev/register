@@ -6,5 +6,6 @@
     },
     "record": {
       "CNAME": "maaskduck.github.io"
-    }
+    },
+    "proxied":false
 }

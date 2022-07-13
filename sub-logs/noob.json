@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "cancelledcactus.github.io"
-    }
+    },
+    "proxied":false
 }
