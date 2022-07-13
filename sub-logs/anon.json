@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "anondev.up.railway.app"
-    }
+    },
+    "proxied":false
 }
