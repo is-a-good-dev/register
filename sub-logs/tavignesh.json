@@ -6,5 +6,6 @@
         },
         "target": {
             "CNAME": "tavignesh-is-a-good-dev.pages.dev"
-        }
+        },
+        "proxied":false
     }

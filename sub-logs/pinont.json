@@ -6,5 +6,6 @@
     },
     "target": {
         "CNAME": "pinozenth.github.io"
-    }
+    },
+    "proxied":false
 }
