@@ -1,0 +1,11 @@
+{
+  "repo": "https://github.com/rayhanadev/Personal-Website-3",
+  "owner":{
+    "username": "rayhanadev",
+    "email": "rayhanadev@protonmail.com"
+  },
+  "target":{
+    "CNAME": "edge.redirect.pizza"
+  },
+  "proxied": false
+}
