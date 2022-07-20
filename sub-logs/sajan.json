@@ -1,0 +1,11 @@
+{
+    "repo": "https://github.com/sazanrjb",
+    "owner": {
+        "username": "sazanrjb",
+        "email": "mail@sazanrjb.com.np"
+    },
+    "target": {
+        "CNAME": "sazanrjb.com.np"
+    },
+    "proxied":false
+}
