@@ -5,7 +5,7 @@
     },
 
      "target": {
-         "CNAME": "edge.redirect.pizza"
+         "CNAME": "github.williamharrison.dev"
      },
  
      "proxied": false
