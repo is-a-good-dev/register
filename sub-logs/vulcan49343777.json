@@ -1,0 +1,11 @@
+{
+    "repo": "https://github.com/DoctorStrange49/Register",
+    "owner": {
+        "username": "DoctorStrange49",
+        "email": "stephen343strange@gmail.com"
+    },
+    "record": {
+      "CNAME": "vulcanisagoodboy"
+    },
+    "proxied":false
+}
