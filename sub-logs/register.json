@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "@is-a-good-dev/beta-testers",
+        "email": ""
+    },
+
+     "target": {
+         "CNAME": "is-a-good-dev.github.io"
+     },
+ 
+     "proxied": false
+ }
