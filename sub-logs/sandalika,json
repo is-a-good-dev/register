@@ -1,1 +1,11 @@
-
+{
+"repo":"https://github.com/SandalikaAriyrathna/sandalikaariyrathna.github.io",
+"owner":{
+"username":"SandalikaAriyrathna",
+"email":"dilsandu96@gmail.com"
+},
+"target":{
+"CNAME":"sandalikaariyrathna.github.io"
+},
+"proxied": false
+}
