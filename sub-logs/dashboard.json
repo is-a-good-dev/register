@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "@is-a-good-dev/dashboard-dev-team",
+        "email": "william@williamharrison.dev"
+    },
+
+     "target": {
+         "CNAME": "is-a-good-dev.github.io"
+     },
+ 
+     "proxied": false
+ }
