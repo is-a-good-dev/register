@@ -1,4 +1,6 @@
 {
+    "note": "Internal Domain",
+
     "owner": {
         "username": "@is-a-good-dev/dashboard-dev-team",
         "email": "will@is-a-good.dev"
@@ -8,6 +10,5 @@
          "CNAME": "is-a-good-dev.github.io"
      },
  
-     "proxied": false,
-     "notes":"Internal domain"
+     "proxied": false
  }
