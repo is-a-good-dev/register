@@ -5,7 +5,7 @@
             "email": "waffles.30th.email@gmail.com"
         },
         "target": {
-            "CNAME": "wafflecodez.github.io"
+            "CNAME": "dns.tixte.com"
         },
         "proxied":false
     }
