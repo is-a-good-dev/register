@@ -1,0 +1,38 @@
+name: Validation
+on: [pull_request]
+
+jobs:
+  validation:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v23.1
+    - name: Install modules
+      run: yarn
+    - name: Run tests
+      id: tests
+      run: yarn test
+      env:
+        FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+        actions_path: ${{ github.workspace }}
+        email_api_key: ${{ secrets.EMAIL_KEY }}
+    - name: Post message
+      if: always()
+      uses: mshick/add-pr-comment@v1
+      with:
+        message: | 
+          **Validation Results**
+          - Information Validation
+          ${{steps.tests.outputs.infoMessage}}
+          ${{steps.tests.outputs.infoReason}}
+          - DNS Record Validation
+          ${{steps.tests.outputs.recordMessage}}
+          
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token-user-login: 'is-a-good.dev (Validation) [bot]' # The user.login for temporary GitHub tokens
+        allow-repeats: false # This is the default
+    

@@ -1,0 +1,20 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "Tweak4141",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "28.1.1"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.7",
+    "jest": "28.1.1",
+    "@actions/core": "1.9.0"
+  }
+}
