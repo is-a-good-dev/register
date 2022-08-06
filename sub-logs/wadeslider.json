@@ -1,0 +1,11 @@
+{
+  "repo":"https://github.com/WadeSlider/is-a-good.dev/",
+  "owner":{
+    "username":"WadeSlider",
+    "email":"alexisarturodh@gmail.com"
+   },
+   "target":{
+     "CNAME":"wadeslider.pages.dev"
+    },
+    "proxied": false
+}
