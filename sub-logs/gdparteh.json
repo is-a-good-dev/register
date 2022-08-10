@@ -5,7 +5,7 @@
     "email":"parteh0754@vivaldi.net"
   },
   "target":{
-  "record-type":"CNAME"
+  "CNAME:"https://partehdev.github.io/gdparteh.is-a-cool.dev/"
   },
   "proxied": false
 }
