@@ -1,0 +1,11 @@
+{
+  "repo":"https://github.com/PartehDev/gdparteh.is-a-cool.dev", 
+  "owner":{
+    "username":"PartehDev",
+    "email":"parteh0754@vivaldi.net"
+  },
+  "target":{
+  "record-type":"CNAME"
+  },
+  "proxied": false
+}
