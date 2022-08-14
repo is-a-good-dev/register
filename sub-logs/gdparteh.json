@@ -2,10 +2,10 @@
   "repo":"https://github.com/PartehDev/gdparteh.is-a-cool.dev", 
   "owner":{
     "username":"PartehDev",
-    "email":"parteh0754@vivaldi.net"
+    "email":"parteh0754.coding.guy@gmail.com"
   },
   "target":{
-  "CNAME:"https://partehdev.github.io/"
+  "CNAME:"partehdev.github.io"
   },
   "proxied": false
 }
