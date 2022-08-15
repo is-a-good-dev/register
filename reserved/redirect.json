@@ -1,0 +1,11 @@
+{
+    "repo": "~~",
+    "owner": {
+        "username": "is-a-good-dev",
+        "email": "will@is-a-good.dev"
+    },
+    "record": {
+      "A": "52.72.49.79"
+    },
+    "proxied":false
+}

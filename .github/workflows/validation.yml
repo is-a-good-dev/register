@@ -33,6 +33,7 @@ jobs:
           ${{steps.tests.outputs.recordMessage}}
           
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        repo-token-user-login: 'is-a-good.dev (Validation) [bot]' # The user.login for temporary GitHub tokens
+        proxy-url: https://add-pr-comment-proxy-94idvmwyie-uc.a.run.app
+        repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
         allow-repeats: false # This is the default
     
