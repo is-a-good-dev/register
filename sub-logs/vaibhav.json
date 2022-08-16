@@ -1,0 +1,11 @@
+{
+  "repo":"https://github.com/VaibhavSys/VaibhavSys.github.io", 
+  "owner":{
+    "username":"VaibhavSys",
+    "email":"vaibhavsys@protonmail.com"
+  },
+  "target":{
+  "CNAME":"redirect.pizza"
+  },
+  "proxied": false
+}
