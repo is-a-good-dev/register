@@ -1,14 +1,15 @@
-## ***is-a-good-dev***
+## is-a-good-dev
 
 A free subdomain provider for developers around the globe.
  
 **Similar projects include:**
 - [is-a.dev](https://github.com/is-a-dev/register)
-- [js.org](https://github.com/js-org/js.org)
 - [thedev.id](https://github.com/fransallen/thedev.id)
+- [cluster.ws & wip.la](https://github.com/Olivr/free-domain)
+- [js.org](https://github.com/js-org/js.org) (JavaScript projects only)
 
 ### How to get your domain:
-- Fork [this](https://github.com/is-a-good-dev/Register) repository. 
+- [Fork](https://github.com/is-a-good-dev/Register) this repository. 
 - Create a new file under the `sub-logs` directory.
   - Name the file according to the sub-domain name that you would like, for example `will.json`
 
