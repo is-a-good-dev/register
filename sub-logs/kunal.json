@@ -1,11 +1,14 @@
 {
-  "repo": "https://github.com/KunalSingh19",
+  "repo": "https://github.com/KunalSingh19/KunalSingh19.github.io",
+
   "owner": {
     "username": "KunalSingh19",
     "email": "Kunalsingh19yt@gmail.com"
-   },
-   "target": {
-     "CNAME": "kunalsingh19.github.io"
-    },
-    "proxied": false
+  },
+
+  "target": {
+    "CNAME": "kunalsingh19.github.io"
+  },
+
+  "proxied": false
 }

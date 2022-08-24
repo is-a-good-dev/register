@@ -1,11 +1,14 @@
 {
-    "repo": "https://github.com/xHyroM/xHyroM/tree/master/web",
+    "repo": "https://github.com/xHyroM/xHyroM/tree/builded-site",
+
     "owner": {
         "username": "Hyro",
         "email": "generalkubo@gmail.com"
     },
+
     "target": {
         "CNAME": "hyro.pages.dev"
     },
+
     "proxied": false
 }

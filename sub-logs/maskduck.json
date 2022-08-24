@@ -1,11 +1,14 @@
  {
     "repo": "https://github.com/masskducks/maaskduck.github.io",
+
     "owner": {
-        "username": "MaskDuck",
-        "email": "maskduckuwu@gmail.com"
+      "username": "MaskDuck",
+      "email": "maskduckuwu@gmail.com"
     },
+
     "target": {
       "CNAME": "maaskduck.github.io"
     },
+
     "proxied": false
 }

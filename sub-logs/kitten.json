@@ -1,11 +1,14 @@
 {
     "repo": "https://github.com/KittensAreDaBest",
+
     "owner": {
         "username": "KittensAreDaBest",
         "email": "is-a-good-dev@mythicalkitten.com"
     },
+
     "target": {
         "CNAME": "is-a-good-dev.mythicalkitten.com"
     },
+
     "proxied": false
 }

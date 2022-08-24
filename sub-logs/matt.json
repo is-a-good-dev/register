@@ -1,11 +1,14 @@
 {
-    "repo": "https://github.com/Tweak4141",
-    "owner": {
-        "username": "tweak4141",
-        "email": "ynan243@gmail.com"
-    },
-    "target": {
-      "CNAME": "dns.talosbot.xyz"
-    },
-    "proxied": false
+  "repo": "",
+
+  "owner": {
+    "username": "tweak4141",
+    "email": "ynan243@gmail.com"
+  },
+
+  "target": {
+    "CNAME": "dns.talosbot.xyz"
+  },
+
+  "proxied": false
 }

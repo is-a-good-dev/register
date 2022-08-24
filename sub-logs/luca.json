@@ -1,11 +1,14 @@
 {
-    "repo": "https://github.com/lucatolton",
+    "repo": "",
+
     "owner": {
         "username": "lucatolton",
         "email": "hi@lucatolton.me"
     },
+
     "target": {
         "A": "168.119.228.144"
     },
+
     "proxied": false
 }
