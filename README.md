@@ -9,11 +9,11 @@ A free subdomain provider for developers around the globe.
 - [js.org](https://github.com/js-org/js.org) (JavaScript projects only)
 
 ### How to get your domain:
-- [Fork](https://github.com/is-a-good-dev/Register) this repository. 
+- [Fork](https://github.com/is-a-good-dev/register) this repository. 
 - Create a new file under the `sub-logs` directory.
   - Name the file according to the sub-domain name that you would like, for example `will.json`
 
-    *The file path and name should look somewhat similar to this: `sub-logs/example.json`*
+    *The file path and name should look somewhat similar to this: `sub-logs/will.json`*
 - Read the format documentation [here](https://docs.is-a-good.dev/format) to see the format you should be following.
 - Check over your file to make sure that everything looks right.
 - Make your pull request.
