@@ -1,11 +1,11 @@
 {
   "repo":"",
-  "owner":{
-    "username":"SandalikaAriyrathna",
-    "email":"dilsandu96@gmail.com"
+  "owner": {
+    "username": "SandalikaAriyrathna",
+    "email": "dilsandu96@gmail.com"
   },
-  "target":{
-    "CNAME":"sandalikaariyrathna.github.io"
+  "target": {
+    "CNAME": "sandalikaariyrathna.github.io"
   },
   "proxied": false
 }

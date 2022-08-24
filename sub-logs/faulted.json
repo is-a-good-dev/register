@@ -7,5 +7,5 @@
         "target": {
             "CNAME": "faulteddev.github.io"
         },
-        "proxied":false
+        "proxied": false
     }

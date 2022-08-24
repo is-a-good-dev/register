@@ -4,8 +4,8 @@
         "username": "MaskDuck",
         "email": "maskduckuwu@gmail.com"
     },
-    "record": {
+    "target": {
       "CNAME": "maaskduck.github.io"
     },
-    "proxied":false
+    "proxied": false
 }

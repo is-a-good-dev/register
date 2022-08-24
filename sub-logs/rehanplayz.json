@@ -4,8 +4,8 @@
     "username": "RehanPlayz",
     "email": "rehan@rehanplayz.gq"
   },
-  "record": {
-    "A":"198.251.81.131"
+  "target": {
+    "A": "198.251.81.131"
   },
-  "proxied":false
+  "proxied": false
 }

@@ -7,5 +7,5 @@
     "target": {
         "CNAME": "windows-green.github.io"
     },
-    "proxied":false
+    "proxied": false
 }

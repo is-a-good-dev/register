@@ -4,8 +4,8 @@
         "username": "KittensAreDaBest",
         "email": "is-a-good-dev@mythicalkitten.com"
     },
-    "record": {
+    "target": {
         "CNAME": "is-a-good-dev.mythicalkitten.com"
     },
-    "proxied":false
+    "proxied": false
 }

@@ -7,6 +7,6 @@
     "target": {
         "CNAME": "https://crisis-bot.netlify.app/"
     },
-    "proxied":false
+    "proxied": false
 }
 

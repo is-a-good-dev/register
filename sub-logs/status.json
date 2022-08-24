@@ -4,8 +4,8 @@
         "username": "is-a-good-dev",
         "email": "will@is-a-good.dev"
     },
-    "record": {
+    "target": {
       "CNAME": "reports.hetrixtools.com"
     },
-    "proxied":false
+    "proxied": false
 }

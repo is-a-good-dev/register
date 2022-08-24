@@ -4,8 +4,8 @@
       "username": "cannonballchris",
       "email": "cannonballchris8@gmail.com"
   },
-  "record": {
+  "target": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "proxied":false
+  "proxied": false
 }

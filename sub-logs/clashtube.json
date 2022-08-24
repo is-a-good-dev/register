@@ -7,6 +7,6 @@
     "target": {
         "CNAME": "ClashTube.github.io"
     },
-    "proxied":false
+    "proxied": false
 }
 

@@ -5,8 +5,8 @@
     "username": "westhecool",
     "email": "noonehere@null.net"
   },
-  "record": {
+  "target": {
     "CNAME": "cname-alt-mail-server.sv1.wesdns.cf"
   },
-  "proxied":false
+  "proxied": false
 }

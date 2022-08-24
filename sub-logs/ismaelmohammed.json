@@ -1,11 +1,11 @@
 {
   "repo":"https://github.com/is-a-good-dev/docs",
-  "owner":{
-    "username":"IsmaelMohammed",
-    "email":"ismaelmohammed97@gmail.com"
+  "owner": {
+    "username": "IsmaelMohammed",
+    "email": "ismaelmohammed97@gmail.com"
    },
-   "target":{
-     "CNAME":"IsmaelMohammed.github.io"
+   "target": {
+     "CNAME": "IsmaelMohammed.github.io"
     },
-    "proxied":false
+    "proxied": false
 }

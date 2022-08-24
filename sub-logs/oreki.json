@@ -4,8 +4,8 @@
     "username": "Oreki-Dev",
     "email": "oreki@oreki.gq"
   },
-  "record": {
-    "A":"181.214.41.250"
+  "target": {
+    "A": "181.214.41.250"
   },
-  "proxied":false
+  "proxied": false
 }

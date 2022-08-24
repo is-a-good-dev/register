@@ -4,8 +4,8 @@
         "username": "lucatolton",
         "email": "hi@lucatolton.me"
     },
-    "record": {
+    "target": {
         "A": "168.119.228.144"
     },
-    "proxied":false
+    "proxied": false
 }

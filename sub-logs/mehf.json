@@ -7,5 +7,5 @@
     "target": {
         "CNAME": "dzired.github.io"
     },
-    "proxied":false
+    "proxied": false
 }
