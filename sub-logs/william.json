@@ -6,7 +6,7 @@
 
      "target": {
          "CNAME": "edge.redirect.pizza"
-     },
- 
-     "proxied": false
+    },
+
+    "proxied": false
  }

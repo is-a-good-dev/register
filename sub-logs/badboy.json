@@ -4,8 +4,10 @@
         "username": "bad-boy-codes",
         "email": "contact@semant.is-a.dev"
     },
+
     "target": {
         "CNAME": "bad-boy-codes.github.io"
     },
+
     "proxied": false
 }

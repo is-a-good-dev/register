@@ -1,11 +1,12 @@
 {
-  "repo": "",
   "owner": {
     "username": "Oreki-Dev",
     "email": "oreki@oreki.gq"
   },
+
   "target": {
     "A": "181.214.41.250"
   },
+
   "proxied": false
 }

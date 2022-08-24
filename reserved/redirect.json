@@ -1,14 +1,12 @@
 {
-    "repo": "",
+  "owner": {
+    "username": "is-a-good-dev",
+    "email": "will@is-a-good.dev"
+  },
 
-    "owner": {
-        "username": "is-a-good-dev",
-        "email": "will@is-a-good.dev"
-    },
+  "target": {
+    "A": "52.72.49.79"
+  },
 
-    "target": {
-      "A": "52.72.49.79"
-    },
-
-    "proxied": false
+  "proxied": false
 }

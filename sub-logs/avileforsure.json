@@ -1,11 +1,14 @@
 {
   "repo": "https://github.com/AvileForsure/AvileForsure.github.io",
+
   "owner": {
     "username": "AvileForsure",
     "email": "avile333k@protonmail.com"
-   },
-   "target": {
-     "CNAME": "avileforsure.github.io"
-    },
-    "proxied": false
+  },
+
+  "target": {
+    "CNAME": "avileforsure.github.io"
+  },
+
+  "proxied": false
 }
