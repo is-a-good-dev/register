@@ -1,0 +1,11 @@
+{
+  "repo":"https://github.com/MicroBotCodes/website",
+  "owner":{
+    "username":"MicroBotCodes",
+    "email":"vinceayenni@gmail.com"
+   },
+   "target":{
+     "CNAME":"microbot.up.railway.app"
+    },
+    "proxied": false
+}
