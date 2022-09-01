@@ -1,0 +1,11 @@
+{
+  "repo": "https://github.com/vuquangthinh",
+  "owner": {
+    "username": "vuquangthinh",
+    "email": "quangthinh.dev@gmail.com"
+  },
+  "target": {
+    "CNAME": "vuquangthinh.github.io"
+  },
+  "proxied": false
+}
