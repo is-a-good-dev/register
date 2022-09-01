@@ -3,19 +3,14 @@ const core = require('@actions/core');
 
 async function checkEmail(email) {
   console.log(`Checking: ${email}`)
-  const url = `https://email-checker.p.rapidapi.com/verify/v1?email=${encodeURIComponent(email)}`;
+  const url = `http://email-check.ext.talosbot.xyz/index.php?key=${process.env.email_api_key}&email=${encodeURIComponent(email)}`;
   const options = {
-    method: 'GET',
-    headers: {
-      'X-RapidAPI-Key': process.env.email_api_key,
-      'X-RapidAPI-Host': 'email-checker.p.rapidapi.com'
-    }
+    method: 'GET'
   };
   const res = await fetch(url, options).then(res => res.json());
   console.log(res);
   core.setOutput('infoReason', res.reason);
-  if (res.status == "valid" && res.disposable != true) return true;
-  if (res.status == "unknown" && res.disposable != true) return "unknown";
+  if (res.data.valid == true) return true;
   return false;
 }
 
