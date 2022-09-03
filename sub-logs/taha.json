@@ -1,0 +1,11 @@
+{
+    "repo": "https://github.com/taha2002/taha2002.github.io",
+    "owner": {
+        "username": "taha2002",
+        "email": "bouras1920@gmail.com"
+    },
+    "target": {
+        "CNAME": "taha2002.github.io"
+    },
+    "proxied":false
+}
