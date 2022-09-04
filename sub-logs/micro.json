@@ -5,7 +5,7 @@
     "email":"vinceayenni@gmail.com"
    },
    "target":{
-     "CNAME":"microbot.up.railway.app"
+     "CNAME":"edge.redirect.pizza"
     },
     "proxied": false
 }
