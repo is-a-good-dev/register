@@ -1,0 +1,12 @@
+
+{
+  "repo":"https://github.com/LxaNce-Hacker/LxaNce-Hacker.github.io",
+  "owner":{
+    "username":"LxaNce-Hacker",
+    "email":"princekatiyar4404@gmail.com"
+   },
+   "target":{
+     "CNAME":"lxance-hacker.github.io"
+    },
+    "proxied":false
+}
