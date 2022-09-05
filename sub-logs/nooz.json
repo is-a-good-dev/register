@@ -1,0 +1,11 @@
+{
+  "repo": "https://github.com/NoozSBC/portfolio/",
+  "owner": {
+    "username": "NoozSBC",
+    "email": "zhengm58@gmail.com"
+  },
+  "target": {
+    "CNAME": "noozsbc.github.io"
+  },
+  "proxied": false
+}

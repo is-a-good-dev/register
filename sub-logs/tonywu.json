@@ -1,0 +1,15 @@
+{
+  "repo": "https://github.com/vuquangthinh",
+  "owner": {
+    "username": "vuquangthinh",
+    "email": "quangthinh.dev@gmail.com"
+  },
+  "target": {
+    "CNAME": "vuquangthinh.github.io",
+    "TXT": {
+      "name": "_github-pages-challenge-vuquangthinh.tonywu",
+      "value": "0b9dc3e2752d1dc520c401ce8b7557"
+    }
+  },
+  "proxied": true
+}
