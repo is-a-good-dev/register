@@ -7,5 +7,5 @@
   "target": {
     "CNAME": "vuquangthinh.github.io"
   },
-  "proxied": false
+  "proxied": true
 }
