@@ -7,5 +7,5 @@
     "target": {
         "CNAME": "artsui.github.io"
     },
-    "proxied":false
+    "proxied": false
 }

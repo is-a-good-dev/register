@@ -1,11 +1,14 @@
 {
   "repo": "https://github.com/ericthomasca/ericthomasca.github.io",
+
   "owner": {
     "username": "ericthomasca",
     "email": "eric@ericthomas.ca"
   },
+
   "target": {
     "CNAME": "edge.redirect.pizza"
   },
+
   "proxied": false
 }

@@ -1,11 +1,14 @@
 {
     "repo": "https://github.com/DevCaioGG/DevCaioGG.github.io",
+
     "owner": {
         "username": "DevCaioGG",
         "email": "devcaiogg@gmail.com"
     },
+
     "target": {
         "CNAME": "devcaiogg.github.io"
     },
-    "proxied":false
+
+    "proxied": false
 }

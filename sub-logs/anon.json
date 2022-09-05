@@ -1,11 +1,14 @@
 {
     "repo": "https://github.com/anondev-sudo/anondev-sudo",
+
     "owner": {
         "username": "anondev-sudo",
         "email": "contact@anonym-dev.tk"
     },
+
     "target": {
         "CNAME": "anondev.up.railway.app"
     },
-    "proxied":false
+
+    "proxied": false
 }

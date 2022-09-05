@@ -4,8 +4,8 @@
         "username": "NotKaskus",
         "email": "kaskus45@proton.me"
     },
-    "record": {
+    "target": {
       "A": "192.95.42.75"
     },
-    "proxied":false
+    "proxied": false
 }

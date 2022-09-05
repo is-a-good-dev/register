@@ -7,5 +7,5 @@
     "target": {
         "CNAME": "idevmc.github.io"
     },
-    "proxied":false
+    "proxied": false
 }

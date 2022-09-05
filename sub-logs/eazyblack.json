@@ -1,11 +1,14 @@
 {
   "repo": "https://github.com/EAZYBLACK2/eazyblack2.github.io",
+
   "owner": {
     "username": "eazyblack2",
     "email": "eazywhite40@gmail.com"
   },
+
   "target": {
-    "CNAME":"eazyblack2.github.io"
+    "CNAME": "eazyblack2.github.io"
   },
+
   "proxied": false
 }

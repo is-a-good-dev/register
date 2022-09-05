@@ -1,11 +1,14 @@
 {
-  "repo":"", 
-  "owner":{
-    "username":"anyalol",
-    "email":"anyalollipop@proton.me"
+  "repo": "",
+
+  "owner": {
+    "username": "anyalol",
+    "email": "anyalollipop@proton.me"
   },
-  "target":{
-    "A":"87.98.164.155"
+
+  "target": {
+    "A": "87.98.164.155"
   },
+
   "proxied": false
 }

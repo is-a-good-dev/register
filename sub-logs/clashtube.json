@@ -1,12 +1,14 @@
 {
     "repo": "https://github.com/ViPSeCuRe-github/ClashTube.github.io",
+
     "owner": {
         "username": "ViPSeCuRe-github",
         "email": "imthiyazcps@gmail.com"
     },
+
     "target": {
         "CNAME": "ClashTube.github.io"
     },
-    "proxied":false
-}
 
+    "proxied": false
+}

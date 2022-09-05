@@ -1,11 +1,11 @@
 {
-  "repo":"https://github.com/TCODEDAO/thanhdev-html-css-portfolio",
-  "owner":{
-    "username":"TCODEDAO",
-    "email":"thanhguitar282@gmail.com"
+  "repo": "https://github.com/TCODEDAO/thanhdev-html-css-portfolio",
+  "owner": {
+    "username": "TCODEDAO",
+    "email": "thanhguitar282@gmail.com"
    },
-   "target":{
-     "CNAME":"tcodedao.github.io"
+   "target": {
+     "CNAME": "tcodedao.github.io"
     },
-    "proxied":false
+    "proxied": false
 }

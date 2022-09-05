@@ -1,12 +1,15 @@
 {
     "repo": "https://github.com/is-a-good-dev/dashboard",
+
     "owner": {
-        "username": "is-a-good-dev",
-        "email": "will@is-a-good.dev"
+      "username": "is-a-good-dev",
+      "email": "will@is-a-good.dev"
     },
-    "record": {
+
+    "target": {
       "CNAME": "is-a-good-dev.github.io"
     },
-    "proxied":false
+
+    "proxied": false
 }
   
