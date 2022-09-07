@@ -33,6 +33,7 @@ jobs:
           ${{steps.tests.outputs.recordMessage}}
           
         repo-token: ${{ secrets.GITHUB_TOKEN }}
+        proxy-url: https://github-workflow-pr.ext.talosbot.xyz
         repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
         allow-repeats: false # This is the default
     
