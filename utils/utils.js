@@ -7,7 +7,7 @@ module.exports.checkIfValidIP = function(str) {
 
 module.exports.checkIfValidFQDN = function(str) {
   // Regular expression to check if string is a FQDN
-  const regexExp = /^(?!:\/\/)([a-zA-Z0-9-_]+\.)?[a-zA-Z0-9][a-zA-Z0-9-]+\.[a-zA-Z]{2,63}?$/gi
+  const regexExp = /(?=^.{4,253}$)(^((?!-)[a-zA-Z0-9-]{0,62}[a-zA-Z0-9]\.)+[a-zA-Z]{2,63}$)/gi
 
   return regexExp.test(str);
 };
