@@ -1,0 +1,11 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "kareem-g",
+    "email": "kareemgameel2051@gmail.com"
+  },
+  "target": {
+    "record-type": "kareemgameel.vercel.app"
+  },
+  "proxied": false
+}
