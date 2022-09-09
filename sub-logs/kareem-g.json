@@ -5,7 +5,7 @@
     "email": "kareemgameel2051@gmail.com"
   },
   "target": {
-    "record-type": "kareemgameel.vercel.app"
+    "record-type": "CNAME"
   },
   "proxied": false
 }
