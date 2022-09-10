@@ -5,7 +5,7 @@
     "email": "kareemgameel2051@gmail.com"
   },
   "target": {
-    "record-type": "edge.redirect.pizza"
+    "CNAME": "edge.redirect.pizza"
   },
   "proxied": false
 }
