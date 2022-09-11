@@ -5,7 +5,11 @@
     "email": "kareemgameel2051@gmail.com"
   },
   "target": {
-    "CNAME": "kareem-g.github.io"
+    "CNAME": "cname.vercel-dns.com"
+     "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=kareem-g.is-a-good.dev,65837be412394e41da4c"
+    }
   },
   "proxied": false
 }
