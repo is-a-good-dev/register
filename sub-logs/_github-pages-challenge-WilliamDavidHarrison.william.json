@@ -1,0 +1,12 @@
+{
+    "description": "GitHub Pages verification for william.is-a-good.dev",
+
+    "owner": {
+        "username": "WilliamDavidHarrison",
+        "email": "william@williamharrison.dev"
+    },
+
+     "target": {
+         "TXT": "0e15e427740cbd1b900b9abff27010"
+    }
+}
