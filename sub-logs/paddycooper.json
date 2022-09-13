@@ -1,0 +1,11 @@
+{
+  "repo": "https://github.com/paddycooper08/portfolio",
+  "owner": {
+    "username": "paddycooper08",
+    "email": "onslowpaddy@duck.com"
+   },
+   "target": {
+     "CNAME": "paddycooper.vercel.app"
+    },
+    "proxied": false
+}
