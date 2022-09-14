@@ -4,8 +4,9 @@
     "email": "aceygoesboom@gmail.com"
   },
 
-  "target": {
-    "CNAME": "cname.vercel-dns.com"
+  "CNAME": {
+    "name": "acey",
+    "value": "cname.vercel-dns.com"
   },
 
   "proxied": false
