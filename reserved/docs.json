@@ -6,8 +6,9 @@
       "email": "will@is-a-good.dev"
     },
 
-    "target": {
-      "CNAME": "hosting.gitbook.io"
+    "CNAME": {
+      "name": "docs",
+      "value": "hosting.gitbook.io"
     },
 
     "proxied": false
