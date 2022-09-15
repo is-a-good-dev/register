@@ -4,14 +4,12 @@
         "email": "william@williamharrison.dev"
     },
 
-     "target": {
-         "CNAME": "edge.redirect.pizza",
-
-         "TXT": {
-            "name": "_github-pages-challenge-WilliamDavidHarrison.william",
-            "value": "0e15e427740cbd1b900b9abff27010"
-         }
+    "target": {
+        "CNAME": {
+           "name": "william", 
+           "value": "edge.redirect.pizza"
+        }
     },
 
     "proxied": false
- }
+}
