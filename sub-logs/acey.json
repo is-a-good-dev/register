@@ -3,12 +3,12 @@
     "username": "AceyDoCodes",
     "email": "aceygoesboom@gmail.com"
   },
-  
+
   "target": {
     "CNAME": {
-       "name": "acey", 
-       "value": "cname.vercel-dns.com"
-     }
+      "name": "acey", 
+      "value": "cname.vercel-dns.com"
+    }
   },
 
   "proxied": false

@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/AvileForsure/AvileForsure.github.io",
+  "repo": "https://github.com/avileforsure/avileforsure.github.io",
 
   "owner": {
     "username": "AvileForsure",
@@ -7,7 +7,10 @@
   },
 
   "target": {
-    "CNAME": "avileforsure.github.io"
+    "CNAME": {
+      "name": "avileforsure",
+      "value": "avileforsure.github.io"
+    }
   },
 
   "proxied": false
