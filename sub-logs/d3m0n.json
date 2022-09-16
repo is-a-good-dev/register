@@ -7,7 +7,10 @@
     },
 
     "target": {
-        "CNAME": "demonkingswarn.github.io"
+        "CNAME": {
+            "name": "d3m0n",
+            "value": "demonkingswarn.github.io"
+        }
     },
 
     "proxied": false

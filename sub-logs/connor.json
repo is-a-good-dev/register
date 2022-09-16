@@ -1,5 +1,5 @@
 {
-    "repo": "https://github.com/ConnorDoesDev/connordoesdev.github.io",
+    "repo": "https://github.com/connordoesdev/connordoesdev.github.io",
 
     "owner": {
         "username": "ConnorDoesDev",
@@ -7,7 +7,10 @@
     },
 
     "target": {
-        "CNAME": "connordoesdev.github.io"
+        "CNAME":  {
+          "name": "connor",
+          "value": "connordoesdev.github.io"
+        }
     },
 
     "proxied": false

@@ -7,7 +7,10 @@
   },
 
   "target": {
-    "CNAME": "edge.redirect.pizza"
+    "CNAME": {
+      "name": "eric",
+      "value": "edge.redirect.pizza"
+    }
   },
 
   "proxied": false

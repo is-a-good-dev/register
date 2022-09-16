@@ -1,4 +1,3 @@
-
 {
     "repo": "https://github.com/ekanshmtardeja/ekanshtardeja",
 
@@ -8,7 +7,10 @@
     },
 
     "target": {
-        "CNAME": "ekanshmtardeja.github.io"
+        "CNAME": {
+            "name": "ekanshtardeja",
+            "value": "ekanshtardeja.github.io"
+        }
     },
 
     "proxied": false

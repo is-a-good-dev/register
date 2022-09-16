@@ -1,5 +1,5 @@
 {
-    "repo": "https://github.com/Bad-Boy-Codes/my-web",
+    "repo": "https://github.com/bad-boy-codes/my-web",
 
     "owner": {
         "username": "bad-boy-codes",
@@ -7,7 +7,10 @@
     },
 
     "target": {
-        "CNAME": "bad-boy-codes.github.io"
+        "CNAME": {
+            "name": "badboy",
+            "value": "bad-boy-codes.github.io"
+        }
     },
 
     "proxied": false

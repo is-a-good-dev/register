@@ -1,5 +1,5 @@
 {
-    "repo": "https://github.com/ViPSeCuRe-github/ClashTube.github.io",
+    "repo": "https://github.com/vipsecure-github/clashtube.github.io",
 
     "owner": {
         "username": "ViPSeCuRe-github",
@@ -7,7 +7,10 @@
     },
 
     "target": {
-        "CNAME": "ClashTube.github.io"
+        "CNAME": {
+            "name": "clashtube",
+            "value": "clashtube.github.io"
+        }
     },
 
     "proxied": false
