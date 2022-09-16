@@ -7,7 +7,10 @@
     },
 
     "target": {
-        "CNAME": "daydreamer-231.github.io"
+        "CNAME": {
+            "name": "daydream",
+            "value": "daydreamer-231.github.io"
+        }
     },
 
     "proxied": false

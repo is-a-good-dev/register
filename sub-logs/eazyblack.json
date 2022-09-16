@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/EAZYBLACK2/eazyblack2.github.io",
+  "repo": "https://github.com/eazyblack2/eazyblack2.github.io",
 
   "owner": {
     "username": "eazyblack2",
@@ -7,7 +7,10 @@
   },
 
   "target": {
-    "CNAME": "eazyblack2.github.io"
+    "CNAME": {
+      "name": "eazyblack",
+      "value": "eazyblack2.github.io"
+    }
   },
 
   "proxied": false
