@@ -5,7 +5,10 @@
   },
 
   "target": {
-    "CNAME": "cname.vercel-dns.com",
+    "CNAME": {
+      "name": "kareem-g",
+      "value": "cname.vercel-dns.com"
+    },
 
     "TXT": {
       "name": "_vercel",

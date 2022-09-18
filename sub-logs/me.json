@@ -5,7 +5,10 @@
   },
 
   "target": {
-    "CNAME": "gweh.pages.dev"
+    "CNAME": {
+      "name": "me",
+      "value": "gweh.pages.dev"
+    }
   },
 
   "proxied": false

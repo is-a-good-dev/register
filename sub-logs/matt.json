@@ -5,7 +5,10 @@
   },
 
   "target": {
-    "CNAME": "dns.talosbot.xyz"
+    "CNAME": {
+      "name": "matt",
+      "value": "dns.talosbot.xyz"
+    }
   },
 
   "proxied": false
