@@ -1,11 +1,15 @@
 {
-    "repo": "https://github.com/NotKaskus",
-    "owner": {
-        "username": "NotKaskus",
-        "email": "kaskus45@proton.me"
-    },
-    "target": {
-      "A": "192.95.42.75"
-    },
-    "proxied": false
+  "owner": {
+    "username": "NotKaskus",
+    "email": "kaskus45@proton.me"
+  },
+
+  "target": {
+    "A": {
+      "name": "paul",
+      "value": "192.95.42.75"
+    }
+  },
+
+  "proxied": false
 }

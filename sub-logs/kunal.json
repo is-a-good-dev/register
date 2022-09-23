@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/KunalSingh19/KunalSingh19.github.io",
+  "repo": "https://github.com/kunalsingh19/kunalsingh19.github.io",
 
   "owner": {
     "username": "KunalSingh19",
@@ -7,7 +7,10 @@
   },
 
   "target": {
-    "CNAME": "kunalsingh19.github.io"
+    "CNAME": {
+      "name": "kunal",
+      "value": "kunalsingh19.github.io"
+    }
   },
 
   "proxied": false

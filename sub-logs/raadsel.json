@@ -1,11 +1,17 @@
 {
-  "repo": "https://replit.com/@Raadsel/Website?v=1",
+  "repo": "https://replit.com/@raadsel/Website?v=1",
+
   "owner": {
     "username": "Raadsl",
     "email": "jorik.loos@gmail.com"
   },
+
   "target": {
-    "CNAME": "5895b253-7316-4557-b4fb-f3a24165a4ae.id.repl.co"
+    "CNAME": {
+      "name": "raadsel",
+      "value": "5895b253-7316-4557-b4fb-f3a24165a4ae.id.repl.co"
+    }
   },
+
   "proxied": false
 }

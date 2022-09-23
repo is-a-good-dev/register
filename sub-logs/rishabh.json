@@ -1,11 +1,16 @@
 {
+  "repo": "https://github.com/sudo-Mystic/developerfolio",
+
   "owner": {
     "username": "sudo-Mystic",
     "email": "mrmysticuniverse@gmail.com"
   },
 
   "target": {
-    "CNAME": "rishabhbohra.tk"
+    "CNAME": {
+      "name": "rishabh",
+      "value": "rishabhisdumb.netlify.app"
+    }
   },
 
   "proxied": false

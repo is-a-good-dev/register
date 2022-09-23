@@ -1,11 +1,17 @@
 {
-    "repo": "https://github.com/YogeshSeeni/yogeshseeni.github.io",
+    "repo": "https://github.com/yogeshseeni/yogeshseeni.github.io",
+
     "owner": {
         "username": "YogeshSeeni",
         "email": "yogeshseeni60@gmail.com"
     },
+
     "target": {
-        "CNAME": "yogeshseeni.github.io"
+        "CNAME": {
+            "name": "yogesh",
+            "value": "yogeshseeni.github.io"
+        }
     },
+
     "proxied": false
 }

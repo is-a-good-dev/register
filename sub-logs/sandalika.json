@@ -5,7 +5,10 @@
   },
 
   "target": {
-    "CNAME": "sandalikaariyrathna.github.io"
+    "CNAME": {
+      "name": "sandalika",
+      "value": "sandalikaariyrathna.github.io"
+    }
   },
 
   "proxied": false

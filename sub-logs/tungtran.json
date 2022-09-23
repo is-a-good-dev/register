@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/tunganhtran/introduction-myself",
+  "repo": "https://github.com/tunganhtran/tunganhtran.github.io",
 
   "owner": {
     "username": "tunganhtran",
@@ -7,7 +7,10 @@
   },
 
   "target": {
-    "CNAME": "tunganhtran.github.io"
+    "CNAME": {
+      "name": "tungtran",
+      "value": "tunganhtran.github.io"
+    }
   },
 
   "proxied": false

@@ -1,11 +1,17 @@
-    {
-        "repo": "https://github.com/codingwithuday/codingwithuday.github.io",
-        "owner": {
-            "username": "codingwithuday",
-            "email": "contact.coderuday@gmail.com"
-        },
-        "target": {
-            "CNAME": "codingwithuday.github.io"
-        },
-	    "proxied": false
-    }
+{
+    "repo": "https://github.com/codingwithuday/codingwithuday.github.io",
+
+    "owner": {
+        "username": "codingwithuday",
+        "email": "contact.coderuday@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "uday",
+            "value": "codingwithuday.github.io"
+        }
+    },
+
+    "proxied": false
+}

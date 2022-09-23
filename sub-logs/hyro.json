@@ -1,13 +1,16 @@
 {
-    "repo": "https://github.com/xHyroM/xHyroM/tree/builded-site",
+    "repo": "https://github.com/xhyrom/xhyrom/tree/builded-site",
 
     "owner": {
-        "username": "Hyro",
+        "username": "xHyroM",
         "email": "generalkubo@gmail.com"
     },
 
     "target": {
-        "CNAME": "hyro.pages.dev"
+        "CNAME": {
+            "name": "hyro",
+            "value": "hyro.pages.dev"
+        }
     },
 
     "proxied": false

@@ -5,7 +5,10 @@
   },
 
   "target": {
-    "A": "52.72.49.79"
+    "A": {
+      "name": "redirect",
+      "value": "52.72.49.79"
+    }
   },
 
   "proxied": false

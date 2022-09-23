@@ -1,5 +1,5 @@
 {
-    "repo": "https://github.com/WaffleCodez/wafflecodez.github.io",
+    "repo": "https://github.com/wafflecodez/wafflecodez.github.io",
 
     "owner": {
         "username": "WaffleCodez",
@@ -7,7 +7,10 @@
     },
 
     "target": {
-        "CNAME": "dns.tixte.com",
+        "CNAME": {
+            "name": "kamino",
+            "value": "dns.tixte.com"
+        },
 
         "TXT": {
             "name": "_tixte-challenge",
@@ -15,5 +18,5 @@
         }   
     },
 
-    "proxied":true
+    "proxied": true
 }

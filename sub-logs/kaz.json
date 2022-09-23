@@ -7,7 +7,10 @@
     },
 
     "target": {
-        "CNAME": "kazz0001.github.io"
+        "CNAME": {
+            "name": "kaz",
+            "value": "kazz0001.github.io"
+        }
     },
 
     "proxied": false

@@ -5,7 +5,10 @@
   },
 
   "target": {
-    "CNAME": "ismaelmohammed.github.io"
+    "CNAME": {
+      "name": "ismaelmohammed",
+      "value": "ismaelmohammed.github.io"
+    }
   },
 
   "proxied": false
