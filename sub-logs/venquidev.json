@@ -1,11 +1,15 @@
 {
-  "repo": "https://github.com/venquidev/is-a-good-dev", 
   "owner": {
     "username": "venquidev",
     "email": "edwinrey5211@gmail.com"
   },
+
   "target": {
-  "CNAME": "venquidev.pages.dev"
+    "CNAME": {
+      "name": "venquidev",
+      "value": "venquidev.pages.dev"
+    }
   },
+
   "proxied": false
 }

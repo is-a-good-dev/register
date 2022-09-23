@@ -5,7 +5,10 @@
   },
 
   "target": {
-    "CNAME": "DoctorStrange49.gitbook.io"
+    "CNAME": {
+      "name": "vulcan49343777",
+      "value": "doctorstrange49.gitbook.io"
+    }
   },
 
   "proxied": false

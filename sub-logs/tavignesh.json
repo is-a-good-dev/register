@@ -1,11 +1,15 @@
-    {
-        "repo": "https://github.com/tavignesh",
-        "owner": {
-            "username": "tavignesh",
-            "email": "tavignesh2004@gmail.com"
-        },
-        "target": {
-            "CNAME": "tavignesh-is-a-good-dev.pages.dev"
-        },
-        "proxied": false
-    }
+{
+    "owner": {
+        "username": "tavignesh",
+        "email": "tavignesh2004@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "tavignesh",
+            "value": "tavignesh-is-a-good-dev.pages.dev"
+        }
+    },
+
+    "proxied": false
+}

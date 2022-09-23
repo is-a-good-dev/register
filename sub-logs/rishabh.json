@@ -5,7 +5,10 @@
   },
 
   "target": {
-    "CNAME": "rishabhbohra.tk"
+    "CNAME": {
+      "name": "rishabh",
+      "value": "rishabhbohra.tk"
+    }
   },
 
   "proxied": false

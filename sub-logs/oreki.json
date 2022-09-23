@@ -3,8 +3,13 @@
     "username": "Oreki-Dev",
     "email": "orekidev@gmail.com"
   },
+
   "target": {
-    "A": "164.132.74.251"
+    "A": {
+      "name": "oreki",
+      "value": "164.132.74.251"
+    }
   },
+
   "proxied": false
 }

@@ -1,11 +1,17 @@
 {
-  "repo": "https://github.com/VaibhavSys/VaibhavSys.github.io", 
+  "repo": "https://github.com/vaibhavsys/vaibhavsys.github.io",
+
   "owner": {
     "username": "VaibhavSys",
     "email": "vaibhavsys@protonmail.com"
   },
+
   "target": {
-  "CNAME": "edge.redirect.pizza"
+    "CNAME": {
+      "name": "vaibhav",
+      "value": "edge.redirect.pizza"
+    }
   },
+
   "proxied": false
 }

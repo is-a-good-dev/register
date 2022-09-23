@@ -1,11 +1,15 @@
 {
-    "repo": "~",
-    "owner": {
-        "username": "is-a-good-dev",
-        "email": "will@is-a-good.dev"
-    },
-    "target": {
-      "CNAME": "reports.hetrixtools.com"
-    },
-    "proxied": false
+  "owner": {
+    "username": "is-a-good-dev",
+    "email": "will@is-a-good.dev"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "status",
+      "value": "reports.hetrixtools.com"
+    }
+  },
+
+  "proxied": false
 }

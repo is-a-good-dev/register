@@ -1,9 +1,15 @@
 {
-	"repo": "https://github.com/TianTcl/TianTcl",
 	"owner": {
 		"username": "TianTcl",
 		"email": "tclwebguest@gmail.com"
-	}, "target": {
-		"CNAME": "info.TianTcl.net"
-	}, "proxied": false
+	},
+
+	"target": {
+		"CNAME": {
+			"name": "tiantcl",
+			"value": "info.tiantcl.net"
+		}
+	},
+
+	"proxied": false
 }
