@@ -1,13 +1,12 @@
 {
-  "repo": "https://github.com/AkumaX1/myosmosfeed",
   "owner": {
     "username": "AkumaX1",
     "email": "tso1578q@duck.com"
    },
    "target": {
     "CNAME": {
-       "name": "rss", 
-       "value": "akumax1.github.io/myosmosfeed/"
+       "name": "hi", 
+       "value": "akumax1.github.io"
      }
     },
     "proxied": true
