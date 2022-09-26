@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/gilanq/GilangDoCode",
+
+    "owner": {
+        "username": "gilanq",
+        "email": "2005pgrm@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "gilanq",
+            "value": "gilanq.github.io"
+        }
+    },
+
+    "proxied": false
+}
