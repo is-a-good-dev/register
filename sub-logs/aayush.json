@@ -1,15 +1,14 @@
 {
-  "repo": "https://opaayush.pages.dev",
+  "repo": "opayush.pages.dev",
   "owner": {
     "username": "OpAayush",
     "email": "aayushmagrawal@gmail.com"
-    "discord": "Aayu5h#1737"
-   },
-   "target": {
-    "CNAME": {
-       "name": "Aayush", 
+  },
+  "target": {
+    "record-type": {
+       "name": "aayush", 
        "value": "opaayush.pages.dev"
      }
-    },
-    "proxied": false
+  },
+  "proxied": false
 }
