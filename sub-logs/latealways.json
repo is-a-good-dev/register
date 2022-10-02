@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/LateAlways/register",
+  "owner": {
+    "username": "LateAlways",
+    "email": "javiparedes08@outlook.com"
+  },
+  "target": {
+    "CNAME": {
+       "name": "latealways", 
+       "value": "vmi1009518.contaboserver.net"
+     }
+  },
+  "proxied": true
+}
