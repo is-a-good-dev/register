@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "Thunder01",
+    "email": "amazonkosam221@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "Raja",
+      "value": "43.204.88.80"
+    }
+  },
+
+  "proxied": false
+}
