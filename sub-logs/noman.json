@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/Noman5237/Portfolio",
+
+    "owner": {
+        "username": "Noman5237",
+        "email": "anonyman637@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "noman",
+            "value": "porfolio-noman.netlify.app"
+        }
+    },
+
+    "proxied": false
+}
