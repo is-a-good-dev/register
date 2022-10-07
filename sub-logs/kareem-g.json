@@ -7,13 +7,8 @@
   "target": {
     "CNAME": {
       "name": "kareem-g",
-      "value": "cname.vercel-dns.com"
+      "value": "kareemgameel-blog-production.up.railway.app"
     },
-
-    "TXT": {
-      "name": "_vercel.kareem-g",
-      "value": "vc-domain-verify=kareem-g.is-a-good.dev,65837be412394e41da4c"
-    }
   },
 
   "proxied": false
