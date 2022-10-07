@@ -1,0 +1,21 @@
+{
+	"website": "https://opaayush.pages.dev",
+
+	"owner": {
+		"username": "OpAayush",
+		"email": "aayushmagrawal@gmail.com"
+	},
+
+	"target": {
+		"CNAME": {
+			"name": "aayush",
+			"value": "opaayush.pages.dev"
+		},
+		"TXT": {
+			"name": "_github-pages-challenge-OpAayush",
+			"value": "d9cdcc62ad8d21a614cf615bc2535b"
+		}
+	},
+
+	"proxied": false
+}
