@@ -19,7 +19,6 @@ jobs:
       env:
         FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         actions_path: ${{ github.workspace }}
-        email_api_key: ${{ secrets.EMAIL_KEY }}
   #  - name: Post message
    #   if: always()
    #   uses: mshick/add-pr-comment@v1
