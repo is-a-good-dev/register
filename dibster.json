@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "DIBSTERYT",
+    "email": "hello@dibster-is-a.engineer"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "dibster", 
+       "value": "canada.proxy.dibster.live"
+     }
+  },
+
+  "proxied": false
+}
