@@ -8,7 +8,7 @@
     "CNAME": {
       "name": "kareem-g",
       "value": "kareemgameel-blog-production.up.railway.app"
-    },
+    }
   },
 
   "proxied": false
