@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/xMefy/bob05.github.io",
+
+  "owner": {
+    "username": "xMefy",
+    "email": "mefyyy.official@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "xxbob05xx", 
+       "value": "https://xmefy.github.io/bob05.github.io/"
+     }
+  },
+
+  "proxied": false
+}
