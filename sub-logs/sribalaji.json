@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/iamthecloverly/iamthecloverly.github.io",
+
+  "owner": {
+    "username": "iamthecloverly",
+    "email": "iam.thecloverly@pm.me"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "sribalaji", 
+       "value": "https://iamthecloverly-github-io-sribalaji.vercel.app"
+     }
+  },
+
+  "proxied": false
+}
