@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Hyeonjinkk/Hyeonjinkk.github.io",
+
+  "owner": {
+    "username": "Hyeonjinkk",
+    "email": "guswls0975@naver.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "Hyeonjinkk", 
+      "value": "Hyeonjinkk.github.io"
+    }
+  },
+
+  "proxied": false
+}
