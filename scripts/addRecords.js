@@ -16,7 +16,7 @@ async function addRecord(type, name, value) {
           recordType = records[i]
           name = data.target[recordType].name;
           value = data.target[recordType].value;
-          const result = await addRecord(type, name, value);
+          const result = await addRecord(recordType, name, value);
           console.log(result);
         }
     } catch (e) {
