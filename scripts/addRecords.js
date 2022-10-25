@@ -11,6 +11,7 @@ async function addRecord(type, name, value) {
 
 (async () => {
     try {
+        if (!data) return
         const records = Object.keys(data.target)
         for (const i in records) {
           recordType = records[i]
