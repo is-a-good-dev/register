@@ -16,10 +16,10 @@ jobs:
           sub-logs/**
           reserved/**
     - name: Install modules
-      if: steps.changed-files-specific.outputs.any_changed == 'true'
+      if: steps.changed-files.outputs.any_changed == 'true'
       run: yarn
     - name: Run tests
-      if: steps.changed-files-specific.outputs.any_changed == 'true'
+      if: steps.changed-files.outputs.any_changed == 'true'
       id: tests
       run: yarn test
       env:
