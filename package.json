@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "add-records": "node ./scripts/addRecords.js"
   },
   "keywords": [],
   "author": "Tweak4141",
