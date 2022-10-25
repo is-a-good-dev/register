@@ -28,5 +28,6 @@ jobs:
       id: tests
       run: yarn add-records
       env:
+        API_KEY: ${{ secrets.API_KEY }}
         FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         actions_path: ${{ github.workspace }}
