@@ -10,10 +10,16 @@ jobs:
         fetch-depth: 0
     - name: Get changed files
       id: changed-files
-      uses: tj-actions/changed-files@v32
+      uses: tj-actions/changed-files@v34
+      with:
+        files: |
+          sub-logs/**
+          reserved/**
     - name: Install modules
+      if: steps.changed-files.outputs.any_changed == 'true'
       run: yarn
     - name: Run tests
+      if: steps.changed-files.outputs.any_changed == 'true'
       id: tests
       run: yarn test
       env:

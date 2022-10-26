@@ -1,0 +1,33 @@
+name: Add DNS records
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  validation:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v34
+      with:
+        files: |
+          sub-logs/**
+          reserved/**
+    - name: Install modules
+      if: steps.changed-files.outputs.any_changed == 'true'
+      run: yarn
+    - name: Add records
+      if: steps.changed-files.outputs.any_changed == 'true'
+      id: tests
+      run: yarn add-records
+      env:
+        API_KEY: ${{ secrets.API_KEY }}
+        FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+        actions_path: ${{ github.workspace }}

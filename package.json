@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "add-records": "node ./scripts/addRecords.js"
   },
   "keywords": [],
   "author": "Tweak4141",
@@ -13,7 +14,7 @@
     "jest": "28.1.1"
   },
   "dependencies": {
-    "node-fetch": "2.6.7",
+    "node-fetch": "^2.6.7",
     "jest": "28.1.1",
     "@actions/core": "1.9.0"
   }
