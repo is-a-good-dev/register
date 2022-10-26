@@ -8,6 +8,11 @@
         "CNAME": {
            "name": "william", 
            "value": "edge.redirect.pizza"
+        },
+
+        "TXT": {
+            "name": "_github-pages-challenge-WilliamDavidHarrison.william",
+            "value": "7b010fb48fc08e37a020c0090120ce"
         }
     },
 
