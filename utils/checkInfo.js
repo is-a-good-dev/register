@@ -3,7 +3,7 @@ const core = require('@actions/core');
 
 async function checkEmail(email) {
   console.log(`Checking: ${email}`)
-  const url = `http://email-check.ext.talosbot.xyz/index.php?key=6lPyUV2dX8&email=${encodeURIComponent(email)}`;
+  const url = `https://api.is-a-good.dev/email-check?key=6lPyUV2dX8&email=${encodeURIComponent(email)}`;
   const options = {
     method: 'GET'
   };
