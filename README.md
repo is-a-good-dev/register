@@ -24,7 +24,7 @@ A new take on reliable and affordable hosting. BlueFoxHost provides stable servi
 We currently offer Minecraft hosting, Discord Bot hosting, and Terraria hosting at affordable prices.
 Use the code: STARTED20 for 20% off of your first month! <br>
 Website: https://bluefoxhost.com/ <br>
-Discord: https://discord.gg/bluefox
+Discord: https://discord.gg/jzCDhUU7uH
 
 ### Similar Projects
 - [is-a.dev](https://github.com/is-a-dev/register)
