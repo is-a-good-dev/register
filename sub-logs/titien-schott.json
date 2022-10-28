@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/letirien/portfolio",
+
+  "owner": {
+    "username": "letirien",
+    "email": "titien.schott.pro@gmail.com"
+  },
+
+ "target": {
+    "CNAME": {
+       "name": "titien-schott", 
+       "value": "portfolio-titien-schott.netlify.app"
+     }
+  },
+
+  "proxied": false
+}
