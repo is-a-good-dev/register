@@ -8,7 +8,7 @@
 
   "target": {
     "CNAME": {
-       "name": "badisse", 
+       "name": "badisse-bouabdallah", 
        "value": "badisse.netlify.app"
      }
   },
