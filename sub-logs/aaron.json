@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/Adriichu/is-a-good-dev",
+  
+    "owner": {
+      "username": "Adriichuuu",
+      "email": "aaron@proton.me"
+    },
+  
+    "target": {
+      "record-type": {
+         "name": "aaron", 
+         "value": "aaron-web.pages.dev"
+       }
+    },
+  
+    "proxied": true
+  }
