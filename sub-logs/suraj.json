@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/surajsharma/surajsharma.github.io",
+
+  "owner": {
+    "username": "surajsharma",
+    "email": "suraj@evenzero.in"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "evenzero.in", 
+      "value": "surajsharma.github.io"
+    }
+  },
+
+  "proxied": false
+}
