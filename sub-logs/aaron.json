@@ -7,7 +7,7 @@
     },
   
     "target": {
-      "record-type": {
+      "CNAME": {
          "name": "aaron", 
          "value": "aaron-web.pages.dev"
        }
