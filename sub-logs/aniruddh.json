@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/aniruddhnishad",
+
+  "owner": {
+    "username": "aniruddhnishad",
+    "email": "mr.aniruddhnishad@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "aniruddh", 
+       "value": "23.94.14.190"
+     }
+  },
+
+  "proxied": false
+}
