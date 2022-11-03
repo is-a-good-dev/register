@@ -15,8 +15,14 @@
         "TXT": {
             "name": "_tixte-challenge",
             "value": "l3SKVIyd"
-        }   
+        },
+        
+        "A": {
+            "name": "kamino.r",
+            "value": "52.72.49.79"
+        }
     },
+    
 
     "proxied": true
 }
