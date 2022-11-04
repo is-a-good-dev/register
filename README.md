@@ -16,7 +16,7 @@ Your pull request **will not** be merged if:
 If your subdomain is inactive, as in not being actively used, it may be purged.
 We will try and notify you before purging via the email you provided. If no email is provided your subdomain will be purged without notice.
 
-*Please make sure that you fill in the relevant information on your pull request, we are currently operating this manually meaning it takes time to register the subdomains.*
+*Please make sure that you fill in the correct information on your pull request.*
 
 ### Sponsors
 
