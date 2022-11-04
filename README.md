@@ -5,22 +5,22 @@
 <p align="center">Thanks to our <a href="#sponsors">sponsors</a> for keeping this project running.</p>
 
 ## Register
-Please read the [docs](https://docs.is-a-good.dev) on how to register a new domain.
+Please read the [documentation](https://docs.is-a-good.dev) to register a new domain.
+
+*If your subdomain is inactive, as in not being actively used, it may be purged. We will try and notify you before purging via the email you provided. If no email is provided your subdomain will be purged without notice.*
+
+---
 
 Your pull request **will not** be merged if:
 - You already own a subdomain on our service.
 - The records provided includes invalid/unpermitted record types. If this happens we will notify you and request changes.
 - It violates users privacy.
 
-**Notice**:
-If your subdomain is inactive, as in not being actively used, it may be purged.
-We will try and notify you before purging via the email you provided. If no email is provided your subdomain will be purged without notice.
+---
 
-*Please make sure that you fill in the correct information on your pull request.*
+## Sponsors
 
-### Sponsors
-
-#### BlueFoxHost
+### BlueFoxHost
 A new take on reliable and affordable hosting. BlueFoxHost provides stable services while maintaining efficient customer service.
 We currently offer Minecraft hosting, Discord Bot hosting, and Terraria hosting at affordable prices.
 Use the code: `STARTED20` for 20% off of your first month!
@@ -40,7 +40,3 @@ Use the code: `STARTED20` for 20% off of your first month!
 - [thedev.id](https://github.com/fransallen/thedev.id)
 - [cluster.ws & wip.la](https://github.com/Olivr/free-domain)
 - [js.org](https://github.com/js-org/js.org) (*JavaScript projects only*)
-
----
-
-###### Thank you for using is-a-good.dev
