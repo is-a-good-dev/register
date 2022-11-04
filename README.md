@@ -1,4 +1,4 @@
-## is-a-good-dev
+# is-a-good-dev
 A free subdomain provider for developers around the globe.
 
 Thanks to our [sponsors](#sponsors) for keeping this project running.
@@ -40,3 +40,7 @@ Use the code: `STARTED20` for 20% off of your first month!
 - [thedev.id](https://github.com/fransallen/thedev.id)
 - [cluster.ws & wip.la](https://github.com/Olivr/free-domain)
 - [js.org](https://github.com/js-org/js.org) (*JavaScript projects only*)
+
+---
+
+###### Thank you for using is-a-good.dev
