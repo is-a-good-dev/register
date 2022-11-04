@@ -5,7 +5,22 @@ function getFileExtension(filename) {
 }
 
 const invalidDomains = [
-  "support"
+  "_acme-challenge",
+  "_github-challenge-is-a-good-dev",
+  "_github-pages-challenge-is-a-good-dev",
+  "help",
+  "no-reply",
+  "noreply",
+  "notification",
+  "notifications",
+  "support",
+  "ww",
+  "ww1",
+  "ww2",
+  "ww3",
+  "ww4",
+  "wwww",
+  "your-domain-name"
 ]
 
 function getJSON(file, filename) {
