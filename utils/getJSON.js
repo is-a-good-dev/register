@@ -1,27 +1,9 @@
 const fs = require("fs");
+const invalidDomains = require("./invalid-domains.json");
 
 function getFileExtension(filename) {
   return (/[.]/.exec(filename)) ? /[^.]+$/.exec(filename) : undefined;
 }
-
-const invalidDomains = [
-  "_acme-challenge",
-  "_github-challenge-is-a-good-dev",
-  "_github-pages-challenge-is-a-good-dev",
-  "help",
-  "no-reply",
-  "noreply",
-  "notification",
-  "notifications",
-  "support",
-  "ww",
-  "ww1",
-  "ww2",
-  "ww3",
-  "ww4",
-  "wwww",
-  "your-domain-name"
-]
 
 function getJSON(file, filename) {
   const path = `${process.env.actions_path}/${file}`; // File path.
