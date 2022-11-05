@@ -1,5 +1,5 @@
-const fetch = require("node-fetch");
-const getJSON = require("../utils/getJSON.js");
+const fetch = require('node-fetch');
+const getJSON = require('../utils/getJSON.js');
 const data = getJSON(process.env.FILES);
 
 async function addRecord(type, name, value) {
@@ -11,11 +11,11 @@ async function addRecord(type, name, value) {
 
 (async () => {
     try {
-      if(!data) return;
+      if (!data) return;
 
       const records = Object.keys(data.target);
 
-      for(const i in records) {
+      for (const i in records) {
         recordType = records[i];
         name = data.target[recordType].name;
         value = data.target[recordType].value;
@@ -23,8 +23,8 @@ async function addRecord(type, name, value) {
         const res = await addRecord(recordType, name, value);
         console.log(res);
       }
-    } catch (e) {
-      console.log("Failed to add records.");
+    } catch(e) {
+      console.log('Failed to add records.');
       console.log(e);
     }
 })();
