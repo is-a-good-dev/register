@@ -7,18 +7,16 @@
 ## Register
 Please read the [documentation](https://docs.is-a-good.dev) to register a new domain.
 
-*If your subdomain is inactive, as in not being actively used, it may be purged. We will try and notify you before purging via the email you provided. If no email is provided your subdomain will be purged without notice.*
-
----
-
 Your pull request **will not** be merged if:
 - You already own a subdomain on our service.
 - The records provided includes invalid/unpermitted record types. If this happens we will notify you and request changes.
 - It violates users privacy.
 
+*If your subdomain is inactive, as in not being actively used, it may be purged. We will try and notify you before purging via the email you provided. If no email is provided your subdomain will be purged without notice.*
+
 ---
 
-## Sponsors
+### Sponsors
 
 ### BlueFoxHost
 A new take on reliable and affordable hosting. BlueFoxHost provides stable services while maintaining efficient customer service.
