@@ -1,5 +1,4 @@
 const fs = require('fs');
-const invalidDomains = require('./invalid-domains.json');
 
 function getFileExtension(filename) {
   return (/[.]/.exec(filename)) ? /[^.]+$/.exec(filename) : undefined;
@@ -11,11 +10,7 @@ function getJSON(file, filename) {
 
   if (!ext) return false; // If no file extension, return.
   if (ext != 'json') return false; // If file extension is not '.json' return.
-
-  invalidDomains.forEach(domain => {
-    if (filename === domain) return false;
-  })
-
+  
   try {
     if (fs.existsSync(path)) { // Check if file exists in domain directory
       // It exists
