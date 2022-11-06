@@ -6,7 +6,7 @@
 
     "target": {
         "CNAME": {
-           "name": "your-domain-name", 
+           "name": "tweak", 
            "value": "is-a-good.dev"
         }
     },
