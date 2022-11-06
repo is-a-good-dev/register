@@ -1,1 +1,15 @@
+{
+    "owner": {
+        "username": "WDH-2",
+        "email": "is-a-good-dev@wdh.bio"
+    },
 
+    "target": {
+        "CNAME": {
+           "name": "your-domain-name", 
+           "value": "is-a-good.dev"
+        }
+    },
+
+    "proxied": false
+}
