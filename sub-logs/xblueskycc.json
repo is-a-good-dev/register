@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "XBlueSkyCC",
+    "email": "xbluesky.cc@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "xblueskycc",
+      "value": "xblueskycc.github.io"
+    }
+  },
+  
+  "proxied": false
+}
