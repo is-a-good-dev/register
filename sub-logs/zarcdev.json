@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/ZarcDev21/zarcdev21.github.io",
+
+  "owner": {
+    "username": "zarcdev21",
+    "email": "alvintungga17@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "zarcdev", 
+      "value": "zarcdev21.github.io"
+    }
+  },
+
+  "proxied": false
+}
