@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/darvzac/darvzac.github.io",
+
+  "owner": {
+    "username": "darvzac",
+    "email": "minimaxx377@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "darvabout", 
+      "value": "darvzac.github.io"
+    }
+  },
+
+  "proxied": false
+}
