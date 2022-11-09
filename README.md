@@ -18,7 +18,7 @@ Your pull request **will not** be merged if:
 
 ### Sponsors
 
-### BlueFoxHost
+#### BlueFoxHost
 A new take on reliable and affordable hosting. BlueFoxHost provides stable services while maintaining efficient customer service.
 We currently offer Minecraft hosting, Discord Bot hosting, and Terraria hosting at affordable prices.
 Use the code: `STARTED20` for 20% off of your first month!
