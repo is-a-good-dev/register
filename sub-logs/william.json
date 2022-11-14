@@ -1,13 +1,23 @@
 {
     "owner": {
         "username": "WilliamDavidHarrison",
-        "email": "is-a-good-dev@wdh.bio"
+        "email": "admin@william.is-a-good.dev"
     },
 
     "target": {
-        "CNAME": {
+        "A": {
            "name": "william", 
-           "value": "dns.williamharrison.xyz"
+           "value": "51.161.153.115"
+        },
+
+        "MX": {
+            "name": "william",
+            "value": ["mail.williamharrison.xyz"]
+        },
+
+        "TXT": {
+            "name": "william",
+            "value": "v=spf1 include:mail.williamharrison.xyz -all"
         }
     },
 
