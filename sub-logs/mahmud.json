@@ -1,0 +1,17 @@
+{
+  "repo": "https://jbaxb8h7.github.io/Nazrul.github.io/",
+
+  "owner": {
+    "username": "JBAxB8h7",
+    "email": "kanieloutis758@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "mahmud", 
+      "value": "jbaxb8h7.github.io"
+    }
+  },
+
+  "proxied": false
+}
