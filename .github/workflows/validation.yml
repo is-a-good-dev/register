@@ -13,7 +13,7 @@ jobs:
       uses: tj-actions/changed-files@v34
       with:
         files: |
-          sub-logs/**
+          domains/**
           reserved/**
     - name: Install modules
       if: steps.changed-files.outputs.any_changed == 'true'
