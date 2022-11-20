@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "nor0x",
+    "email": "hi@johnnys.page"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "johnny",
+      "value": "johnnys.page"
+    }
+  },
+
+  "proxied": false
+}
