@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/vasu-xd/vasu",
+  
+    "owner": {
+      "username": "Vasu-xD",
+      "email": "mr.v4su@gmail.com"
+    },
+  
+    "target": {
+      "CNAME": {
+         "name": "vasu", 
+         "value": "vasu-xd.github.io"
+       }
+    },
+  
+    "proxied": true
+  }
