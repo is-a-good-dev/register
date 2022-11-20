@@ -3,13 +3,11 @@
         "username": "WilliamDavidHarrison",
         "email": "is-a-good-dev@wdh.bio"
     },
-
     "target": {
         "CNAME": {
            "name": "william", 
            "value": "dns.williamharrison.xyz"
         }
     },
-
     "proxied": false
 }
