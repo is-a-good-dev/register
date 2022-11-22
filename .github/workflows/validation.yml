@@ -36,7 +36,10 @@ jobs:
           ${{steps.tests.outputs.infoReason}}
           - DNS Record Validation
           ${{steps.tests.outputs.recordMessage}}
-          
+          - JSON File Content
+          ```json
+          ${{steps.tests.outputs.recordMessage}}
+          ```
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         proxy-url: https://api.is-a-good.dev/github-proxy/
         repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
