@@ -25,20 +25,20 @@ jobs:
       env:
         FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         actions_path: ${{ github.workspace }}
-  #  - name: Post message
-   #   if: always()
-   #   uses: mshick/add-pr-comment@v1
-   #   with:
-    #    message: | 
-     #     **Validation Results**
-    #      - Information Validation
-   #       ${{steps.tests.outputs.infoMessage}}
-    #      ${{steps.tests.outputs.infoReason}}
-   #       - DNS Record Validation
-   #       ${{steps.tests.outputs.recordMessage}}
+    - name: Post message
+      if: always()
+      uses: mshick/add-pr-comment@v1
+      with:
+        message: | 
+          **Validation Results**
+          - Information Validation
+          ${{steps.tests.outputs.infoMessage}}
+          ${{steps.tests.outputs.infoReason}}
+          - DNS Record Validation
+          ${{steps.tests.outputs.recordMessage}}
           
-  #      repo-token: ${{ secrets.GITHUB_TOKEN }}
-    #    proxy-url: https://github-workflow-pr.ext.talosbot.xyz
-  #      repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
-    #    allow-repeats: false # This is the default
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        proxy-url: https://api.is-a-good.dev/github-proxy/
+        repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
+        allow-repeats: false # This is the default
     
