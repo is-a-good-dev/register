@@ -38,7 +38,7 @@ jobs:
           ${{steps.tests.outputs.recordMessage}}
           - JSON File Content
           ```json
-          ${{steps.tests.outputs.recordMessage}}
+          ${{steps.tests.outputs.jsonData}}
           ```
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         proxy-url: https://api.is-a-good.dev/github-proxy/
