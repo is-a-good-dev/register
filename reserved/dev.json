@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/is-a-good-dev/dev/null",
+
+  "owner": {
+    "username": "is-a-good-dev",
+    "email": "tweak@is-a-good.dev"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "dev",
+      "value": "dns.talosbot.xyz"
+    }
+  },
+
+  "proxied": false
+}
