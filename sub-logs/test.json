@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "WilliamDavidHarrison",
+    "email": ""
+  },
+
+  "record": {
+    "CNAME": {
+      "name": "test",
+      "value": "test.com"
+    }
+  }
+}
