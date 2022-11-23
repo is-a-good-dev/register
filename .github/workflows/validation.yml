@@ -26,7 +26,7 @@ jobs:
         FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         actions_path: ${{ github.workspace }}
     - name: Post message
-      if: always()
+      if: steps.tests.outputs.shouldComment == 'true'
       uses: mshick/add-pr-comment@v1
       with:
         message: | 
