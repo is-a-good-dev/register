@@ -36,6 +36,7 @@ jobs:
           ${{steps.tests.outputs.infoReason}}
           - DNS Record Validation
           ${{steps.tests.outputs.recordMessage}}
+          ${{steps.tests.outputs.recordInfo}}
           - JSON File Content
           ```json
           ${{steps.tests.outputs.jsonData}}
