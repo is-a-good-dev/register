@@ -1,5 +1,6 @@
 const invalidDomains = require('./invalid-domains.json');
 const fs = require('fs');
+const core = require('@actions/core');
 
 function getFiles(path) {
   //get all files in path, returns arr
@@ -34,11 +35,16 @@ function checkIfValidFQDN(str) {
 
 function checkInvalidDomain(str) {
   //check invalid domains
-  if (invalidDomains.includes(str)) return true;
+  if (invalidDomains.includes(str)) {
+    core.setOutput("recordInfo", "This subdomain has been blocked for register by the is-a-good.dev team.")
+    return true;
+  }
   //check reserved domains
   const files = getFiles("./reserved/").map(file => stripExt(file));
-  if (files.includes(str)) return true;
-  
+  if (files.includes(str)) {
+    core.setOutput("recordInfo", "This subdomain has been reserved by the is-a-good.dev team.")
+    return true;
+  }
   return false;
 }
 
