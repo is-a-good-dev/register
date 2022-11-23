@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "tweak4141",
+    "email": "tweak@is-a-good.dev"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "docs",
+      "value": "dns.talosbot.xyz"
+    }
+  },
+
+  "proxied": false
+}
