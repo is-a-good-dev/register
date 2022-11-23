@@ -1,8 +1,5 @@
 const fs = require('fs');
-
-function getFileExtension(filename) {
-  return (/[.]/.exec(filename)) ? /[^.]+$/.exec(filename) : undefined;
-}
+const { getFileExtension } = require('./utils.js');
 
 function getJSON(file, filename) {
   const path = `${process.env.actions_path}/${file}`; // File path.
