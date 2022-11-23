@@ -3,7 +3,9 @@ const getJSON = require('../utils/getJSON.js');
 const checkInfo = require('../utils/checkInfo.js');
 const checkRecords = require('../utils/checkRecords.js');
 const data = getJSON(process.env.FILES);
-
+if (data == false) {
+    core.setOutput('shouldComment', 'false')
+}
 core.setOutput('infoMessage', "Could not validate info.");
 core.setOutput('recordMessage', "Could not validate records.");
 core.setOutput('jsonData', data)
