@@ -7,7 +7,7 @@ const data = getJSON(process.env.FILES);
 core.setOutput('infoMessage', "Could not validate info.");
 core.setOutput('recordMessage', "Could not validate records.");
 core.setOutput('jsonData', data)
-
+core.setOutput('shouldComment', 'true')
 test('check if json file has required info', async () => {
   const passed = await checkInfo(data);
   let infoMessage = passed === true ? "Valid Info Provided." : passed === "unknown" ? "Error Verifying Email.\nA maintainer will have to manually verify your email.\nReason:" : "Invalid Info Provided.\nPlease check your provided info.\nReason:"; 
