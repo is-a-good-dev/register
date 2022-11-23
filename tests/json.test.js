@@ -5,6 +5,8 @@ const checkRecords = require('../utils/checkRecords.js');
 const data = getJSON(process.env.FILES);
 if (data == false) {
     core.setOutput('shouldComment', 'false')
+    console.log('Not a subdomain file')
+    process.exit(0)
 }
 core.setOutput('infoMessage', "Could not validate info.");
 core.setOutput('recordMessage', "Could not validate records.");
