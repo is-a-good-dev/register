@@ -2,14 +2,14 @@
     "repo": "https://github.com/bad-boy-codes/my-web",
 
     "owner": {
-        "username": "bad-boy-codes",
+        "username": "SemantCodes",
         "email": "contact@semant.is-a.dev"
     },
 
     "target": {
         "CNAME": {
-            "name": "badboy",
-            "value": "bad-boy-codes.github.io"
+            "name": "semant",
+            "value": "semantcodes.github.io"
         }
     },
 
