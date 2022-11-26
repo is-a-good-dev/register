@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "imshvishal",
+    "email": "thegeekdex@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "vishal",
+      "value": "43.205.87.144"
+    }
+  },
+
+  "proxied": false
+}
