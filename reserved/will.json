@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "is-a-good-dev",
+    "email": ""
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "will",
+      "value": "is-a-good.dev"
+    }
+  },
+
+  "proxied": false
+}
