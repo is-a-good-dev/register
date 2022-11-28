@@ -12,7 +12,7 @@
 
   "target": {
 
-    "record-type": {
+    "CNAME": {
 
        "name": "surajaswal", 
 
