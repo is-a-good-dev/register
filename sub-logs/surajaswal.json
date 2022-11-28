@@ -1,12 +1,12 @@
 {
 
-  "repo": "",
+  "repo": "https://github.com/surajaswal-dev/surajaswal",
 
   "owner": {
 
-    "username": "",
+    "username": "surajaswal-dev",
 
-    "email": ""
+    "email": "surajaswal29@gmail.com"
 
   },
 
@@ -14,7 +14,7 @@
 
     "record-type": {
 
-       "name": "", 
+       "name": "surajaswal", 
 
        "value": ""
 
