@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "WilliamDavidHarrison",
+        "email": "william@williamharrison.dev"
+    },
+
+    "target": {
+        "CNAME": {
+           "name": "wh-test",
+           "value": "dns.williamharrison.xyz"
+        }
+    },
+
+    "proxied": false
+}
