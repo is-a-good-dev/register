@@ -25,19 +25,17 @@ jobs:
       env:
         FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         actions_path: ${{ github.workspace }}
-    - name: Post message
+    - name: Comment Results
       if: steps.tests.outputs.shouldComment == 'true'
       uses: mshick/add-pr-comment@v1
       with:
-        message: | 
-          **Validation Results**
-          - Information Validation
-          ${{steps.tests.outputs.infoMessage}}
-          ${{steps.tests.outputs.infoReason}}
-          - DNS Record Validation
-          ${{steps.tests.outputs.recordMessage}}
-          ${{steps.tests.outputs.recordInfo}}
-          - JSON File Content
+        message: |
+          ## Validation Results
+          | Information Validation | Record Validation |
+          |-|-|
+          | ${{steps.tests.outputs.infoMessage}}\n${{steps.tests.outputs.infoReason}} | ${{steps.tests.outputs.recordMessage}}\n${{steps.tests.outputs.recordInfo}} |
+
+          ### JSON File Content
           ```json
           ${{steps.tests.outputs.jsonData}}
           ```
