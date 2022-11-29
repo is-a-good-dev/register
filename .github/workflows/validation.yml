@@ -33,7 +33,7 @@ jobs:
           ## Validation Results
           | Information Validation | Record Validation |
           |-|-|
-          | ${{steps.tests.outputs.infoMessage}}\n${{steps.tests.outputs.infoReason}} | ${{steps.tests.outputs.recordMessage}}\n${{steps.tests.outputs.recordInfo}} |
+          | ${{steps.tests.outputs.infoMessage}}${{steps.tests.outputs.infoReason}} | ${{steps.tests.outputs.recordMessage}}${{steps.tests.outputs.recordInfo}} |
 
           ### JSON File Content
           ```json
