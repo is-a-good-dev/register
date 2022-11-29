@@ -6,7 +6,7 @@
 
     "target": {
         "CNAME": {
-           "name": "william", 
+           "name": "william",
            "value": "dns.williamharrison.xyz"
         }
     },
