@@ -16,12 +16,12 @@ function getJSON(file, filename) {
       return data; // Return true or false, depending if tests pass or fail.
     }
 
-    return false; // It doesn't exist
+    return 3; // It doesn't exist
   } catch(err) {
     console.error(err);
   }
 
-  return false;
+  return 3;
 }
 
 module.exports = getJSON; 
