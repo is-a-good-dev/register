@@ -10,7 +10,7 @@
     "CNAME": {
       "name": "avalynn", 
       "value": "cname.vercel-dns.com"
-    }
+    },
 
     "TXT": {
       "name": "_vercel",
