@@ -4,6 +4,13 @@ const checkInfo = require('../utils/checkInfo.js');
 const checkRecords = require('../utils/checkRecords.js');
 const data = getJSON(process.env.FILES);
 
+if (data == 3) {
+    core.setOutput('infoMessage', "Could not validate info.");
+    core.setOutput('recordMessage', "Could not validate records.");
+    core.setOutput('jsonData', "Could not read the JSON file, did you have an error in your syntax?")
+    core.setOutput('shouldComment', 'true')
+}
+
 if (data == false) {
     core.setOutput('shouldComment', 'false')
     console.log('Not a subdomain file')
