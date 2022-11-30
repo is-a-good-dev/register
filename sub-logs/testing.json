@@ -1,0 +1,22 @@
+{
+  "repo": "https://github.com/Tweak4141/dev/null",
+
+  "owner": {
+    "username": "Tweak4141",
+    "email": "tweak@talosbot.xyz"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "tweak", 
+      "value": "r.talosbot.xyz"
+    }
+
+    "TXT": {
+      "name": "_talos-verify",
+      "value": "talos-domain-id=34894433722278;ETA=8603"
+    }
+  },
+
+  "proxied": false
+}
