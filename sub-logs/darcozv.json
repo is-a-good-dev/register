@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/DarcoZav/darcozav.github.io",
+
+  "owner": {
+    "username": "darcozav",
+    "email": "jackgrizz23@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "darcozv", 
+       "value": "darcozav.github.io"
+     }
+  },
+
+  "proxied": false
+}
