@@ -1,0 +1,22 @@
+{
+  "repo": "https://github.com/uzukidev/avalynndev",
+
+  "owner": {
+    "username": "avalynndev",
+    "email": "avalynndev@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "avalynn", 
+      "value": "cname.vercel-dns.com"
+    },
+
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=avalynn.is-a-good.dev,3a44282059a77b85f618"
+    }
+  },
+
+  "proxied": false
+}
