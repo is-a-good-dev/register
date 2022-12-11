@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "himangshu147-git",
+    "email": "saikiahimangshu1256@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "himangshu", 
+       "value": "32f6a59e-a82a-4ea2-9a25-c29b49021639.id.repl.co"
+     }
+  },
+
+  "proxied": false
+}
