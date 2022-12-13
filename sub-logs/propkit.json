@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "docs", 
        "value": "propkit.gitbook.io"
      }
