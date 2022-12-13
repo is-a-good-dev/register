@@ -10,7 +10,7 @@
       "value": "kurama.github.io"
     }
   },
-
+  "check": true,
   "proxied": false
 }
 
