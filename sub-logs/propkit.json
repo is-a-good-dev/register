@@ -1,1 +1,17 @@
+{
+  "repo": "https://github.com/SpeediBoi/register",
 
+  "owner": {
+    "username": "SpeediBoi",
+    "email": "@Tejas6771@"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "docs", 
+       "value": "propkit.gitbook.io"
+     }
+  },
+
+  "proxied": false
+}
