@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/caverym/website",
+  
+    "owner": {
+      "username": "caverym",
+      "email": "averymurray@caverym.net"
+    },
+  
+    "target": {
+      "CNAME": {
+         "name": "avery", 
+         "value": "caverym.net"
+       }
+    },
+  
+    "proxied": false
+}
