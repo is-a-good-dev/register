@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/leonardssh/is-a-good-dev-register",
+  
+    "owner": {
+      "username": "leonardssh",
+      "email": "me@leonard.sh"
+    },
+  
+    "target": {
+      "CNAME": {
+         "name": "leo", 
+         "value": "leonard.sh"
+       }
+    },
+  
+    "proxied": true
+  }
