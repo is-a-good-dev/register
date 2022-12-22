@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/andronasef/andronasef.github.io",
+
+  "owner": {
+    "username": "andronasef",
+    "email": "andronasef@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "andronasef", 
+       "value": "andronasef.github.io"
+     }
+  },
+
+  "proxied": false
+}
