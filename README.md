@@ -3,6 +3,7 @@
 
 <p align="center">A free subdomain provider for developers around the globe.</p>
 <p align="center">Thanks to our <a href="#sponsors">sponsors</a> for keeping this project running.</p>
+<p align="center">Want to find some services like this? Take a look on <a href="https://free-for.dev/#/?id=domain">free-for.dev</a>.</p>
 
 ## Register
 Please read the [documentation](https://docs.is-a-good.dev) to register a new domain.
@@ -32,6 +33,3 @@ Use the code: `STARTED20` for 20% off of your first month!
 - [Website](https://is-a-good.dev)
 - [Documentation](https://docs.is-a-good.dev)
 - [Discord Server](https://discord.gg/vmVaAn8YcK)
-
-### Similar Projects
-See [free-for.dev](https://free-for.dev/#/?id=domain) to see similar projects.
