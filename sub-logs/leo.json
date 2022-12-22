@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/Adriichu/is-a-good-dev",
+  
+    "owner": {
+      "username": "leonardssh",
+      "email": "me@leonard.sh"
+    },
+  
+    "target": {
+      "CNAME": {
+         "name": "leo", 
+         "value": "leonard.sh"
+       }
+    },
+  
+    "proxied": true
+  }
