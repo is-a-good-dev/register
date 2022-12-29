@@ -6,7 +6,7 @@ function getFiles(path) {
   // Get all files in path: returns array
   const allFiles = fs.readdirSync(path);
   
-  return allFiles
+  return allFiles;
 }
 
 function getFileExtension(filename) {
@@ -16,7 +16,7 @@ function getFileExtension(filename) {
 
 function stripExt(filename) {
   // Remove file extension
-  return filename.substr(0, filename.lastIndexOf('.'))
+  return filename.substr(0, filename.lastIndexOf('.'));
 }
 
 function checkIfValidIP(str) {
