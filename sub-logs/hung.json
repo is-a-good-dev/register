@@ -1,0 +1,22 @@
+{
+  "repo": "https://github.com/hunghg255/register-1",
+
+  "owner": {
+    "username": "hunghg255",
+    "email": "giahunghust@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "hung",
+      "value": "cname.vercel-dns.com"
+    },
+
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=hung.is-a-good.dev,919e696b9e539fefeccf"
+    }
+  },
+
+  "proxied": false
+}
