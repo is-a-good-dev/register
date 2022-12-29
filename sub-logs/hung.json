@@ -8,10 +8,15 @@
 
   "target": {
     "CNAME": {
-       "name": "hung",
-       "value": "hunghg-portfolio.vercel.app"
-     }
+      "name": "hung",
+      "value": "cname.vercel-dns.com"
+    },
+
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=hung.is-a-good.dev,919e696b9e539fefeccf"
+    }
   },
 
-  "proxied": true
+  "proxied": false
 }
