@@ -1,5 +1,5 @@
 {
-  "repo": "abardia.github.io",
+  "repo": "https://github.com/abardia/abardia.github.io",
 
   "owner": {
     "username": "abardia",
@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "abardia", 
        "value": "abardia.github.io"
      }
