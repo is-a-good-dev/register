@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/abardia/abardia.github.io",
+
+  "owner": {
+    "username": "abardia",
+    "email": "a.bardia@yahoo.de"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "abardia", 
+       "value": "abardia.github.io"
+     }
+  },
+
+  "proxied": false
+}
