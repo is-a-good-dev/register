@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "username": "snox",
+    "email": "ItsNotSnox@gmail.com",
+    "github": "SimplySnox",
+    "discord": "Snox#6973"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "snox", 
+      "value": "snox.cf"
+    }
+  },
+
+  "proxied": false
+}
