@@ -16,11 +16,6 @@ function checkRecords(data) {
         return checkIfValidFQDN(data.target[recordType].value);
     }
 
-    // Check if record name matches file name
-    if (recordType.toLowerCase() === 'a' || recordType.toLowerCase() === 'cname') {
-        if (data.target[recordType].name != /* Put file name value here */) return false;
-    }
-
     return false;
 }
 
