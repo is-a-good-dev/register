@@ -9,7 +9,11 @@
     "target": {
         "CNAME": {
             "name": "hyro",
-            "value": "hyro.pages.dev"
+            "value": "cname.vercel-dns.com"
+        },
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=hyro.is-a-good.dev,4b1dc2289974c7842712"
         }
     },
 
