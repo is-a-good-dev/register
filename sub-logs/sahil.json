@@ -1,0 +1,18 @@
+{
+
+  "owner": {
+    "username": "Sahil@1992",
+    "email": "s4h1l.ml"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "S4h1l.cf, 
+       "value": ""
+     }
+    "txt": {
+    "value": "replit-verify=40ad71ed-509d-4dd9-9c0c-dfb5e0725222"
+  },
+
+  "proxied": false
+}
