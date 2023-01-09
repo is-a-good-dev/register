@@ -41,7 +41,7 @@ function checkInvalidDomain(str) {
   }
 
   // Check reserved domains
-  const files = getFiles("./reserved/").map(file => stripExt(file));
+  const files = getFiles("./sub-logs/reserved/").map(file => stripExt(file));
 
   if (files.includes(str)) {
     core.setOutput("recordInfo", "This subdomain has been reserved by the is-a-good.dev team.")
