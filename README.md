@@ -24,9 +24,8 @@ Use the code: `STARTED20` for 20% off of your first month!
 - Website: [https://bluefoxhost.com](https://bluefoxhost.com)
 - Discord: [https://discord.gg/jzCDhUU7uH](https://discord.gg/jzCDhUU7uH)
 
----
 
-### Links
+## Links
 - [Website](https://is-a-good.dev)
 - [Documentation](https://docs.is-a-good.dev)
 - [Discord Server](https://discord.gg/vmVaAn8YcK)
