@@ -14,17 +14,15 @@ Your pull request **will not** be merged if:
 
 *If your subdomain is inactive, as in not being actively used, it may be purged. We will try and notify you before purging via the email you provided. If no email is provided your subdomain will be purged without notice.*
 
----
-
-### Sponsors
+## Sponsors
 
 ### BlueFoxHost
 A new take on reliable and affordable hosting. BlueFoxHost provides stable services while maintaining efficient customer service.
 We currently offer Minecraft hosting, Discord Bot hosting, and Terraria hosting at affordable prices.
 Use the code: `STARTED20` for 20% off of your first month!
 
-- Website: https://bluefoxhost.com
-- Discord: https://discord.gg/jzCDhUU7uH
+- Website: [https://bluefoxhost.com](https://bluefoxhost.com)
+- Discord: [https://discord.gg/jzCDhUU7uH](https://discord.gg/jzCDhUU7uH)
 
 ---
 
@@ -34,4 +32,4 @@ Use the code: `STARTED20` for 20% off of your first month!
 - [Discord Server](https://discord.gg/vmVaAn8YcK)
 
 ### Similar Projects
-See [free-for.dev](https://free-for.dev/#/?id=domain) to see similar projects.
+See [free-for.dev](https://free-for.dev/#/?id=domain) for similar projects.
