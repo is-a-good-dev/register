@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "lazylamps",
+    "email": "lampslazy@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "ryan",
+      "value": "lazylamps.github.io"
+    }
+  },
+
+  "proxied": false
+}
