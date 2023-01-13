@@ -12,7 +12,7 @@ Your pull request **will not** be merged if:
 - The records provided includes invalid/unpermitted record types. If this happens we will notify you and request changes.
 - It violates users privacy.
 
-*If your subdomain is inactive, as in not being actively used, it may be purged. We will try and notify you before purging via the email you provided. If no email is provided your subdomain will be purged without notice.*
+*If your subdomain is inactive, it may be purged. We will try and notify you before purging via the email you provided.*
 
 ## Sponsors
 
