@@ -1,14 +1,17 @@
 {
     "repo": "https://github.com/CodeCarbon/.is-a.good.dev",
+    
     "owner": {
         "username": "CodeCarbon",
         "email": "mr_business_email@gmail.com"
     },
+    
     "target": {
         "CNAME": {
             "name": "unknown",
             "value": "mrunknown.vercel.app"
         }
     },
+    
     "proxied": false
 }
