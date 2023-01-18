@@ -5,9 +5,9 @@
     },
 
     "target": {
-        "CNAME": {
+        "A": {
             "name": "dibster",
-            "value": "canada.proxy.dibster.live"
+            "value": ["192.95.42.66"]
         }
     },
 
