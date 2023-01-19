@@ -10,6 +10,10 @@
         "CNAME": {
             "name": "unknown",
             "value": "mrunknown.vercel.app"
+        },
+        "TXT": {
+            "name" : "_vercel",
+            "value" : "vc-domain-verify=unknown.is-a-good.dev,003301f3c7e14ba3b665"
         }
     },
     
