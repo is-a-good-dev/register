@@ -1,10 +1,11 @@
 const fs = require('fs');
 const { getFileExtension } = require('./utils.js');
+const core = require('@actions/core');
 
 function getJSON(file, filename) {
   const path = `${process.env.actions_path}/${file}`; // File path.
   const ext = getFileExtension(file);
-
+  
   if (!ext) return false; // If no file extension, return.
   if (ext != 'json') return false; // If file extension is not '.json' return.
   
@@ -18,6 +19,10 @@ function getJSON(file, filename) {
 
     return 3; // It doesn't exist
   } catch(err) {
+    core.setOutput('infoMessage', "Could not validate info.");
+    core.setOutput('recordMessage', "Could not validate records.");
+    core.setOutput('jsonData', "Could not read the JSON file, did you have an error in your syntax?")
+    core.setOutput('shouldComment', 'true')
     console.error(err);
   }
 
