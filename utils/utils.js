@@ -51,11 +51,16 @@ function checkInvalidDomain(str) {
   return false;
 }
 
+function isString(value) {
+  return typeof value === 'string' || value instanceof String;
+}
+
 module.exports = { 
   checkInvalidDomain, 
   checkIfValidFQDN, 
   checkIfValidIP,
   stripExt,
   getFileExtension, 
-  getFiles 
+  getFiles,
+  isString
 }
