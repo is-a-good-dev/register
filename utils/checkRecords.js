@@ -8,7 +8,10 @@ function checkRecords(data) {
 
     // Check A record
     if (recordType.toLowerCase() === 'a') {
-        return checkIfValidIP(data.target[recordType].value);
+        for (const record of data.target[recordType].value) {
+            if (checkIfValidIP(record) == false) return false;
+        }
+        return true;
     }
 
     // Check CNAME record
