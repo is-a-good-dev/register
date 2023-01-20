@@ -11,12 +11,14 @@ function checkRecords(data) {
         for (const record of data.target[recordType].value) {
             if (checkIfValidIP(record) == false) return false;
         }
+        if (!data.target[recordType].value = Array) return false;
         return true;
     }
 
     // Check CNAME record
     if (recordType.toLowerCase() === 'cname') {
         return checkIfValidFQDN(data.target[recordType].value);
+        if (data.target[recordType].value !== String) return false;
     }
 
     return false;
