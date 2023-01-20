@@ -10,7 +10,7 @@
     "CNAME": {
       "name": "testing", 
       "value": "r.talosbot.xyz"
-    }
+    },
     
     "TXT": {
       "name": "_talos-verify",
