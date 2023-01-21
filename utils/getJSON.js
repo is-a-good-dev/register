@@ -5,7 +5,7 @@ const core = require('@actions/core');
 function getJSON(file, filename) {
   const path = `${process.env.actions_path}/${file}`; // File path.
   const ext = getFileExtension(file);
-  if (path.includes("sub-logs") && (!ext || ext != 'json')) return 3 //if file is subdomain file but has no ext or diff ext than .json
+  if (path.includes("sub-logs") && !ext || ext != 'json') return 3 //if file is subdomain file but has no ext or diff ext than .json
   if (!ext) return false; // If no file extension, return.
   if (ext != 'json') return false; // If file extension is not '.json' return.
   
