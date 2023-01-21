@@ -6,7 +6,7 @@
 
   "target": {
     "CNAME": {
-      "name": "pywhatkit.pywhatkit-team", 
+      "name": "pywhatkit-team", 
       "value": "2fde5c57-5bba-40e6-8bf2-6a3deeb9f9fc.id.repl.co"
     }
   },
