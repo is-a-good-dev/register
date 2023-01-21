@@ -9,7 +9,7 @@ if (data == 3) {
     core.setOutput('recordMessage', "Could not validate records.");
     core.setOutput('jsonData', "Could not read the JSON file, did you have an error in your syntax?")
     core.setOutput('shouldComment', 'true')
-    process.exit(0)
+    process.exit(1)
 }
 
 if (data == false) {
