@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/abdullahnasir4/register",
+
+  "owner": {
+    "username": "AbdullahNasir",
+    "email": "abdullahnasir751@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "Abdullah", 
+      "value": "abdullah.github.io"
+    }
+  },
+
+  "proxied": false
+}
