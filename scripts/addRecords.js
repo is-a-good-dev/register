@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 const getJSON = require('../utils/getJSON.js');
 const data = getJSON(process.env.FILES);
-const arrayRecordTypes["a", "aaaa"];
+const arrayRecordTypes = ["a", "aaaa"];
 async function addRecord(type, name, value) {
   const response = await fetch(`https://api.is-a-good.dev/api/is-a-good-dev/zones/add?apiKey=${process.env.API_KEY}&type=${type}&name=${name}&content=${value}`);
   const data = await response.json();
