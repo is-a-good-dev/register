@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "PowerfulRichard",
+    "email": "richard.hu.714@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "hzk", 
+       "value": "powerfulrichard.github.io"
+     }
+  },
+
+  "proxied": false
+}
