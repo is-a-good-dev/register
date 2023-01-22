@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Alfred-207/portfolio",
+
+  "owner": {
+    "username": "Alfred-207",
+    "email": "alfred1@duck.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "Alfred", 
+       "value": "alfred-207.github.io"
+     }
+  },
+
+  "proxied": false
+}
