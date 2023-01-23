@@ -6,7 +6,7 @@
   "target": {
     "A": {
        "name": "latealways", 
-       "value": "178.238.225.17"
+       "value": ["178.238.225.17"]
      }
   },
   "proxied": false
