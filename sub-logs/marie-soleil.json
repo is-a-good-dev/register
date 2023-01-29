@@ -1,0 +1,17 @@
+{
+    "website": "https://mariesoleils2.wixsite.com/marie-soleil",
+
+    "owner": {
+        "username": "Marie Soleil",
+        "email": "clarissenoah09@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "marie-soleil",
+            "value": "mariesoleils2.wixsite.com"
+        }
+    },
+
+    "proxied": false
+}
