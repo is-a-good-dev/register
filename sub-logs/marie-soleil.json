@@ -1,5 +1,5 @@
 {
-    "website": "https://mariesoleil000.wixsite.com/marie-soleil",
+    "website": "https://mariesoleils2.wixsite.com/marie-soleil",
 
     "owner": {
         "username": "Marie Soleil",
@@ -9,7 +9,7 @@
     "target": {
           "CNAME": {
             "name": "mariesoleils2",
-            "value": "mariesoleil000.wixsite.com"
+            "value": "mariesoleils2.wixsite.com"
         }
     },
 
