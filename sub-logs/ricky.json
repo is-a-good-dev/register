@@ -7,10 +7,6 @@
   },
 
   "target": {
-    "CNAME": {
-            "name": "ricky",
-            "value": "rickypurogu.vercel.app"
-      },
     "TXT": {
        "name": "_vercel", 
        "value": "vc-domain-verify=ricky.is-a-good.dev,8c2cc3733774c70f1692"
