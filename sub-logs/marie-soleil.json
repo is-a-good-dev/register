@@ -7,8 +7,8 @@
     },
 
     "target": {
-          "CNAME": {
-            "name": "mariesoleils2",
+        "CNAME": {
+            "name": "marie-soleil",
             "value": "mariesoleils2.wixsite.com"
         }
     },
