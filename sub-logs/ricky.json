@@ -1,0 +1,22 @@
+{
+  "owner": {
+    "username": "rickypurogu",
+    "email": "tanas.riccardo03@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "ricky",
+       "value": [
+         "76.76.21.21"
+       ]
+    },
+
+    "TXT": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=ricky.is-a-good.dev,8c2cc3733774c70f1692"
+     }
+  },
+
+  "proxied": false
+}
