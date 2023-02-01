@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "chirag-adhvaryu",
+    "email": "chirag.adhvaryu@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "chirag-adhvaryu",
+      "value": "chirag-adhvaryu.github.io"
+    }
+  },
+  "proxied": false
+}
