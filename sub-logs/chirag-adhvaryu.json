@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "chirag-adhvaryu",
-      "value": "https://github.com/Chirag-Adhvaryu/chirag-adhvaryu.github.io"
+      "value": "chirag-adhvaryu.github.io"
     }
   },
   "proxied": false
