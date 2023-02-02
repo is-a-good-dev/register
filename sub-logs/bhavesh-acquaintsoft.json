@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "bhavesh-acquaintsoft",
+    "email": "bhavesh-acquaintsoft@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "bhavesh-acquaintsoft",
+      "value": "bhavesh-acquaintsoft-dev.github.io"
+    }
+  },
+  "proxied": false
+} 
