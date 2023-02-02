@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "mandaninikunj",
+    "email": "mandaninikunj@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mandaninikunj",
+      "value": "mandaninikunj-dev.github.io"
+    }
+  },
+  "proxied": false
+}
