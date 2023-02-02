@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ansari-saify",
+    "email": "ansari-saify@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ansari-saify",
+      "value": "ansari-saify-dev.github.io"
+    }
+  },
+  "proxied": false
+}
