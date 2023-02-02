@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ankit-acquaintsoft",
+    "email": "ankit-acquaintsoft@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ankit-acquaintsoft",
+      "value": "ankit-acquaintsoft-dev.github.io"
+    }
+  },
+  "proxied": false
+}
