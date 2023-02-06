@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "yash-poojara",
-      "value": "yash-poojara-dev.github.io"
+      "value": "https://yash-poojara.is-a.dev/yash-poojara-dev.github.io/"
     }
   },
   "proxied": false
