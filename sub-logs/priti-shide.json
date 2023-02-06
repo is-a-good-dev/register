@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "priti-shide",
-      "value": "priti-shide-dev.github.io"
+      "value": "https://priti-shide.is-a.dev/priti-shide-dev.github.io/"
     }
   },
   "proxied": false
