@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "jay-bhalodiya",
-      "value": "jay-bhalodiya-dev.github.io"
+      "value": "https://jay-bhalodiya.is-a.dev/jay-bhalodiya-dev.github.io/"
     }
   },
   "proxied": false
