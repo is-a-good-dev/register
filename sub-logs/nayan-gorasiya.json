@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "nayan-gorasiya",
-      "value": "nayan-gorasiya-dev.github.io"
+      "value": "https://nayan-gorasiya.is-a.dev/nayan-gorasiya-dev.github.io/"
     }
   },
   "proxied": false
