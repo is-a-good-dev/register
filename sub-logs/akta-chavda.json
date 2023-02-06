@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "akta-chavda",
-      "value": "akta-chavda-dev.github.io"
+      "value": "https://akta-chavda.is-a.dev/akta-chavda-dev.github.io/"
     }
   },
   "proxied": false
