@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "nitesh-rathod",
-      "value": "nitesh-rathod-dev.github.io"
+      "value": "https://nitesh-rathod.is-a.dev/nitesh-rathod-dev.github.io/"
     }
   },
   "proxied": false
