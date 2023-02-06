@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "patel-hetal",
-      "value": "patel-hetal-dev.github.io"
+      "value": "https://patel-hetal.is-a.dev/patel-hetal-dev.github.io"
     }
   },
   "proxied": false
