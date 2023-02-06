@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "sharad-rajyaguru",
-      "value": "https://sharad-rajyaguru.is-a.dev/sharad-rajyaguru-dev.github.io/"
+      "value": "sharad-rajyaguru.github.io"
     }
   },
   "proxied": false
