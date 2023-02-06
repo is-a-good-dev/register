@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "mandaninikunj",
-      "value": "mandaninikunj-dev.github.io"
+      "value": "https://mandaninikunj.is-a.dev/mandaninikunj-dev.github.io/"
     }
   },
   "proxied": false
