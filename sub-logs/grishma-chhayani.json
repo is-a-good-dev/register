@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "grishma-chhayani",
-      "value": "https://grishma-chhayani.is-a.dev/grishma-chhayani-dev.github.io/"
+      "value": "grishma-chhayani.github.io"
     }
   },
   "proxied": false
