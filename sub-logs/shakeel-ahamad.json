@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "shakeel-ahamad",
-      "value": "https://shakeel-ahamad.is-a.dev/shakeel-ahamad-dev.github.io/"
+      "value": "shakeel-ahamad.github.io"
     }
   },
   "proxied": false
