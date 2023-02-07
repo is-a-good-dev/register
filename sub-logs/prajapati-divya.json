@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "prajapati-divya",
-      "value": "https://prajapati-divya.is-a.dev/prajapati-divya-dev.github.io/"
+      "value": "prajapati-divya.github.io"
     }
   },
   "proxied": false
