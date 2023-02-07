@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "dudani-meet",
-      "value": "https://dudani-meet.is-a.dev/dudani-meet-dev.github.io/"
+      "value": "dudani-meet.github.io"
     }
   },
   "proxied": false
