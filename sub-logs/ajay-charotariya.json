@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "ajay-charotariya",
-      "value": "https://ajay-charotariya.is-a.dev/ajay-charotariya-dev.github.io/"
+      "value": "ajay-charotariya.github.io"
     }
   },
   "proxied": false
