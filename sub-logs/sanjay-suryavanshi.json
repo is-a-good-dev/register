@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "sanjay-suryavanshi",
-      "value": "https://sanjay-suryavanshi.is-a.dev/Sanjay-Suryavanshi-dev.github.io/"
+      "value": "sanjay-suryavanshi.github.io"
     }
   },
   "proxied": false
