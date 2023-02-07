@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "lakhani-palak",
-      "value": "https://lakhani-palak.is-a.dev/lakhani-palak-dev.github.io/"
+      "value": "lakhani-palak.github.io"
     }
   },
   "proxied": false
