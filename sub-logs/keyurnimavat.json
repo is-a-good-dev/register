@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "keyurnimavat",
-      "value": "https://keyurnimavat.is-a.dev/keyurnimavat-dev.github.io/"
+      "value": "keyurnimavat.github.io"
     }
   },
   "proxied": false
