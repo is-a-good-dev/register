@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "kaushik-bhadarka",
-      "value": "https://kaushik-bhadarka.is-a.dev/kaushik-bhadarka-dev.github.io/"
+      "value": "kaushik-bhadarka.github.io"
     }
   },
   "proxied": false
