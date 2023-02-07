@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "jagdish-der",
-      "value": "https://jagdish-der.is-a.dev/jagdish-der-dev.github.io/"
+      "value": "jagdish-der.github.io"
     }
   },
   "proxied": false
