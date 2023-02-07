@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "pandya-riddhi",
-      "value": "https://pandya-riddhi.is-a.dev/pandya-riddhi-dev.github.io/"
+      "value": "pandya-riddhi.github.io"
     }
   },
   "proxied": false
