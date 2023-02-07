@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "hiren-brahmbhatt",
-      "value": "https://hiren-brahmbhatt.is-a.dev/hiren-brahmbhatt-dev.github.io/"
+      "value": "hiren-brahmbhatt.github.io"
     }
   },
   "proxied": false
