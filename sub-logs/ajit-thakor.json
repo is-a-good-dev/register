@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "ajit-thakor",
-      "value": "https://ajit-thakor.is-a.dev/ajit-thakor-dev.github.io/"
+      "value": "ajit-thakor.github.io"
     }
   },
   "proxied": false
