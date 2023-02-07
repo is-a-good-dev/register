@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "vyas-rahul",
-      "value": "https://vyas-rahul.is-a.dev/vyas-rahul-dev.github.io/"
+      "value": "vyas-rahul.github.io"
     }
   },
   "proxied": false
