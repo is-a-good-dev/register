@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "mihir-patel-agc",
-      "value": "https://mihir-patel-agc.is-a.dev/mihir-patel-agc-dev.github.io/"
+      "value": "mihir-patel-agc.github.io"
     }
   },
   "proxied": false
