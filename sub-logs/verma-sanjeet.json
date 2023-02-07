@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "verma-sanjeet",
-      "value": "https://verma-sanjeet.is-a.dev/verma-sanjeet-dev.github.io/"
+      "value": "verma-sanjeet.github.io"
     }
   },
   "proxied": false
