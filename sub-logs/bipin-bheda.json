@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "bipin-bheda",
+    "email": "bipin.bheda@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "bipin-bheda",
+      "value": "bipin-bheda.github.io"
+    }
+  },
+  "proxied": false
+}
