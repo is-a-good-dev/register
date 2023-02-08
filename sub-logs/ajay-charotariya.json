@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ajay-charotariya",
+    "email": "ajay-charotariya@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ajay-charotariya",
+      "value": "ajay-charotariya.github.io"
+    }
+  },
+  "proxied": false
+}
