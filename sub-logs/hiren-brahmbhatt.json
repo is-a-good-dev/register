@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "hiren-brahmbhatt",
+    "email": "hiren-brahmbhatt@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "hiren-brahmbhatt",
+      "value": "hiren-brahmbhatt.github.io"
+    }
+  },
+  "proxied": false
+}
