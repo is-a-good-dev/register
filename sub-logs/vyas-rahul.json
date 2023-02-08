@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "vyas-rahul",
+    "email": "vyas-rahul@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "vyas-rahul",
+      "value": "vyas-rahul.github.io"
+    }
+  },
+  "proxied": false
+}
