@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "chintan-prajapati",
+    "email": "chintan.prajapati@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "chintan-prajapati",
+      "value": "chintan-prajapati.github.io"
+    }
+  },
+  "proxied": false
+}
