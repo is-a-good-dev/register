@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ankiprajapati",
+    "email": "ankit.prajapati@acquaintsofttech.com "
+  },
+  "target": {
+    "CNAME": {
+      "name": "ankiprajapati",
+      "value": "ankiprajapati.github.io"
+    }
+  },
+  "proxied": false
+}
