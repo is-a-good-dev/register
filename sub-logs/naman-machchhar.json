@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "naman-machchhar",
+    "email": "naman.machchhar@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "naman-machchhar",
+      "value": "naman-machchhar.github.io"
+    }
+  },
+  "proxied": false
+}
