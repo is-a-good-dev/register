@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "lakhani-palak",
+    "email": "lakhani-palak@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "lakhani-palak",
+      "value": "lakhani-palak.github.io"
+    }
+  },
+  "proxied": false
+}
