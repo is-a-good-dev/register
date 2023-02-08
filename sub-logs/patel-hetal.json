@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "patel-hetal",
+    "email": "patel-hetal@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "patel-hetal",
+      "value": "patel-hetal.github.io"
+    }
+  },
+  "proxied": false
+}
