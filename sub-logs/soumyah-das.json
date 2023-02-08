@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "soumyah-das",
+    "email": "soumya.das@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "soumyah-das",
+      "value": "soumyah-das.github.io"
+    }
+  },
+  "proxied": false
+}
