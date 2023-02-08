@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "limbanitejal",
+    "email": "tejal.limbani@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "limbanitejal",
+      "value": "limbanitejal.github.io"
+    }
+  },
+  "proxied": false
+}
