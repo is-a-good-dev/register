@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "shakeel-ahamad",
+    "email": "shakeel-ahamad@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "shakeel-ahamad",
+      "value": "shakeel-ahamad.github.io"
+    }
+  },
+  "proxied": false
+}
