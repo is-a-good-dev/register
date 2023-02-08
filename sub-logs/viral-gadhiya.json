@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "viral-gadhiya",
+    "email": "viral-gadhiya@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "viral-gadhiya",
+      "value": "viral-gadhiya.github.io"
+    }
+  },
+  "proxied": false
+}
