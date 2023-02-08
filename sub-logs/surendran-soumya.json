@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "surendran-soumya",
+    "email": "soumya.surendran@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "surendran-soumya",
+      "value": "surendran-soumya.github.io"
+    }
+  },
+  "proxied": false
+}
