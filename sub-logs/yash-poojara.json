@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "yash-poojara",
+    "email": "yash-poojara@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "yash-poojara",
+      "value": "yash-poojara.github.io"
+    }
+  },
+  "proxied": false
+}
