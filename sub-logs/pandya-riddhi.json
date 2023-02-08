@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "pandya-riddhi",
+    "email": "pandya-riddhi@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "pandya-riddhi",
+      "value": "pandya-riddhi.github.io"
+    }
+  },
+  "proxied": false
+}
