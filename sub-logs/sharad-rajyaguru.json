@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "sharad-rajyaguru",
+    "email": "sharad-rajyaguru@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sharad-rajyaguru",
+      "value": "sharad-rajyaguru.github.io"
+    }
+  },
+  "proxied": false
+}
