@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "rohit-sony",
+    "email": "rohit.soni@acquaintsofttech.com "
+  },
+  "target": {
+    "CNAME": {
+      "name": "rohit-sony",
+      "value": "rohit-sony.github.io"
+    }
+  },
+  "proxied": false
+}
