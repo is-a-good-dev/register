@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "darji-ravi",
+    "email": "ravi.darji@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "darji-ravi",
+      "value": "darji-ravi.github.io"
+    }
+  },
+  "proxied": false
+}
