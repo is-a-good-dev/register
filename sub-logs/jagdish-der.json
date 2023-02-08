@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "jagdish-der",
+    "email": "jagdish-der@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "jagdish-der",
+      "value": "jagdish-der.github.io"
+    }
+  },
+  "proxied": false
+}
