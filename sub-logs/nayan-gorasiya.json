@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "nayan-gorasiya",
+    "email": "nayan-gorasiya@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "nayan-gorasiya",
+      "value": "nayan-gorasiya.github.io"
+    }
+  },
+  "proxied": false
+}
