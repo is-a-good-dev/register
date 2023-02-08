@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "viren-trivedi",
+    "email": "viren-trivedi@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "viren-trivedi",
+      "value": "viren-trivedi.github.io"
+    }
+  },
+  "proxied": false
+}
