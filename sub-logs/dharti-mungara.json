@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "dharti-mungara",
+    "email": "dharti-mungara@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "dharti-mungara",
+      "value": "dharti-mungara.github.io"
+    }
+  },
+  "proxied": false
+}
