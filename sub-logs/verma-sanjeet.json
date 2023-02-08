@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "verma-sanjeet",
+    "email": "verma-sanjeet@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "verma-sanjeet",
+      "value": "verma-sanjeet.github.io"
+    }
+  },
+  "proxied": false
+}
