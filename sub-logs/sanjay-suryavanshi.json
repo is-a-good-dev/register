@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "sanjay-suryavanshi",
+    "email": "sanjay-suryavanshi@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sanjay-suryavanshi",
+      "value": "sanjay-suryavanshi.github.io"
+    }
+  },
+  "proxied": false
+}
