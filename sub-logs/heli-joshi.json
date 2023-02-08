@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "heli-joshi",
+    "email": "heli.joshi@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "heli-joshi",
+      "value": "heli-joshi.github.io"
+    }
+  },
+  "proxied": false
+}
