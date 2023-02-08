@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "priti-shide",
+    "email": "priti-shide@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "priti-shide",
+      "value": "priti-shide.github.io"
+    }
+  },
+  "proxied": false
+}
