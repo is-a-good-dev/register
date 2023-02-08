@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "dudani-meet",
+    "email": "dudani-meet@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "dudani-meet",
+      "value": "dudani-meet.github.io"
+    }
+  },
+  "proxied": false
+}
