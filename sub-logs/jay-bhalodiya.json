@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "jay-bhalodiya",
+    "email": "jay-bhalodiya@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "jay-bhalodiya",
+      "value": "jay-bhalodiya.github.io"
+    }
+  },
+  "proxied": false
+}
