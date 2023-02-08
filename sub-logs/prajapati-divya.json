@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "prajapati-divya",
+    "email": "prajapati-divya@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "prajapati-divya",
+      "value": "prajapati-divya.github.io"
+    }
+  },
+  "proxied": false
+}
