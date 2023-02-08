@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "shahjenish",
+    "email": "jenish.shah@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "shahjenish",
+      "value": "shahjenish.github.io"
+    }
+  },
+  "proxied": false
+}
