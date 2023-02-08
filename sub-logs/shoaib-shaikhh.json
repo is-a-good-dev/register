@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "shoaib-shaikhh",
+    "email": "shoaib-shaikhh@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "shoaib-shaikhh",
+      "value": "shoaib-shaikhh.github.io"
+    }
+  },
+  "proxied": false
+}
