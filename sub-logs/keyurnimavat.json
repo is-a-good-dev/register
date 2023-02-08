@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "keyurnimavat",
+    "email": "keyurnimavat@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "keyurnimavat",
+      "value": "keyurnimavat.github.io"
+    }
+  },
+  "proxied": false
+}
