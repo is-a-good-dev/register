@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "panchal-chirag",
+    "email": "panchal-chirag@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "panchal-chirag",
+      "value": "panchal-chirag.github.io"
+    }
+  },
+  "proxied": false
+}
