@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "grishma-chhayani",
+    "email": "grishma-chhayani@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "grishma-chhayani",
+      "value": "grishma-chhayani.github.io"
+    }
+  },
+  "proxied": false
+}
