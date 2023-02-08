@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ajit-thakor",
+    "email": "ajit-thakor@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ajit-thakor",
+      "value": "ajit-thakor.github.io"
+    }
+  },
+  "proxied": false
+}
