@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "bhumkah-patel",
+    "email": "bhumkah-patel@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "bhumkah-patel",
+      "value": "bhumkah-patel.github.io"
+    }
+  },
+  "proxied": false
+}
