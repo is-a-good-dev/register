@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "yashh-chauhan",
+    "email": "yash.chauhan@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "yashh-chauhan",
+      "value": "yashh-chauhan.github.io"
+    }
+  },
+  "proxied": false
+}
