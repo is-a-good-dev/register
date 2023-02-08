@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "surajh-patel",
+    "email": "suraj.patel@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "surajh-patel",
+      "value": "surajh-patel.github.io"
+    }
+  },
+  "proxied": false
+}
