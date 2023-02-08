@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "nitesh-rathod",
+    "email": "nitesh-rathod@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "nitesh-rathod",
+      "value": "nitesh-rathod.github.io"
+    }
+  },
+  "proxied": false
+}
