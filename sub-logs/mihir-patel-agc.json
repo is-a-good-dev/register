@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "mihir-patel-agc",
+    "email": "mihir-patel-agc@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mihir-patel-agc",
+      "value": "mihir-patel-agc.github.io"
+    }
+  },
+  "proxied": false
+}
