@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "pathan-imran",
+    "email": "pathan-imran@acquaintsofttech.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "pathan-imran",
+      "value": "pathan-imran.github.io"
+    }
+  },
+  "proxied": false
+}
