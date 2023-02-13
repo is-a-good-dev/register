@@ -10,7 +10,7 @@
        "value": "benthetechguy.net"
      },
     "CNAME": {
-       "name": "_acme-challenge",
+       "name": "_acme-challenge.bob.is-a-good.dev",
        "value": "9a415aff-3d5e-41ad-93a1-f0e5986e088f.auth.acme-dns.io"
      }
   },
