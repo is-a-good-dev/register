@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "benthetechguy",
+    "email": "me@benthetechguy.net"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "ben", 
+       "value": "benthetechguy.net"
+     }
+  },
+
+  "proxied": false
+}
