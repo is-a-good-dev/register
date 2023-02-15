@@ -1,10 +1,10 @@
 { 
-  "repo": "https://github.com/github-username/github-username.github.io", 
+  "repo": "https://github.com/ViPSeCuRe-github/MultiLife.github.io", 
   "owner": { 
-             "username": "github-username", 
-             "email": "your-name-here@domain", 
+             "username": "ViPSeCuRe-github", 
+             "email": "imthiyazcps@gmail.com", 
 }, 
 "target": { 
-"CNAME": "github-username.github.io" 
+"CNAME": "https://vipsecure-github.github.io/Multi-Life/" 
      }
 }
