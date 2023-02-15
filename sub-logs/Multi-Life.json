@@ -1,8 +1,10 @@
 { 
   "repo": "https://github.com/github-username/github-username.github.io", 
-  "owner": 
-{ 
-"username": "github-username", 
-"email": "your-name-here@domain", 
+  "owner": { 
+             "username": "github-username", 
+             "email": "your-name-here@domain", 
 }, 
-"target": { "CNAME": "github-username.github.io" }}
+"target": { 
+"CNAME": "github-username.github.io" 
+     }
+}
