@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "WilliamDavidHarrison",
+        "email": "william@williamharrison.dev"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "testing",
+            "value": "test"
+        }
+    },
+
+    "proxied": false
+}
