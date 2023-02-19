@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "wclarkey",
+        "email": "will@is-a-good.dev"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "cli",
+            "value": "cfdns.is-a-good.dev"
+        }
+    },
+
+    "proxied": false
+}
