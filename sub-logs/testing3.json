@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "WilliamDavidHarrison",
+        "email": "william@williamharrison.dev"
+    },
+
+    "target": {
+        "A": {
+            "name": "testing3",
+            "value": ["1.1.1.1","1.0.0.1"]
+        }
+    },
+
+    "proxied": false
+}
