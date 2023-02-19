@@ -1,2 +1,3 @@
 * @wclarkey @Tweak4141
-/sub-logs @is-a-good-dev/helpers
+
+/sub-logs/* @is-a-good-dev/helpers
