@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/CrystallineButterfly/register",
+
+  "owner": {
+    "username": "CrystallineButterfly",
+    "email": "fromtc2k42@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "k42", 
+      "value": "just-a-realm-p2.vercel.app"
+    }
+  },
+
+  "proxied": false
+}
