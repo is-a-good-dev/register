@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/CrystallineButterfly/register",
+
+  "owner": {
+    "username": "CrystallineButterfly",
+    "email": "fromtc2k42@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "k42.is-a-good-dev", 
+      "value": "k42-is-a-good-dev"
+    }
+  },
+
+  "proxied": false
+}
