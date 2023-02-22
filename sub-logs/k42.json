@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
       "name": "k42", 
-      "value": "crystallinebutterfly.x"
+      "value": "https://just-a-realm-p2.vercel.app/"
     }
   },
 
