@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "Scronite",
+    "email": "scronite@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "scronite", 
+       "value": ""
+     }
+  },
+
+  "proxied": false
+}
