@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
        "name": "scronite", 
-       "value": ""
+       "value": "chile.zaicadiahost.xyz:5219"
      }
   },
 
