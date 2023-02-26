@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/abderrazak-Bahaj/Abderrazak",
+
+  "owner": {
+    "username": "abderrazak",
+    "email": "bahajabde0@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "portfoloi", 
+      "value": "abderrazak-Baha.github.io"
+    }
+  },
+
+  "proxied": false
+}
