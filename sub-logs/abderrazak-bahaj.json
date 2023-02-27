@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "abderrazak",
+    "email": "bahajabde0@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "abderrazak-bahaj", 
+      "value": "abderrazak-Baha.github.io"
+    }
+  },
+
+  "proxied": false
+}
