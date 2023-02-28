@@ -8,14 +8,14 @@ function setupMessages() {
   core.setOutput('infoMessage', "Could not validate info.");
   core.setOutput('recordMessage', "Could not validate records.");
   core.setOutput('jsonData', JSON.stringify(data, null, 2))
-  core.setOutput('shouldComment', 'true')
+  core.setOutput('shouldComment', true)
 };
 
 function outputInvalidJsonFile() {
   core.setOutput('infoMessage', "Could not validate info.");
   core.setOutput('recordMessage', "Could not validate records.");
   core.setOutput('jsonData', "Could not read the JSON file, did you have an error in your syntax?")
-  core.setOutput('shouldComment', 'true')
+  core.setOutput('shouldComment', true)
 }
 
 beforeAll(() => {
@@ -27,7 +27,7 @@ beforeAll(() => {
   };
     
   if (data == false) {
-    core.setOutput('shouldComment', 'false')
+    core.setOutput('shouldComment', false)
     console.log('INFO: File is not a subdomain JSON file.')
     return process.exit(0)
   }; 
