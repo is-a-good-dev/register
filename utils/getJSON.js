@@ -16,16 +16,15 @@ function getJSON(file, filename) {
       const data = JSON.parse(rawdata); // Parse it
       return data; // Return true or false, depending if tests pass or fail.
     }
-
     return 3; // It doesn't exist
   } catch(err) {
     core.setOutput('infoMessage', "Could not validate info.");
     core.setOutput('recordMessage', "Could not validate records.");
     core.setOutput('jsonData', "Could not read the JSON file, did you have an error in your syntax?")
     core.setOutput('shouldComment', 'true')
-    console.error(err);
+    console.log(err);
+    return 3;
   }
-
   return 3;
 }
 
