@@ -4,24 +4,35 @@ const checkInfo = require('../utils/checkInfo.js');
 const checkRecords = require('../utils/checkRecords.js');
 const data = getJSON(process.env.FILES);
 
-if (data == 3) {
-    core.setOutput('infoMessage', "Could not validate info.");
-    core.setOutput('recordMessage', "Could not validate records.");
-    core.setOutput('jsonData', "Could not read the JSON file, did you have an error in your syntax?")
-    core.setOutput('shouldComment', 'true')
-    process.exit(1)
+function setupMessages() {
+  core.setOutput('infoMessage', "Could not validate info.");
+  core.setOutput('recordMessage', "Could not validate records.");
+  core.setOutput('jsonData', JSON.stringify(data, null, 2))
+  core.setOutput('shouldComment', 'true')
+};
+
+function outputInvalidJsonFile() {
+  core.setOutput('infoMessage', "Could not validate info.");
+  core.setOutput('recordMessage', "Could not validate records.");
+  core.setOutput('jsonData', "Could not read the JSON file, did you have an error in your syntax?")
+  core.setOutput('shouldComment', 'true')
 }
 
-if (data == false) {
+beforeAll(() => {
+  setupMessages();
+  if (data == 3) {
+    outputInvalidJsonFile();
+    console.log("ERROR: JSON file is invalid. Either the file is not JSON, or there is an error in the JSON syntax.");
+    return process.exit(1)
+  };
+    
+  if (data == false) {
     core.setOutput('shouldComment', 'false')
-    console.log('Not a subdomain file')
-    process.exit(0)
-}
+    console.log('INFO: File is not a subdomain JSON file.')
+    return process.exit(0)
+  }; 
+});
 
-core.setOutput('infoMessage', "Could not validate info.");
-core.setOutput('recordMessage', "Could not validate records.");
-core.setOutput('jsonData', JSON.stringify(data, null, 2))
-core.setOutput('shouldComment', 'true')
 test('check if json file has required info', async () => {
   const passed = await checkInfo(data);
   let infoMessage = passed === true ? "Valid information provided." : passed === "unknown" ? "Error verifying email address.\nA maintainer will have to manually verify your email address.\nReason:" : "Invalid information provided.\nPlease check your provided information.\nReason:"; 
