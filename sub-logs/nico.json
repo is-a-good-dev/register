@@ -1,0 +1,22 @@
+{
+  "repo": "https://github.com/NicoGaming77/nico.is-a-good.dev",
+
+  "owner": {
+    "username": "NicoGaming77",
+    "email": "nico.dreyer000@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "nico-ten", 
+      "value": "cname.vercel-dns.com"
+    },
+
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=nico.is-a-good.dev,0832511e24b27db08843"
+    }
+  },
+
+  "proxied": false
+}
