@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "TXT": {
+    "CNAME": {
       "name": "farish", 
-      "value": "vc-domain-verify=farish.is-a-good.dev,862d5f85b8744e29248b"
+      "value": "700b3eafa2ce95949fe9e0e2._acme.deno.dev"
     }
   },
 
