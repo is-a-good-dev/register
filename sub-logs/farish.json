@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/iamfarishirfan/farish.is-a-good.dev",
+
+  "owner": {
+    "username": "iamfarishirfan",
+    "email": "hello.farish.irfan@gmail.com"
+  },
+
+  "target": {
+    "TXT": {
+      "name": "farish", 
+      "value": "vc-domain-verify=farish.is-a-good.dev,862d5f85b8744e29248b"
+    }
+  },
+
+  "proxied": false
+}
