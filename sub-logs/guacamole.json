@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "tranvannhan1911",
+        "email": "tranvannhan1911@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "guacamole",
+            "value": ["45.32.99.175"]
+        }
+    },
+
+    "proxied": false
+}
