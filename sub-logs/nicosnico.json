@@ -8,13 +8,13 @@
 
   "target": {
     "CNAME": {
-      "name": "nico", 
+      "name": "nicosnico", 
       "value": "cname.vercel-dns.com"
     },
 
     "TXT": {
       "name": "_vercel",
-      "value": "vc-domain-verify=nico.is-a-good.dev,0832511e24b27db08843"
+      "value": "vc-domain-verify=nicosnico.is-a-good.dev,6e43939f34e5b710d161"
     }
   },
 
