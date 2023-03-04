@@ -8,8 +8,12 @@
 
   "target": {
     "CNAME": {
-      "name": "farish", 
+      "name": "_acme-challenge.farish", 
       "value": "700b3eafa2ce95949fe9e0e2._acme.deno.dev"
+    },
+    "A": {
+      "name": "farish"
+      "value": "34.120.54.55"
     }
   },
 
