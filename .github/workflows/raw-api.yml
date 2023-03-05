@@ -1,0 +1,46 @@
+name: Raw API
+
+on:
+    push:
+        branches: [main]
+        paths:
+            - "domains/*"
+            - ".github/workflows/raw-api.yml"
+            - "scripts/raw-api.js"
+
+jobs:
+    update:
+        name: Update
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+
+            - name: Setup Node
+              uses: actions/setup-node@v2
+              with:
+                  node-version: 16
+
+            - run: mkdir raw-api
+
+            - name: Create CNAME
+              run: echo "raw.freesubdomains.org" > ./raw-api/CNAME
+
+            - name: Create index.json
+              run: echo "" > ./raw-api/index.json
+
+            - name: Run Script
+              run: node scripts/raw-api.js
+
+            - name: Push
+              uses: cpina/github-action-push-to-another-repository@main
+              with:
+                  source-directory: "raw-api"
+                  destination-github-username: is-a-good-dev
+                  destination-repository-name: raw-api
+                  user-email: bot@is-a-good.dev
+                  user-name: is-a-good-dev-BOT
+                  commit-message: "Update Data via is-a-good-dev/register"
+              env:
+                  API_TOKEN_GITHUB: ${{ secrets.BOT_PAT_TOKEN }}
