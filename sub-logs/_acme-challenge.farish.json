@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "iamfarishirfan",
+    "email": "hello.farish.irfan@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "_acme-challenge.farish", 
+      "value": "700b3eafa2ce95949fe9e0e2._acme.deno.dev"
+    }
+  },
+
+  "proxied": false
+}
