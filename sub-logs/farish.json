@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "A": {
+    "CNAME": {
       "name": "farish",
-      "value": ["34.120.54.55"]
+      "value": "700b3eafa2ce95949fe9e0e2._acme.deno.dev"
     }
   },
 
