@@ -39,7 +39,7 @@ jobs:
                   source-directory: "raw-api"
                   destination-github-username: is-a-good-dev
                   destination-repository-name: raw-api
-                  user-email: bot@is-a-good.dev
+                  user-email: will@is-a-good.dev
                   user-name: is-a-good-dev-BOT
                   commit-message: "Update Data via is-a-good-dev/register"
               env:
