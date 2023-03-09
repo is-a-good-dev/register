@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "adnansid99",
+    "email": "asr3012003@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "adnan", 
+       "value": "adnan.pages.dev"
+     }
+  },
+
+  "proxied": true
+}
