@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "adnansid99",
+    "email": "asr3012003@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "adnan", 
+       "value": "172.66.44.225"
+     }
+  },
+
+  "proxied": true
+}
