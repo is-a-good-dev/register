@@ -10,6 +10,11 @@
     "CNAME": {
        "name": "andronasef", 
        "value": "andronasef.github.io"
+     },
+
+    "TXT": {
+       "name": "", 
+       "value": "google-site-verification=1zn0KqwOjNR_6ypispEKJhIDmo-93T6ZcbkVy7aeauU"
      }
   },
 
