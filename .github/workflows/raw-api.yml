@@ -27,6 +27,6 @@ jobs:
                   git config --global user.email "will@is-a,good.dev"
                   git config --global user.name "is-a-good-dev-BOT"
                   node scripts/raw-api.js
-                  git add util/index.json
+                  git add utils/raw.json
                   git commit -m "Update Raw API"
                   git push
