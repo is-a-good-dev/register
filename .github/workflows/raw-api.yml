@@ -15,32 +15,18 @@ jobs:
 
         steps:
             - name: Checkout
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Setup Node
               uses: actions/setup-node@v2
               with:
                   node-version: 16
 
-            - run: mkdir raw-api
-
-            - name: Create CNAME
-              run: echo "raw.freesubdomains.org" > ./raw-api/CNAME
-
-            - name: Create index.json
-              run: echo "" > ./raw-api/index.json
-
             - name: Run Script
-              run: node scripts/raw-api.js
-
-            - name: Push
-              uses: cpina/github-action-push-to-another-repository@main
-              with:
-                  source-directory: "raw-api"
-                  destination-github-username: is-a-good-dev
-                  destination-repository-name: raw-api
-                  user-email: will@is-a-good.dev
-                  user-name: is-a-good-dev-BOT
-                  commit-message: "Update Data via is-a-good-dev/register"
-              env:
-                  API_TOKEN_GITHUB: ${{ secrets.BOT_PAT_TOKEN }}
+              run: |
+                  git config --global user.email "will@is-a,good.dev"
+                  git config --global user.name "is-a-good-dev-BOT"
+                  node scripts/raw-api.js
+                  git add util/index.json
+                  git commit -m "Update Raw API"
+                  git push
