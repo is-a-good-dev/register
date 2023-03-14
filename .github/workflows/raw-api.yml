@@ -4,7 +4,7 @@ on:
     push:
         branches: [main]
         paths:
-            - "domains/*"
+            - "sub-logs/*"
             - ".github/workflows/raw-api.yml"
             - "scripts/raw-api.js"
 
