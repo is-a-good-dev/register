@@ -24,7 +24,7 @@ jobs:
 
             - name: Run Script
               run: |
-                  git config --global user.email "will@is-a,good.dev"
+                  git config --global user.email "will@is-a-good.dev"
                   git config --global user.name "is-a-good-dev-BOT"
                   node scripts/raw-api.js
                   git add utils/raw.json
