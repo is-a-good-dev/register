@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "uEriic",
+        "email": "ueriic0@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "ericfreitas",
+            "value": "https://ueriic.github.io"
+        }
+    },
+
+    "proxied": true
+}
