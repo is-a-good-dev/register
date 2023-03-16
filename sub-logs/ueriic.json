@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/uEriic/ueriic.github.io",
+  
+    "owner": {
+      "username": "uEriic",
+      "email": "ueriic0@gmail.com"
+    },
+  
+    "target": {
+      "CNAME": {
+        "name": "ueriic", 
+        "value": "ueriic.github.io"
+      }
+    },
+  
+    "proxied": true
+  }
