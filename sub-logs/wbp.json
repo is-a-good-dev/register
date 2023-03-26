@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "whizbangpop",
+        "email": "abi@quickexit.cc"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "wbp",
+            "value": "cname.short.io"
+        }
+    },
+
+    "proxied": false
+}
