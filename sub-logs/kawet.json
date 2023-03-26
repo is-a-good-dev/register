@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "Kawet00",
+    "email": "elpisstolero13@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "kawet", 
+       "value": "kawet.is-a.dev"
+     }
+  },
+
+  "proxied": false
+}
