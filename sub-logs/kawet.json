@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "Kawet00",
+    "discord": "Kawet#4827"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "Kawet", 
+       "value": "kawet.is-a.dev"
+     }
+  },
+
+  "proxied": true
+}
