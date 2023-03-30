@@ -36,7 +36,7 @@ fs.readdir(directoryPath, function (err, files) {
             combinedArray = combinedArray.concat(dataArray);
 
             if(combinedArray.length === files.length) {
-                fs.writeFile("utils/raw.json", JSON.stringify(combinedArray), (err) => {
+                fs.writeFile("raw.json", JSON.stringify(combinedArray), (err) => {
                     if(err) throw err;
                 })
             }

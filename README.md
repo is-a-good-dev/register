@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/is-a-good-dev/register/blob/main/logo_circle.png" height="96" width="96"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/is-a-good-dev/register/main/media/logo_circle.png" height="96" width="96"></p>
 <h1 align="center">is-a-good.dev</h1>
 
 <p align="center">A free subdomain provider for developers around the globe.</p>
