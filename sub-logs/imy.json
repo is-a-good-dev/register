@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "imyaza",
+    "email": "ala@imy1.eu.org"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "ns", 
+       "value": "leah.ns.cloudflare.com, zeus.ns.cloudflare.com"
+     }
+  },
+
+  "proxied": true
+}
