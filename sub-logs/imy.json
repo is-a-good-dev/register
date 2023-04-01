@@ -1,6 +1,4 @@
 {
-  "repo": "",
-
   "owner": {
     "username": "imyaza",
     "email": "ala@imy1.eu.org"
@@ -8,10 +6,10 @@
 
   "target": {
     "record-type": {
-       "name": "ns", 
-       "value": "leah.ns.cloudflare.com, zeus.ns.cloudflare.com"
+       "name": "imy", 
+       "value": ""
      }
   },
 
-  "proxied": true
+  "proxied": false
 }
