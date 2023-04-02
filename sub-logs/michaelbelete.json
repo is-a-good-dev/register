@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "michaelbelete",
+        "email": "it.michael.belete@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "michaelbelete",
+            "value": "vc-domain-verify=michaelbelete.is-a-good.dev,c5ef3d006ace4ff62d3e"
+        }
+    },
+
+    "proxied": false
+}
