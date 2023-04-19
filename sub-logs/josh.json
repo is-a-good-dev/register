@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "jvshs",
+        "email": "jvshrb@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "josh",
+            "value": [""]
+        }
+    },
+
+    "proxied": true
+}
