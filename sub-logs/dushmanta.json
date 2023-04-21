@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "dushmanta05",
+    "email": "dilub4@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "dushmanta", 
+       "value": "dushmanta05.github.io"
+     }
+  },
+
+  "proxied": false
+}
