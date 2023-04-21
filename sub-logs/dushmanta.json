@@ -1,13 +1,11 @@
 {
-  "repo": "",
-
   "owner": {
     "username": "dushmanta05",
     "email": "dilub4@gmail.com"
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "dushmanta", 
        "value": "dushmanta05.github.io"
      }
