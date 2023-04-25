@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ansari-atharnadim",
+    "email": "ansari.atharnadim@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ansari-atharnadim",
+      "value": "ansari.atharnadim@truestaz.com"
+    }
+  },
+  "proxied": false
+}
