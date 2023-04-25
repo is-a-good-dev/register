@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "viplav-mistry",
+    "email": "viplav.mistry@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "viplav-mistry",
+      "value": "viplav.mistry@truestaz.com"
+    }
+  },
+  "proxied": false
+}
