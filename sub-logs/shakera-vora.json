@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "shakera-vora",
+    "email": "shakera.vora@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "shakera-vora",
+      "value": "shakera.vora@truestaz.com"
+    }
+  },
+  "proxied": false
+}
