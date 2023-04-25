@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "hitesh-makodiya",
+    "email": "hitesh.makodiya@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "hitesh-makodiya",
+      "value": "hitesh.makodiya@truestaz.com"
+    }
+  },
+  "proxied": false
+}
