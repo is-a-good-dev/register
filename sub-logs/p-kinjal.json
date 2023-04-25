@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "p-kinjal",
+    "email": "kinjal.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "p-kinjal",
+      "value": "kinjal.patel@truestaz.com"
+    }
+  },
+  "proxied": false
+}
