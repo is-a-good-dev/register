@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "niki-tiwari",
+    "email": "niki.tiwari@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "niki-tiwari",
+      "value": "niki.tiwari@truestaz.com"
+    }
+  },
+  "proxied": false
+}
