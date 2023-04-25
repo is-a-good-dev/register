@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "chirag-parikh",
+    "email": "chirag.parikh@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "chirag-parikh",
+      "value": "chirag.parikh@truestaz.com"
+    }
+  },
+  "proxied": false
+}
