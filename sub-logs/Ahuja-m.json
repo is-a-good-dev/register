@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "Ahuja-m",
+    "email": "manish.ahuja@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "Ahuja-m",
+      "value": "manish.ahuja@truestaz.com"
+    }
+  },
+  "proxied": false
+}
