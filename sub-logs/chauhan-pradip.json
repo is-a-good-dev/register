@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "chauhan-pradip",
+    "email": "pradeep.chauhan@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "chauhan-pradip",
+      "value": "pradeep.chauhan@truestaz.com"
+    }
+  },
+  "proxied": false
+}
