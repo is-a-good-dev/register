@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "falguni-prajapati",
+    "email": "falguni.prajapati@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "falguni-prajapati",
+      "value": "falguni.prajapati@truestaz.com"
+    }
+  },
+  "proxied": false
+}
