@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "dinesh-vaghasia",
+    "email": "dinesh.vaghasia@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "dinesh-vaghasia",
+      "value": "dinesh.vaghasia@truestaz.com"
+    }
+  },
+  "proxied": false
+}
