@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "parmar-dixita",
+    "email": "dixita.parmar@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "parmar-dixita",
+      "value": "dixita.parmar@truestaz.com"
+    }
+  },
+  "proxied": false
+}
