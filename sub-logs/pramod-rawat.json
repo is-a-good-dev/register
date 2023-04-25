@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "pramod-rawat",
+    "email": "pramod.rawat@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "pramod-rawat",
+      "value": "pramod.rawat@truestaz.com"
+    }
+  },
+  "proxied": false
+}
