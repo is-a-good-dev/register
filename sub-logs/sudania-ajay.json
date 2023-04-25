@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "sudania-ajay",
+    "email": "ajay.sudani@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sudania-ajay",
+      "value": "ajay.sudani@truestaz.com"
+    }
+  },
+  "proxied": false
+}
+
