@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "dhaval-kareliya",
+    "email": "dhaval.kareliya@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "dhaval-kareliya",
+      "value": "dhaval.kareliya@truestaz.com"
+    }
+  },
+  "proxied": false
+}
