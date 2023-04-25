@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "patel-jatin",
+    "email": "jatin.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "patel-jatin",
+      "value": "jatin.patel@truestaz.com"
+    }
+  },
+  "proxied": false
+}
