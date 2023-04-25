@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "s-nishit",
+    "email": "nishit.shah@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "s-nishit",
+      "value": "nishit.shah@truestaz.com"
+    }
+  },
+  "proxied": false
+}
