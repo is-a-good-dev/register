@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "mahevish-husseni",
+    "email": "mahevish.husseni@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mahevish-husseni",
+      "value": "mahevish.husseni@truestaz.com"
+    }
+  },
+  "proxied": false
+}
