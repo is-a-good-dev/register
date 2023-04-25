@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "Bhavesh-p-Patel",
+    "email": "bhavesh.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "Bhavesh-p-Patel",
+      "value": "bhavesh.patel@truestaz.com"
+    }
+  },
+  "proxied": false
+}
