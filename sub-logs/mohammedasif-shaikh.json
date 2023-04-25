@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "mohammedasif-shaikh",
+    "email": "mohammedasif.shaikh@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mohammedasif-shaikh",
+      "value": "hitesh.makodiya@truestaz.com"
+    }
+  },
+  "proxied": false
+}
