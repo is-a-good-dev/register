@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "panchal-meet",
+    "email": "meet.panchal@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "panchal-meet",
+      "value": "meet.panchal@truestaz.com"
+    }
+  },
+  "proxied": false
+}
