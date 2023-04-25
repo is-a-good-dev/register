@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "kishan-bagiya",
+    "email": "kishan.bagiya@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "kishan-bagiya",
+      "value": "kishan.bagiya@truestaz.com"
+    }
+  },
+  "proxied": false
+}
