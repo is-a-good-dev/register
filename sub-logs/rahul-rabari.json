@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "rahul-rabari",
+    "email": "rahul.rabari@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "rahul-rabari",
+      "value": "rahul.rabari@truestaz.com"
+    }
+  },
+  "proxied": false
+}
