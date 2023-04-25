@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "soni-aakas",
+    "email": "akash.soni@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "soni-aakas",
+      "value": "akash.soni@truestaz.com"
+    }
+  },
+  "proxied": false
+}
