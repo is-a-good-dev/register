@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "patel-darshit",
+    "email": "darshit.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "patel-darshit",
+      "value": "darshit.patel@truestaz.com"
+    }
+  },
+  "proxied": false
+}
