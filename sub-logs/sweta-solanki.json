@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "sweta-solanki",
+    "email": "sweta.solanki@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sweta-solanki",
+      "value": "sweta.solanki@truestaz.com"
+    }
+  },
+  "proxied": false
+}
