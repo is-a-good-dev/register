@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "sanjay-makasana",
+    "email": "sanjay.makasana@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sanjay-makasana",
+      "value": "sanjay.makasana@truestaz.com"
+    }
+  },
+  "proxied": false
+}
