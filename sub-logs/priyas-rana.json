@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "priyas-rana",
+    "email": "priyas.rana@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "priyas-rana",
+      "value": "priyas.rana@truestaz.com"
+    }
+  },
+  "proxied": false
+}
