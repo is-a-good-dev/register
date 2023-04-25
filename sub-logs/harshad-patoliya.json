@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "harshad-patoliya",
+    "email": "harshad.patoliya@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "harshad-patoliya",
+      "value": "harshad.patoliya@truestaz.com"
+    }
+  },
+  "proxied": false
+}
