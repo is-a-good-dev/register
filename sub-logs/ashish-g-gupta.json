@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ashish-g-gupta",
+    "email": "ashish.gupta@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ashish-g-gupta",
+      "value": "ashish.gupta@truestaz.com"
+    }
+  },
+  "proxied": false
+}
