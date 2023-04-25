@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "s-kunjan",
+    "email": "kunjan.shah@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "s-kunjan",
+      "value": "kunjan.shah@truestaz.com"
+    }
+  },
+  "proxied": false
+}
