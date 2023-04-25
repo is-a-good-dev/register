@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "hinal-sanghvi",
+    "email": "hinal.sanghvi@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "hinal-sanghvi",
+      "value": "hinal.sanghvi@truestaz.com"
+    }
+  },
+  "proxied": false
+}
+
