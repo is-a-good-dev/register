@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "nipul-bhogayat",
+    "email": "nipul.bhogayata@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "nipul-bhogayat",
+      "value": "nipul.bhogayata@truestaz.com"
+    }
+  },
+  "proxied": false
+}
