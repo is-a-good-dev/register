@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "shweta-gotecha",
+    "email": "shweta.gotecha@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "shweta-gotecha",
+      "value": "shweta.gotecha@truestaz.com"
+    }
+  },
+  "proxied": false
+}
