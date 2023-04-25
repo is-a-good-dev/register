@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "singh-jitendar",
+    "email": "jitender.singh@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "singh-jitendar",
+      "value": "jitender.singh@truestaz.com"
+    }
+  },
+  "proxied": false
+}
