@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "patelhardik-p",
+    "email": "hardik.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "patelhardik-p",
+      "value": "hardik.patel@truestaz.com"
+    }
+  },
+  "proxied": false
+}
