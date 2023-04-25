@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "nirav-bhut",
+    "email": "nirav.bhut@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "nirav-bhut",
+      "value": "nirav.bhut@truestaz.com"
+    }
+  },
+  "proxied": false
+}
