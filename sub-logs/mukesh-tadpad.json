@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "mukesh-tadpad",
+    "email": "mukesh.tadpad@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mukesh-tadpad",
+      "value": "mukesh.tadpad@truestaz.com"
+    }
+  },
+  "proxied": false
+}
