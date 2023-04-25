@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "Jay-d-dave",
+    "email": "jay.dave@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "Jay-d-dave",
+      "value": "jay.dave@truestaz.com"
+    }
+  },
+  "proxied": false
+}
