@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "samir-vaghela",
+    "email": "samir.vaghela@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "samir-vaghela",
+      "value": "samir.vaghela@truestaz.com"
+    }
+  },
+  "proxied": false
+}
