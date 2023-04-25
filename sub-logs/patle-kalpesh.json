@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "patle-kalpesh",
+    "email": "kalpesh.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "patle-kalpesh",
+      "value": "kalpesh.patel@truestaz.com"
+    }
+  },
+  "proxied": false
+}
