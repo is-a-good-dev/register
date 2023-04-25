@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "patel-parthiv",
+    "email": "parthiv.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "patel-parthiv",
+      "value": "parthiv.patel@truestaz.com"
+    }
+  },
+  "proxied": false
+}
