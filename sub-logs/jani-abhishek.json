@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "jani-abhishek",
+    "email": "abhishek.jani@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "jani-abhishek",
+      "value": "abhishek.jani@truestaz.com"
+    }
+  },
+  "proxied": false
+}
