@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ravi-pate",
+    "email": "ravi.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ravi-pate",
+      "value": "ravi.patel@truestaz.com"
+    }
+  },
+  "proxied": false
+}
