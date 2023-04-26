@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "s-kunjan",
-      "value": "s-kunjan.giyhub.io"
+      "value": "s-kunjan.github.io"
     }
   },
   "proxied": false
