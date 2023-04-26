@@ -6,7 +6,7 @@
   "target": {
     "CNAME": {
       "name": "panchal-meet",
-      "value": "meet.panchal@truestaz.com"
+      "value": "meet-panchal.github.io"
     }
   },
   "proxied": false
