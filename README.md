@@ -35,4 +35,4 @@ Use the code: `STARTED20` for 20% off of your first month!
 - [Discord Server](https://discord.gg/vmVaAn8YcK)
 
 ### Similar Projects
-See [free-for.dev](https://free-for.dev/#/?id=domain) for similar projects.
+See [free-for.life](https://free-for.life/#/?id=domains) for similar projects.
