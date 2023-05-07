@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "mdizo",
+        "email": "mdizo6482@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "mdizo",
+            "value": [""]
+        }
+    },
+
+    "proxied": false
+}
