@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "ujalakhasiya",
+    "email": "ujala.khasiya@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ujalakhasiya",
+      "value": "ujalakhasiya.github.io"
+    }
+  },
+  "proxied": false
+}
