@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "mausami-parmar",
+    "email": "mausami.parmar@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mausami-parmar",
+      "value": "mausami-parmar.github.io"
+    }
+  },
+  "proxied": false
+}
