@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "patel-radhika",
+    "email": "radhika.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "patel-radhika",
+      "value": "patel-radhika.github.io"
+    }
+  },
+  "proxied": false
+}
