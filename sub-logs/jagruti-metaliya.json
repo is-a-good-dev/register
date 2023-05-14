@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "jagruti-metaliya",
+    "email": "jagruti.metaliya@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "jagruti-metaliya",
+      "value": "jagruti-metaliya.github.io"
+    }
+  },
+  "proxied": false
+}
