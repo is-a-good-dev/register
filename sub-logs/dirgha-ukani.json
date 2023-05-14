@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "dirgha-ukani",
+    "email": "dirgha.ukani@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "dirgha-ukani",
+      "value": "dirgha-ukani.github.io"
+    }
+  },
+  "proxied": false
+}
+
