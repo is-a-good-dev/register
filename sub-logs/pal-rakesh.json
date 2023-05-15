@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "pal-rakesh",
+    "email": "rakesh.pal@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "pal-rakesh",
+      "value": "pal-rakesh.github.io"
+    }
+  },
+  "proxied": false
+}
