@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "patel-komal",
+    "email": "komal.patel@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "patel-komal",
+      "value": "komal-patel.github.io"
+    }
+  },
+  "proxied": false
+}
+
