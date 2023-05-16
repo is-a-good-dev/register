@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "mayank-rathva",
+    "email": "mayank.rathva@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mayank-rathva",
+      "value": "mayank-rathva.github.io"
+    }
+  },
+  "proxied": false
+}
