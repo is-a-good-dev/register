@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "maheta-bhavik",
+    "email": "mehta.bhavik@truestaz.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "maheta-bhavik",
+      "value": "maheta-bhavik.github.io"
+    }
+  },
+  "proxied": false
+}
