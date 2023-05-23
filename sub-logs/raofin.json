@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "Raofin",
+    "email": "hello@raofin.net"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "raofin", 
+      "value": "rao-dev.pages.dev"
+    }
+  },
+
+  "proxied": false
+}
