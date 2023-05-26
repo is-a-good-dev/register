@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/d99-1/d99-1.github.io",
+    "repo": "https://github.com/d99-1/d99-1.github.io",
 
-  "owner": {
-    "username": "Dhyan99",
-    "email": "dhyantanna@gmail.com"
-  },
+    "owner": {
+        "username": "Dhyan99",
+        "email": "dhyantanna@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "dhyan99", 
-      "value": "d99-1.github.io"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "dhyan99",
+            "value": "d99-1.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

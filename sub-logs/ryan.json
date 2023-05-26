@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "lazylamps",
-    "email": "lampslazy@gmail.com"
-  },
+    "owner": {
+        "username": "lazylamps",
+        "email": "lampslazy@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "ryan",
-      "value": "lazylamps.github.io"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "ryan",
+            "value": "lazylamps.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

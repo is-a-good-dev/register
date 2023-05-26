@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "Scronite",
-    "email": "scronite@gmail.com"
-  },
+    "owner": {
+        "username": "Scronite",
+        "email": "scronite@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-       "name": "scronite", 
-       "value": "chile.zaicadiahost.xyz"
-     }
-  },
+    "target": {
+        "CNAME": {
+            "name": "scronite",
+            "value": "chile.zaicadiahost.xyz"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

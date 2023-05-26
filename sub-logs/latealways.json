@@ -1,13 +1,13 @@
 {
-  "owner": {
-    "username": "LateAlways",
-    "email": "javiparedes08@outlook.com"
-  },
-  "target": {
-    "A": {
-       "name": "latealways", 
-       "value": ["85.239.250.3"]
-     }
-  },
-  "proxied": false
+    "owner": {
+        "username": "LateAlways",
+        "email": "javiparedes08@outlook.com"
+    },
+    "target": {
+        "A": {
+            "name": "latealways",
+            "value": ["85.239.250.3"]
+        }
+    },
+    "proxied": false
 }

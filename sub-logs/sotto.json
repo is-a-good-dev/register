@@ -1,27 +1,17 @@
-
 {
+    "owner": {
+        "username": "Tweak4141",
 
-  "owner": {
+        "email": "tweak@talosbot.xyz"
+    },
 
-    "username": "Tweak4141",
+    "target": {
+        "CNAME": {
+            "name": "sotto",
 
-    "email": "tweak@talosbot.xyz"
+            "value": "dns.talosbot.xyz"
+        }
+    },
 
-  },
-
-  "target": {
-
-    "CNAME": {
-
-      "name": "sotto",
-
-      "value": "dns.talosbot.xyz"
-
-    }
-
-  },
-
-  "proxied": false
-
+    "proxied": false
 }
-

@@ -1,13 +1,13 @@
 {
-  "owner": {
-    "username": "akta-chavda",
-    "email": "akta-chavda@acquaintsofttech.com"
-  },
-  "target": {
-    "CNAME": {
-      "name": "akta-chavda",
-      "value": "akta-chavda.github.io"
-    }
-  },
-  "proxied": false
+    "owner": {
+        "username": "akta-chavda",
+        "email": "akta-chavda@acquaintsofttech.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "akta-chavda",
+            "value": "akta-chavda.github.io"
+        }
+    },
+    "proxied": false
 }

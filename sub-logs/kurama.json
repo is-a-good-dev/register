@@ -1,16 +1,15 @@
 {
-  "owner": {
-    "username": "404Kurama",
-    "email": "kurama.notfound@gmail.com"
-  },
+    "owner": {
+        "username": "404Kurama",
+        "email": "kurama.notfound@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "Kurama",
-      "value": "kurama.github.io"
-    }
-  },
-  "check": true,
-  "proxied": false
+    "target": {
+        "CNAME": {
+            "name": "Kurama",
+            "value": "kurama.github.io"
+        }
+    },
+    "check": true,
+    "proxied": false
 }
-

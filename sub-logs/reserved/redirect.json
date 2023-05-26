@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "is-a-good-dev",
-    "email": "will@is-a-good.dev"
-  },
+    "owner": {
+        "username": "is-a-good-dev",
+        "email": "will@is-a-good.dev"
+    },
 
-  "target": {
-    "A": {
-      "name": "redirect",
-      "value": "52.72.49.79"
-    }
-  },
+    "target": {
+        "A": {
+            "name": "redirect",
+            "value": "52.72.49.79"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/Badisse/site-perso",
+    "repo": "https://github.com/Badisse/site-perso",
 
-  "owner": {
-    "username": "Badisse",
-    "email": "badisse.bouabdallah@proton.me"
-  },
+    "owner": {
+        "username": "Badisse",
+        "email": "badisse.bouabdallah@proton.me"
+    },
 
-  "target": {
-    "CNAME": {
-       "name": "badisse-bouabdallah", 
-       "value": "badisse.netlify.app"
-     }
-  },
+    "target": {
+        "CNAME": {
+            "name": "badisse-bouabdallah",
+            "value": "badisse.netlify.app"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

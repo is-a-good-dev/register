@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/partehdev/gdparteh.is-a-cool.dev",
+    "repo": "https://github.com/partehdev/gdparteh.is-a-cool.dev",
 
-  "owner": {
-    "username": "PartehDev",
-    "email": "parteh0754.coding.guy@gmail.com"
-  },
+    "owner": {
+        "username": "PartehDev",
+        "email": "parteh0754.coding.guy@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "gdparteh",
-      "value": "partehdev.github.io"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "gdparteh",
+            "value": "partehdev.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

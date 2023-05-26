@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/is-a-good-dev/docs",
+    "repo": "https://github.com/is-a-good-dev/docs",
 
-  "owner": {
-    "username": "is-a-good-dev",
-    "email": "will@is-a-good.dev"
-  },
+    "owner": {
+        "username": "is-a-good-dev",
+        "email": "will@is-a-good.dev"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "docs", 
-      "value": "is-a-good-dev.github.io"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "docs",
+            "value": "is-a-good-dev.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

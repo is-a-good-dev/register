@@ -1,15 +1,15 @@
 {
-	"owner": {
-		"username": "TianTcl",
-		"email": "tclwebguest@gmail.com"
-	},
+    "owner": {
+        "username": "TianTcl",
+        "email": "tclwebguest@gmail.com"
+    },
 
-	"target": {
-		"CNAME": {
-			"name": "tiantcl",
-			"value": "info.tiantcl.net"
-		}
-	},
+    "target": {
+        "CNAME": {
+            "name": "tiantcl",
+            "value": "info.tiantcl.net"
+        }
+    },
 
-	"proxied": false
+    "proxied": false
 }

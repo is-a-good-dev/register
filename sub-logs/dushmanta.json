@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "dushmanta05",
-    "email": "dilub4@gmail.com"
-  },
+    "owner": {
+        "username": "dushmanta05",
+        "email": "dilub4@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-       "name": "dushmanta", 
-       "value": "dushmanta05.github.io"
-     }
-  },
+    "target": {
+        "CNAME": {
+            "name": "dushmanta",
+            "value": "dushmanta05.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

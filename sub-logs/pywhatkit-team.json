@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "SigireddyBalasai",
-    "email": "SigireddyBalasai@gmail.com"
-  },
+    "owner": {
+        "username": "SigireddyBalasai",
+        "email": "SigireddyBalasai@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "pywhatkit-team", 
-      "value": "2fde5c57-5bba-40e6-8bf2-6a3deeb9f9fc.id.repl.co"
-    }
-  },
-  
-  "proxied": false
+    "target": {
+        "CNAME": {
+            "name": "pywhatkit-team",
+            "value": "2fde5c57-5bba-40e6-8bf2-6a3deeb9f9fc.id.repl.co"
+        }
+    },
+
+    "proxied": false
 }

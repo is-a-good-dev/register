@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "RehanPlayz",
-    "email": "rehan@rehanplayz.gq"
-  },
+    "owner": {
+        "username": "RehanPlayz",
+        "email": "rehan@rehanplayz.gq"
+    },
 
-  "target": {
-    "A": {
-      "name": "rehanplayz",
-      "value": "198.251.81.131"
-    }
-  },
+    "target": {
+        "A": {
+            "name": "rehanplayz",
+            "value": "198.251.81.131"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }
