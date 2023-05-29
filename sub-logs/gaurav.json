@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "grvzm",
+    "email": "thegolumehra@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "gaurav",
+      "value": "grvzm.github.io"
+    }
+  },
+  "proxied": false
+}
