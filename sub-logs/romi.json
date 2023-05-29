@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "romi",
+    "email": "romidev20@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "volna",
+      "value": "leuthra.github.io"
+    }
+  },
+  "proxied": false
+}
