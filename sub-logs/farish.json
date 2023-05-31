@@ -1,0 +1,18 @@
+{
+  "repo": "https://github.com/f4rrysh/portfolio",
+  "owner": {
+    "username": "f4rrysh",
+    "email": "hello.farish.irfan@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "farish",
+      "value": "cname.vercel-dns.com"
+    },
+    "TXT": {
+      "name": "_vercel", 
+      "value": "vc-domain-verify=farish.is-a-good.dev,862d5f85b8744e29248b"
+    }
+  },
+  "proxied": false
+}
