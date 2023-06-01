@@ -15,6 +15,7 @@ Your pull request **will not** be merged if:
 - You already own a subdomain on our service.
 - The records provided includes invalid/unpermitted record types. If this happens we will notify you and request changes.
 - It violates users privacy.
+- It uses Vercel or Netlify, as there are issues with subdomain verification. We hope to add support back soon.
 
 *If your subdomain is inactive, it may be purged. We will try and notify you before purging via the email you provided.*
 
