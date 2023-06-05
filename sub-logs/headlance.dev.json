@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "chargercreepy001",
+        "email": "chargedcreeper2007@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "headlance.dev",
+            "value": "300"
+        }
+    },
+
+    "proxied": true
+}
