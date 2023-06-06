@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "Mr-Tired12 ",
+    "email": "windowshpserver@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "shreyash", 
+       "value": "A"
+     }
+  },
+
+  "proxied": false
+}
