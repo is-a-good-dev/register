@@ -8,11 +8,6 @@
         "CNAME": {
             "name": "raw",
             "value": "wdhdev.github.io"
-        },
-
-        "TXT": {
-            "name": "_github-pages-challenge-wdhdev.raw",
-            "value": "ea47b2c6d08c69664990e12035aa60"
         }
     },
 
