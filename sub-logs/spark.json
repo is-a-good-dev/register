@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "realspark808",
+    "email": "burnedspark69@gmail.com"
+  },
+  "target": { 
+    "CNAME": {
+      "name": "Spark",
+      "value": "55ce10ef-805d-4f67-a702-435d39062da6.id.repl.co"
+    }
+  },
+
+  "proxied": false
+}
