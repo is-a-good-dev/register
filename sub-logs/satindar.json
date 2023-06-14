@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Satindar31/satindar.github.io",
+
+  "owner": {
+    "username": "Satindar31",
+    "email": "x7pz8871v@mozmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "satindar", 
+      "value": "satindar31.github.io"
+    }
+  },
+
+  "proxied": false
+}
