@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/notnotrachit/notnotrachit.github.io",
+
+  "owner": {
+    "username": "notnotrachit",
+    "email": "notnotrachit@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "rachit",
+      "value": "notnotrachit-github-io.pages.dev"
+    }
+  },
+
+  "proxied": true
+}
