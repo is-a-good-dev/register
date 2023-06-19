@@ -9,9 +9,9 @@
   "target": {
     "CNAME": {
       "name": "rachit",
-      "value": "portfolio-a38h.onrender.com"
+      "value": "na-west1.surge.sh"
     }
   },
 
-  "proxied": false
+  "proxied": true
 }
