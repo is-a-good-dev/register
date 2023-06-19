@@ -9,9 +9,9 @@
   "target": {
     "CNAME": {
       "name": "rachit",
-      "value": "notnotrachit-github-io.pages.dev"
+      "value": "portfolio-a38h.onrender.com"
     }
   },
 
-  "proxied": true
+  "proxied": false
 }
