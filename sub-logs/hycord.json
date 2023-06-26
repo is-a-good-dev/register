@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "hycord",
+        "email": "hycord@hycordia.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "hycord",
+            "value": "hycord.up.railway.app"
+        }
+    },
+    "proxied": "false"
+}
