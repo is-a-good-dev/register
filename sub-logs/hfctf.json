@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/Rominaru/CTFd",
+
+    "owner": {
+        "username": "Rominaru",
+        "email": "romis4866@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "hfctf",
+            "value": "hfctf.up.railway.app"
+        }
+    },
+
+    "proxied": false
+}
