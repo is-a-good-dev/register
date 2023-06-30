@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "RETBOT",
+        "email": "robertoesquiveltr16@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "roberto-esquivel-troncoso",
+            "value": ["pecas"]
+        }
+    },
+
+    "proxied": false
+}
