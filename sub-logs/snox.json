@@ -1,15 +1,15 @@
 {
   "owner": {
     "username": "snox",
-    "email": "ItsNotSnox@gmail.com",
+    "email": "SimplySnox@gmail.com",
     "github": "SimplySnox",
-    "discord": "Snox#6973"
+    "discord": "simplysnox"
   },
 
   "target": {
     "CNAME": {
       "name": "snox", 
-      "value": "snox.cf"
+      "value": "snox.codes"
     }
   },
 
