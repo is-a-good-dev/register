@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/kyro3400/kyro3400.github.io",
+
+  "owner": {
+    "username": "Kyro3400",
+    "email": "jonlichter09@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "who",
+      "value": "kyro3400.github.io"
+    }
+  },
+
+  "proxied": false
+}
