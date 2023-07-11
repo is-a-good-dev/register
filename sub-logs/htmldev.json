@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "BeastYTX",
+        "email": "xbeastgamerytx@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "htmldev",
+            "value": "25faa1b9d2-hosting.gitbook.io"
+        }
+    },
+
+    "proxied": false
+}
