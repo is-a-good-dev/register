@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "compCoder007",
+    "email": "competentcoder007@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "compCoder", 
+       "value": "compcoder007.github.io"
+     }
+  },
+
+  "proxied": false
+}
