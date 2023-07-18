@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "abulaman8",
+        "email": "abulaman6@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "mocktest-iitmbs",
+            "value": ["34.214.175.71"]
+        }
+    },
+
+    "proxied": true
+}
