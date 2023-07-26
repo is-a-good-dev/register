@@ -9,7 +9,15 @@
     "target": {
         "CNAME": {
             "name": "anon",
-            "value": "anondev.up.railway.app"
+            "value": "anondev.onrender.com"
+        },
+        "MX": {
+            "name": "anon",
+            "value": "mx.mailtie.com"
+        },
+        "TXT": {
+            "name": "anon",
+            "value": "mailtie=me@anon.is-a.dev"
         }
     },
 
