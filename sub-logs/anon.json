@@ -10,14 +10,6 @@
         "CNAME": {
             "name": "anon",
             "value": "anondev.onrender.com"
-        },
-        "MX": {
-            "name": "anon",
-            "value": "mx.mailtie.com"
-        },
-        "TXT": {
-            "name": "anon",
-            "value": "mailtie=me@anon.is-a.dev"
         }
     },
 
