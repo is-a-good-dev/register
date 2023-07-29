@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/WiredDesigns/wireddesigns.github.io",
+
+  "owner": {
+    "username": "WiredDesigns",
+    "email": "stofferprogramming@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "astrous", 
+       "value": "wireddesigns.github.io"
+     }
+  },
+
+  "proxied": true
+}
