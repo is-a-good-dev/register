@@ -1,0 +1,14 @@
+{
+    "owner": {
+      "username": "Maru-Yasa",
+      "email": "marufilyasa13@gmail.com"
+    },
+    "target": {
+      "CNAME": {
+        "name": "maruyasa",
+        "value": "maruyasa.netlify.app"
+      }
+    },
+    "proxied": false
+  }
+  
