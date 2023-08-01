@@ -9,7 +9,7 @@
     "target": {
         "CNAME": {
             "name": "anon",
-            "value": "anondev.up.railway.app"
+            "value": "anondev.onrender.com"
         }
     },
 
