@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "edsonbittencourt",
+        "email": "edson.bittencourt@outlook.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "edsonbittencourt",
+            "value": ["168.138.228.142"]
+        }
+    },
+
+    "proxied": false
+}
