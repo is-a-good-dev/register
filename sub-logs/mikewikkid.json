@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "PureGov",
+        "email": "susangoldsmith1958@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "mikewikkid",
+            "value": "v=spf1 include:spf.improvmx.com ~all"
+        }
+    },
+
+    "proxied": false
+}
