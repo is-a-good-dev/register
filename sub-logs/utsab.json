@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/utsabzz/is-a-good-dev",
+  
+    "owner": {
+      "username": "utsab",
+      "email": "mandalutsab4d@gmail.com"
+    },
+  
+    "target": {
+      "CNAME": {
+         "name": "utsab", 
+         "value": "https://utsabzz.000webhostapp.com/"
+       }
+    },
+  
+    "proxied": true
+}
