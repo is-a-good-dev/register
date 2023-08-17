@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Mrfamou",
+        "email": "rifkiibul@gmail.com"
+    },
+
+    "target": {
+        "AAAA": {
+            "name": "rifkiibul",
+            "value": ["12"]
+        }
+    },
+
+    "proxied": true
+}
