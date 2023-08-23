@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "ppg00",
+        "email": "vx2dsk@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "mohammed",
+            "value": ["185.199.108.153"]
+        }
+    },
+
+    "proxied": false
+}
