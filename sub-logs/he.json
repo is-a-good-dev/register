@@ -1,0 +1,15 @@
+{  
+    "owner": {
+      "username": "yr3",
+      "email": "yazeedl@pm.me"
+    },
+  
+    "target": {
+      "CNAME": {
+        "name": "he", 
+        "value": "yazeed.works"
+      }
+    },
+  
+    "proxied": true
+  }
