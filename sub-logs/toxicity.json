@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "CNAME": {
+    "A": {
        "name": "toxicity", 
-       "value": "693b7c71-95e9-452b-9cbf-81fde30db78f.id.repl.co"
+       "value": "35.186.245.55"
      }
   },
 
