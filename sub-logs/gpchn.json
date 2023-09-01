@@ -8,10 +8,10 @@
 
   "target": {
     "CNAME": {
-       "name": "docs", 
-       "value": "gpchn.pages.dev"
+       "name": "blog",
+       "value": "edge.redirect.pizza"
      }
   },
 
-  "proxied": false
+  "proxied": true
 }
