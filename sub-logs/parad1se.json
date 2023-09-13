@@ -1,15 +1,17 @@
 {
-    "owner": {
-        "username": "Parad1se-py",
-        "email": "tigerninja2234@gmail.com"
-    },
+  "repo": "https://github.com/Parad1se-py/parad1se-is-a-good-dev",
 
-    "target": {
-        "CNAME": {
-            "name": "parad1se",
-            "value": "{  "repo": "https://github.com/parad1se-py/parad1se-is-a-good-dev",  "owner": {    "username": "parad1se-py",    "email": "tigerninja2234@gmail.com"  },  "target": {    "cname": {       "name": "parad1se",        "value": "hosting.gitbook.io""
-        }
-    },
+  "owner": {
+    "username": "Parad1se-py",
+    "email": "tigerninja2234@gmail.com"
+  },
 
-    "proxied": false
+  "target": {
+    "CNAME": {
+       "name": "parad1se", 
+       "value": "hosting.gitbook.io"
+     }
+  },
+
+  "proxied": false
 }
