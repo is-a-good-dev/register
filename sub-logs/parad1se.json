@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Parad1se-py/parad1se-is-a-good-dev",
+
+  "owner": {
+    "username": "Parad1se-py",
+    "email": "tigerninja2234@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "parad1se", 
+       "value": "hosting.gitbook.io"
+     }
+  },
+
+  "proxied": false
+}
