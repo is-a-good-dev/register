@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "cppqtdev",
+        "email": "adeshkushwah9@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "dock",
+            "value": "adeshsingh.gitbook.io"
+        }
+    },
+
+    "proxied": true
+}
