@@ -1,0 +1,15 @@
+{ 
+         "owner": { 
+                 "username": "satyaidk", 
+                 "email": "nikadisatyanarayana@gmail.com" 
+         }, 
+  
+         "target": { 
+                 "CNAME": { 
+                         "name": "satyaidk", 
+                         "value": "satyaidk.github.io" 
+                 } 
+         }, 
+  
+         "proxied": false 
+}
