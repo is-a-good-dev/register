@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "memoli0",
+    "email": "mehmetnurabak0@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "m0s", 
+       "value": "m0s.vercel.app"
+     }
+  },
+
+  "proxied": false
+}
