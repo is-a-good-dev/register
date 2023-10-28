@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "filesfor",
+        "email": "BuddyDudeBudXSnakeArmy@proton.me"
+    },
+
+    "target": {
+        "A": {
+            "name": "mainstream",
+            "value": ["194.223.81.236:8080"]
+        }
+    },
+
+    "proxied": false
+}
