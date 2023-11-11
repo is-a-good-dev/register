@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "I-love-paper",
+    "email": "zxcvbnm1357905@outlook.com"
+  },
+
+  "target": {
+    "NS": {
+       "name": "wsqz", 
+       "value": "fns1.42.pl"
+     }
+  },
+
+  "proxied": true
+}
