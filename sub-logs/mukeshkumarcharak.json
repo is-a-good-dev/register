@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "hakxcore",
+        "email": "mukeshkumarcharak@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "mukeshkumarcharak",
+            "value": "https://hakxcore.github.io"
+        }
+    },
+
+    "proxied": false
+}
