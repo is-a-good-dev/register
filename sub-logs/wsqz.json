@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "NS": {
+    "CNAME": {
        "name": "wsqz", 
-       "value": "fns1.42.pl"
+       "value": "cname-china.vercel-dns.com"
      }
   },
 
