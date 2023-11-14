@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "notaymo",
+        "email": "ninecraftoff@outlook.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "cloud.aymo",
+            "value": "65.19.141.67"
+        }
+    },
+
+    "proxied": false
+}
