@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Kresswell/registerr",
+
+  "owner": {
+    "username": "Kresswell",
+    "email": "simonecresswell@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "www", 
+      "value": "cname.vercel-dns.com."
+    }
+  },
+
+  "proxied": false
+}
