@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "I-love-paper",
+    "email": "zxcvbnm1357905@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "wsqz", 
+       "value": "i-love-paper.github.io"
+     }
+  },
+
+  "proxied": true
+}
