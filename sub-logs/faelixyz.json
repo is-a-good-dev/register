@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "faelixyz",
+    "email": "hey@fae5.studio"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "CNAME", 
+       "value": "isagooddev.pages.dev"
+     }
+  },
+
+  "proxied": false
+}
