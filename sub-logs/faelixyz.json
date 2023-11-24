@@ -7,8 +7,8 @@
   },
 
   "target": {
-    "record-type": {
-       "name": "CNAME", 
+    "CNAME": {
+       "name": "faelixyz", 
        "value": "isagooddev.pages.dev"
      }
   },
