@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/utsabzz/website",
+
+  "owner": {
+    "username": "utsabzz",
+    "email": "mandalutsab4d@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "docs", 
+       "value": "https://utsabzz.000webhostapp.com/"
+     }
+  },
+
+  "proxied": false
+}
