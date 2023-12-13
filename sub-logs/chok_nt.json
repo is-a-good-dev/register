@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/shoknt/choknt",
+  "repo": "https://github.com/shoknt/chokt",
 
   "owner": {
     "username": "shoknt",
@@ -8,8 +8,8 @@
 
   "target": {
     "CNAME": {
-       "name": "choknt", 
-       "value": "choknt.github.io"
+       "name": "chokt", 
+       "value": "chokt.github.io"
      }
   },
 
