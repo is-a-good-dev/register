@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/shoknt/choknt",
+
+  "owner": {
+    "username": "shoknt",
+    "email": "rtdd02741@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "choknt", 
+       "value": "choknt.github.io"
+     }
+  },
+
+  "proxied": false
+}
