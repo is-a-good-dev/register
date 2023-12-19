@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "anirbanroy07",
+    "email": "imanirbanroy88@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "anirbanroy", 
+       "value": "anirbanroy07.github.io"
+     }
+  },
+
+  "proxied": false
+}
