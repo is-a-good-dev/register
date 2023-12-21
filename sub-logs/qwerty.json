@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Qwerty-Qwerty88",
+        "email": "personqwertyperson88@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "qwerty",
+            "value": ["34.111.254.92"]
+        }
+    },
+
+    "proxied": false
+}
