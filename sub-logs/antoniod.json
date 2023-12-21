@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "well-it-wasnt-me",
+        "email": "dangeloantonio179@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "antoniod",
+            "value": ["198.187.31.254"]
+        }
+    },
+
+    "proxied": false
+}
