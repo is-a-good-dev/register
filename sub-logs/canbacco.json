@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "gulumbariscan",
+        "email": "gulumbariscan@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "canbacco",
+            "value": ["158.180.60.197"]
+        }
+    },
+
+    "proxied": false
+}
