@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Inetplusteam",
+        "email": "barzsanz@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "vlessku",
+            "value": ["a"]
+        }
+    },
+
+    "proxied": false
+}
