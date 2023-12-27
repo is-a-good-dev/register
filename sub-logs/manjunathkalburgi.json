@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/kalburgimanjunath/is-a-good-dev-repo",
+  
+    "owner": {
+      "username": "manjunathkalburgi",
+      "email": "manjunathkalburgi@gmail.com"
+    },
+  
+    "target": {
+      "CNAME": {
+         "name": "kalburgimanjunath", 
+         "value": "manjunathkalburgi.dev"
+       }
+    },
+  
+    "proxied": true
+  }
