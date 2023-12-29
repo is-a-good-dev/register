@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/abramsatria/abramsatria.github.io",
+
+  "owner": {
+    "username": "abramsatria",
+    "email": "abramsatria7@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "abramsatria", 
+       "value": "abramsatria.github.io"
+     }
+  },
+
+  "proxied": false
+}
