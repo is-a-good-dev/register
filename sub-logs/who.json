@@ -5,9 +5,9 @@
   },
 
   "target": {
-    "CNAME": {
+    "A": {
       "name": "who",
-      "value": "proxy.private.danbot.host"
+      "value": "69.30.249.53"
     }
   },
 
