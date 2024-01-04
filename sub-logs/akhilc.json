@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/akhil0203/portfolio",
+
+  "owner": {
+    "username": "akhil0203",
+    "email": "akhiloff23@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "akhilc", 
+       "value": ""
+     }
+  },
+
+  "proxied": false
+}
