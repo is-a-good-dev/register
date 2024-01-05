@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "LilyMusic",
+    "email": "lilymusicdiscord@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "A", 
+       "value": "69.30.249.53"
+     }
+  },
+
+  "proxied": false
+}
