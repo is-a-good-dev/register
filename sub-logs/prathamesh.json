@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "PrathameshhW",
+        "email": "prathameshj0407@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "prathamesh",
+            "value": ["prathamesh"]
+        }
+    },
+
+    "proxied": false
+}
