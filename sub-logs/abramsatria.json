@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "abramsatria", 
        "value": "abramsatria.github.io"
      }
