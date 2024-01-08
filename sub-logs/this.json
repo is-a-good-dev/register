@@ -1,0 +1,22 @@
+{
+  "repo": "https://github.com/tr1xem",
+
+  "owner": {
+    "username": "tr1x_em",
+    "email": "trix@lawliet.tk"
+  },
+
+  "target": {
+     "TXT": [
+            {
+                "name": "_github-pages-challenge-superuser-l.this.is-a",
+                "value": "1c1a53df90e2a58bf9da2156a82649"
+            }
+        ]
+    }
+  },
+
+  "proxied": false
+}
+
+
