@@ -7,13 +7,10 @@
   },
 
   "target": {
-     "TXT": [
-            {
-                "name": "_github-pages-challenge-superuser-l.this.is-a",
-                "value": "1c1a53df90e2a58bf9da2156a82649"
-            }
-        ]
-    }
+    "TXT": {
+       "name": "_github-pages-challenge-superuser-l.this", 
+       "value": "35669c94bd249dceafa249e16c9479"
+     }
   },
 
   "proxied": false
