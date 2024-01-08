@@ -7,6 +7,7 @@
   },
 
   "target": {
+    "CNAME": "superuser-l.github.io",
     "TXT": {
        "name": "_github-pages-challenge-superuser-l.this", 
        "value": "35669c94bd249dceafa249e16c9479"
