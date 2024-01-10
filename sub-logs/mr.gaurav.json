@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "dukegaurav",
+        "email": "mr.gauravagrawalji@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "mr.gaurav",
+            "value": "hotdealkart.pages.dev"
+        }
+    },
+
+    "proxied": true
+}
