@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "naxixok533",
+    "email": "naxixok533@duck.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "4iran", 
+       "value": "a8t9dg1xb.xvia.cloud"
+     }
+  },
+
+  "proxied": false
+}
