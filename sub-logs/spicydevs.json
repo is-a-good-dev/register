@@ -1,0 +1,17 @@
+{
+	"website": "https://spicydevs.github.io",
+
+	"owner": {
+		"username": "OpAayush",
+		"email": "aayushmagrawal@gmail.com"
+	},
+
+	"target": {
+		"CNAME": {
+			"name": "spicydevs",
+			"value": "spicydevs.pages.dev"
+		}
+	},
+
+	"proxied": true
+}
