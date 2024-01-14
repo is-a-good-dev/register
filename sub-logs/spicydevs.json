@@ -10,7 +10,7 @@
 		"CNAME": {
 			"name": "spicydevs",
 			"value": "spicydevs.pages.dev"
-		},
+		}
 	},
 
 	"proxied": true
