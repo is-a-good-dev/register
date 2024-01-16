@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/RyuXyro/ryuxyro.is-a-good.dev",
+
+  "owner": {
+    "username": "RyuXro",
+    "email": "guest@kazuo.rf.gd"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "", 
+       "value": ""
+     }
+  },
+
+  "proxied": false
+}
