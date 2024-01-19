@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "levinhkhangzz",
+    "email": "levinhkhang631@gmail,com"
+  },
+
+  "target": {
+    "A": {
+       "name": "@", 
+       "value": "192.132.29.1"
+     }
+  },
+
+  "proxied": false
+}
