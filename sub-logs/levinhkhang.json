@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "levinhkhangzz",
+        "email": "levinhkhang631@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "levinhkhang",
+            "value": "vc-domain-verify=levinhkhang.is-a-good.dev,a0e695dd383de39067ac"
+        }
+    },
+
+    "proxied": true
+}
