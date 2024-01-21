@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "levinhkhangzz",
+        "email": "levinhkhang631@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "aedotris",
+            "value": "vc-domain-verify=aedotris.is-a-good.dev,f4f94fcb4a5b6405c15b"
+        }
+    },
+
+    "proxied": true
+}
