@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "mosa",
+    "email": "mosageneral@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "mosa",
+      "value": "130.162.164.99"
+    }
+  },
+
+  "proxied": false
+}
