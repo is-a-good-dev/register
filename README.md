@@ -4,6 +4,8 @@
 <p align="center">A free subdomain provider for developers around the globe.</p>
 <p align="center">Thanks to our <a href="#sponsors">sponsors</a> for keeping this project running.</p>
 
+**This project needs funding.** We are currently supporting the domain registration from our own money but as money gets tighter it becomes more of a struggle to keep this project running. Check back here for more updates regarding this issue.
+
 ## Register
 Please read the [documentation](https://docs.is-a-good.dev) to register a new domain manually.
 
