@@ -7,7 +7,9 @@
     "target": {
         "A": {
             "name": "hycord",
-            "value": "89.106.200.1"
+            "value": [
+                "89.106.200.1"
+            ]
         }
     },
     "proxied": false
