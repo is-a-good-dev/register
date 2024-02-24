@@ -1,0 +1,41 @@
+{
+  "repo": "https://github.com/aadirajuthup/is-a-good-dev",
+
+  "owner": {
+    "username": "aadirajuthup",
+    "email": "aadi.rajuthup@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "@", 
+       "value": "150.136.148.164"
+     },
+    "A": {
+       "name": "api", 
+       "value": "150.136.148.164"
+     },
+    "A": {
+       "name": "chat", 
+       "value": "150.136.148.164"
+     },
+    "A": {
+       "name": "drive", 
+       "value": "150.136.148.164"
+     },
+    "CNAME": {
+       "name": "www.api", 
+       "value": "api."
+     },
+    "CNAME": {
+       "name": "www.chat", 
+       "value": "chat."
+     },
+    "CNAME": {
+       "name": "www.drive", 
+       "value": "drive."
+     },
+  },
+
+  "proxied": false
+}
