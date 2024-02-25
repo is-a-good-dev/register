@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "heyy-josval",
+        "email": "josvalmtrz@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "josval",
+            "value": "vc-domain-verify=josval.is-a-good.dev,1a4792425d2e7bb43103"
+        }
+    },
+
+    "proxied": false
+}
