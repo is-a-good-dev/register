@@ -14,8 +14,6 @@
 ## Register
 Please read the [documentation](https://docs.is-a-good.dev) to register a new domain manually.
 
-Or if you want to register a domain using your command line, you can check out our [CLI](https://github.com/is-a-good-dev/cli).
-
 ---
 
 Your pull request **will not** be merged if:
