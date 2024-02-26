@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "rawfin",
+    "email": "hello@rawfin.net"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "rawfin", 
+      "value": "rawfin.pages.dev"
+    }
+  },
+
+  "proxied": false
+}
