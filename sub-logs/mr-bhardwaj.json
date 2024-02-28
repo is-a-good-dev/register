@@ -1,0 +1,17 @@
+{
+    "repo": "",
+  
+    "owner": {
+      "username": "rohanbhardwaj205",
+      "email": "71399@cgcjhanjeri.in"
+    },
+  
+    "target": {
+      "CNAME": {
+         "name": "mr-bhardwaj", 
+         "value": "rohanbhardwaj205.github.io"
+       }
+    },
+  
+    "proxied": false
+  }
