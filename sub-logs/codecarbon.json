@@ -1,0 +1,21 @@
+{
+    "repo": "https://github.com/CodeCarbon/.is-a.good.dev",
+    
+    "owner": {
+        "username": "CodeCarbon",
+        "email": "mr_business_email@gmail.com"
+    },
+    
+    "target": {
+        "CNAME": {
+            "name": "codecarbon",
+            "value": "codecarbon.vercel.app"
+        },
+        "TXT": {
+            "name" : "_vercel",
+            "value" : "vc-domain-verify=codecarbon.is-cool.dev,bef7285fa01a605d609"
+        }
+    },
+    
+    "proxied": false
+}
