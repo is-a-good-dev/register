@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "ImInTheICU",
+    "email": "pingudiscord@proton.me"
+  },
+
+  "target": {
+    "TXT": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=pingu.is-a-good.dev,4e134a680ca92a2c4d37"
+     }
+  },
+
+  "proxied": false
+}
