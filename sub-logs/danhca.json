@@ -1,1 +1,18 @@
+{
+  "repo": "https://github.com/danh5619/register",
+
+  "owner": {
+    "username": "danhca",
+    "email": "sigmatien@duck.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "notion", 
+      "value": "harrytien.notion.site"
+    }
+  },
+
+  "proxied": false
+}
 
