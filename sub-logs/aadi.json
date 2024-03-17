@@ -4,13 +4,16 @@
     "username": "aadirajuthup",
     "email": "aadi.rajuthup@gmail.com"
   },
-  "target": {
-    "A": [
-      { "name": "@", "value": "150.136.148.164" }
-    ],
-    "CNAME": [
-      { "name": "www", "value": "@" }
-    ]
-  },
-  "proxied": false
+	"target": {
+		"CNAME": {
+			"name": "aadi",
+			"value": "portfolio-eight-khaki-40.vercel.app"
+		},
+		"TXT": {
+			"name": "_vercel",
+			"value": "vc-domain-verify=aadi.is-a-good.dev,08432b1186c1a9d1a230"
+		}
+	},
+
+	"proxied": false
 }
