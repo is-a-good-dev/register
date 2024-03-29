@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "aryan9190",
+    "email": "aryan22707@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "aryan", 
+       "value": "aryan.pages.dev"
+     }
+  },
+
+  "proxied": true
+}
