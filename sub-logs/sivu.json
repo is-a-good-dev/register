@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "sivuyilemene",
+    "email": "smene98@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "sivu", 
+       "value": "dxxvm56ohan7e.cloudfront.net"
+     }
+  },
+
+  "proxied": false
+}
