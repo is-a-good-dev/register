@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Adwaith-Shan-Pk",
+        "email": "pkadwaithshan@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "shan",
+            "value": "shan.is-a.dev"
+        }
+    },
+
+    "proxied": true
+}
