@@ -8,12 +8,12 @@
   
     "target": {
       "CNAME": {
-        "name": "www",
+        "name": "avengers-sonarqube",
         "value": "sonaqube.jollyocean-513cc86d.australiaeast.azurecontainerapps.io"
       },
   
       "TXT": {
-        "name": "asuid.www",
+        "name": "asuid.avengers-sonarqube",
         "value": "2ADF2B3BF4F2D427644C6A908F1607F17C2A1AAE36C1A5E86A6FDFD7B56B2149"
       }
     },
