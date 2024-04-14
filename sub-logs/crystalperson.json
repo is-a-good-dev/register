@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "jinix6",
+        "email": "lipanghadai@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "crystalperson",
+            "value": "_github-pages-challenge-jinix6.crystalperson=f05a3459ce9032ec15e5301d99d499"
+        }
+    },
+
+    "proxied": false
+}
