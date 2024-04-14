@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "jinix6",
+        "email": "lipanghadai@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "cl-tutorial",
+            "value": "_github-pages-challenge-jinix6.cl-tutorial=d2999eebd704acb082c1d6298c9f39"
+        }
+    },
+
+    "proxied": false
+}
