@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "ItzEmoji",
+    "email": "cyril.dettling10@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "A", 
+       "value": "89.106.200.1"
+     }
+  },
+
+  "proxied": false
+}
