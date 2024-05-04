@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "jefrygiglegroder",
+        "email": "mrlagg2much@gmail.com"
+    },
+
+    "target": {
+        "AAAA": {
+            "name": "voidedhost",
+            "value": ["192.168.1.245"]
+        }
+    },
+
+    "proxied": true
+}
