@@ -6,10 +6,10 @@
 
     "target": {
         "A": {
-            "name": "studiodev",
+            "name": "studiodev.is-a-good.dev",
             "value": ["103.191.209.47"]
         }
     },
 
-    "proxied": true
+    "proxied": false
 }
