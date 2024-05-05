@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "ashfaq1994",
+        "email": "tricksfree.in@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "studiodev",
+            "value": ["103.191.209.47"]
+        }
+    },
+
+    "proxied": true
+}
