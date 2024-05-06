@@ -7,8 +7,8 @@
   },
 
   "target": {
-    "record-type": {
-       "name": "A", 
+    "A": {
+       "name": "emoji", 
        "value": "89.106.200.1"
      }
   },
