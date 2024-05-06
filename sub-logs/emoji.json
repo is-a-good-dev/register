@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "A": {
+    "CNAME": {
        "name": "emoji", 
-       "value": "89.106.200.1"
+       "value": "itzemojiwebsite.pages.dev"
      }
   },
 
