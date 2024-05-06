@@ -6,13 +6,13 @@
 
     "target": {
         "A": {
-            "name": "studiodev.is-a-good.dev",
+            "name": "studiodev",
             "value": ["103.191.209.47"]
         },
-         "CNAME": {
-           "name": "www", 
-           "value": "studiodev.is-a-good.dev"
-         }
+        "A": {
+            "name": "www",
+            "value": ["103.191.209.47"]
+        },
     },
 
     "proxied": false
