@@ -9,10 +9,6 @@
             "name": "studiodev",
             "value": ["103.191.209.47"]
         },
-        "A": {
-            "name": "www",
-            "value": ["103.191.209.47"]
-        },
     },
 
     "proxied": false
