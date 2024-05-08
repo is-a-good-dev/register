@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "itsmeadarsh2008",
+        "email": "gourabmahalikadarsh@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "adarsh",
+            "value": "deta-verification=avgrhpaynkmz9h2nshw68tvkcwhn6ivo"
+        }
+    },
+
+    "proxied": false
+}
