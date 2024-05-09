@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "itsmeadarsh2008",
+        "email": "gourabmahalikadarsh@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "adarsh",
+            "value": ["76.223.55.44"]
+        }
+    },
+
+    "proxied": false
+}
