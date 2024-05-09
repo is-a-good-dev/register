@@ -8,8 +8,12 @@
         "A": {
             "name": "adarsh",
             "value": ["76.223.55.44"]
-        }
+        },
+        "TXT": {
+        "name": "_deta",
+        "value": "deta-verification=pnzyEUkU7YeqZHyUAfSZC6gacS2Vjroa"
+      }
     },
 
-    "proxied": false
+    "proxied": true
 }
