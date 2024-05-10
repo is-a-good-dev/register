@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "jinix6",
+        "email": "lipanghadai@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "terabox-dl",
+            "value": "jinix6.github.io/terabox-downloader"
+        }
+    },
+
+    "proxied": false
+}
