@@ -1,0 +1,18 @@
+{
+  
+  "repo": "https://github.com/is-a-good-dev/docs",
+
+  "owner": {
+    "username": "is-a-good-dev",
+    "email": "autorun.persian@yahoo.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "khorm", 
+      "value": "s1.khorm.click"
+    }
+  },
+
+  "proxied": false
+}
