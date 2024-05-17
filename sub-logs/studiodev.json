@@ -5,7 +5,7 @@
     },
 
     "target": {
-        "CNAME": {
+        "A": {
             "name": "studiodev",
             "value": "103.191.209.47"
         }
