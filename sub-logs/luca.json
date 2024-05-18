@@ -1,13 +1,13 @@
-{
+{   
     "owner": {
-        "username": "lucatolton",
-        "email": "hi@lucatolton.me"
+        "username": "DaPoyo / MrDaPoyo / 'Poyo",
+        "email": "wiiuforever25@gmail.com"
     },
 
     "target": {
-        "A": {
+        "CNAME": {
             "name": "luca",
-            "value": "168.119.228.144"
+            "value": "mrdapoyo.github.io"
         }
     },
 

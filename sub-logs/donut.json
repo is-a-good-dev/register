@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "fradexo65",
+    "email": "fradexo56@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "donut", 
+       "value": "donut.jewerlyirbit.ru"
+     }
+  },
+
+  "proxied": false
+}

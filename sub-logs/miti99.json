@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/tiennm99/is-a-good-dev",
+
+  "owner": {
+    "username": "tiennm99",
+    "email": "minhtienit99@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "miti99",
+      "value": "miti.eu.org"
+    }
+  },
+
+  "proxied": false
+}

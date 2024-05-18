@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Potato391",
+        "email": "Hi1234hi9009@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "ehab",
+            "value": ["146.190.131.60"]
+        }
+    },
+
+    "proxied": false
+}

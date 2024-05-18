@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/zachey01/MimiCMS",
+
+  "owner": {
+    "username": "zachey01",
+    "email": "zachey@bk.ru"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "mimicms",
+      "value": "mimicms.zachey.space"
+    }
+  },
+
+  "proxied": false
+}

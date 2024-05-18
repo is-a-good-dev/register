@@ -1,12 +1,15 @@
 {
+    "repo":"https://github.com/hycord/monorepo",
     "owner": {
         "username": "hycord",
         "email": "hycord@hycordia.com"
     },
     "target": {
-        "CNAME": {
+        "A": {
             "name": "hycord",
-            "value": "bmmrnqho.up.railway.app"
+            "value": [
+                "89.106.200.1"
+            ]
         }
     },
     "proxied": false

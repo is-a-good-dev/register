@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/LakhindarPal/link-tree",
+
+  "owner": {
+    "username": "LakhindarPal",
+    "email": "dev.lakhindarpal@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "lakhindar", 
+       "value": "lakhindarpal.pages.dev"
+     }
+  },
+
+  "proxied": false
+}

@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "MassaHex",
+    "email": "tres3mincraft@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "classlink",
+      "value": "massahex.github.io"
+    }
+  },
+  "proxied": false
+}

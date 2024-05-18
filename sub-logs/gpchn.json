@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "gpchn",
+    "email": "g.p.chn@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "gpchn",
+       "value": "gpchn.pages.dev"
+     }
+  },
+
+  "proxied": true
+}

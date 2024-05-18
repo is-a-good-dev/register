@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "Aarondevp",
+    "email": "gamingextreme86@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "toxicity", 
+       "value": "693b7c71-95e9-452b-9cbf-81fde30db78f.id.repl.co"
+     }
+  },
+
+  "proxied": false
+}

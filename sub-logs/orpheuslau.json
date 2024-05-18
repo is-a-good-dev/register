@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/orpheuslau/ReactJSfrontend.git",
+
+  "owner": {
+    "username": "orpheuslau",
+    "email": "orpheuslau@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "orpheuslau", 
+       "value": "ajgaxt08.up.railway.app"
+     }
+  },
+
+  "proxied": false
+}

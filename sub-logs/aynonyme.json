@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/AYnonyme971/aynonyme971.github.io",
+
+  "owner": {
+    "username": "AYnonyme971",
+    "email": "aynonyme971@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "AYnonyme971", 
+      "value": "aynonyme971.github.io"
+    }
+  },
+
+  "proxied": false
+}

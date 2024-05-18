@@ -40,6 +40,6 @@ jobs:
           ${{steps.tests.outputs.jsonData}}
           ```
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        proxy-url: https://api.is-a-good.dev/github-proxy/
+        proxy-url: https://is-a-good-dev-gh-proxy.talosbot.xyz/
         repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
         allow-repeats: false # Default: false

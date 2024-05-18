@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Thanawatttt",
+        "email": "tanawattawillha@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "bytebin",
+            "value": "thanawattawilha.ddns.net"
+        }
+    },
+
+    "proxied": false
+}
