@@ -11,6 +11,10 @@
 - In the near future, we are looking at creating a fresh new website to support this project. This website will feature a clean modern design with up to date information.
 - Domain purging will happen towards the end of this year in order to allow new people to get the subdomain they want. To stop your domain from being purged, make sure that you are using the domain. If yours does get purged and you would like it back, you will need to re-register the domain.
 
+**Update May 2024**
+
+The domain registration date is coming up, I shall renew it this year but if the project doesn't gain much more traction or donations of any kind I will be inclined to shut it down as it's costing $18/year to renew... A new website is still coming but I am putting client websites ahead of this project. Maintaining my current clients and getting more clients will take priority over this project. If you would like to get in touch to see what you can do to help this project, please email me `enquire.is-a-good.dev@clarkedevelopment.co.uk`. - Will (Owner)
+
 ## Register
 Please read the [documentation](https://docs.is-a-good.dev) to register a new domain manually.
 
