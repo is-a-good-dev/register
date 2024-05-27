@@ -1,5 +1,5 @@
  {
-    "repo": "https://github.com/masskducks/maaskduck.github.io",
+    "repo": "https://github.com/masskduck/maskduck.is-a.dev",
 
     "owner": {
       "username": "MaskDuck",
@@ -9,7 +9,7 @@
     "target": {
       "CNAME": {
         "name": "maskduck",
-        "value": "maaskduck.github.io"
+        "value": "maaskduck.pages.dev"
       }
     },
 
