@@ -15,6 +15,9 @@
 
 The domain registration date is coming up, I shall renew it this year but if the project doesn't gain much more traction or donations of any kind I will be inclined to shut it down as it's costing $18/year to renew... A new website is still coming but I am putting client websites ahead of this project. Maintaining my current clients and getting more clients will take priority over this project. If you would like to get in touch to see what you can do to help this project, please email me `enquire.is-a-good.dev@clarkedevelopment.co.uk`. - Will (Owner)
 
+
+**Mini Update - ** We have transferred the domain registration across to another provider, this has bought the yearly price down to a slightly more affordable rate. As for improvements coming to this project, these will be slow. Firstly a website, then hopefully streamlining the way you can register for a domain (maybe with a web ui). 
+
 ## Register
 Please read the [documentation](https://docs.is-a-good.dev) to register a new domain manually.
 
