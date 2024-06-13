@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/xzonix/register1",
+
+  "owner": {
+    "username": "xzonix",
+    "email": "xz1@dr.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "fran", 
+      "value": "xzonix.github.io"
+    }
+  },
+
+  "proxied": false
+}
