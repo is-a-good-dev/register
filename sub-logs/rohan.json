@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "RohanDaCoder",
+        "email": "RohanBmgo2010@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "rohan",
+            "value": "rohandacoder.github.io"
+        }
+    },
+
+    "proxied": false
+}
