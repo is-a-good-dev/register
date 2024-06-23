@@ -1,16 +1,15 @@
 {
-    "owner": {
-      "username": "wchhm",
-      "email": "wchhm8050@gmail.com"
-    },
-  
-    "target": {
-      "A": {
-        "name": "minimall",
-        "value": "82.156.182.252"
-      }
-    },
-  
-    "proxied": false
-  }
-  
+  "owner": {
+    "username": "wch93",
+    "email": "wchhm8050@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "minimall",
+      "value": "82.156.182.252"
+    }
+  },
+
+  "proxied": true
+}
