@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Arzejames/arzejames.github.io",
+
+  "owner": {
+    "username": "arzejames",
+    "email": "turtles127855@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "wacky", 
+      "value": "wacky.pages.dev"
+    }
+  },
+
+  "proxied": false
+}
