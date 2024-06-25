@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/Arzejames/WackyDevWebsite",
+  "repo": "https://github.com/Arzejames/arzejames.github.io",
 
   "owner": {
     "username": "arzejames",
@@ -8,8 +8,8 @@
 
   "target": {
     "CNAME": {
-      "name": "wackydev", 
-      "value": "arzejames.github.io"
+      "name": "wacky", 
+      "value": "wacky.pages.dev"
     }
   },
 
