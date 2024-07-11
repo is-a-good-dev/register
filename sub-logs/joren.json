@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/JorenRothman/register-is-a-good-dev",
+
+  "owner": {
+    "username": "jorenrothman",
+    "email": "rothmanjoren@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "joren",
+      "value": "jorenrothman.nl"
+    }
+  },
+
+  "proxied": false
+}
