@@ -5,9 +5,9 @@
   },
 
   "target": {
-    "record-type": {
+    "A": {
        "name": "cliqq", 
-       "value": "cliqq-api.onrender.com"
+       "value": [""216.24.57.1""]
      }
   },
 
