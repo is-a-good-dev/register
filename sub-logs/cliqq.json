@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "JemPH",
+    "email": "jamusicfinder@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "cliqq", 
+       "value": "cliqq-api.onrender.com"
+     }
+  },
+
+  "proxied": false
+}
