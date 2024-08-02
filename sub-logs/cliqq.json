@@ -5,9 +5,9 @@
   },
 
   "target": {
-    "A": {
+    "CNAME": {
        "name": "cliqq", 
-       "value": ["216.24.57.1"]
+       "value": "cliqq-api.onrender.com"
      }
   },
 
