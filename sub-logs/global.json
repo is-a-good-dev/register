@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/GlobalwideGames/GlobalwideGames.github.io",
+
+  "owner": {
+    "username": "GlobalwideGames",
+    "email": "joshuavonharten@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "global", 
+       "value": "https://globalwidegames.github.io"
+     }
+  },
+
+  "proxied": false
+}
