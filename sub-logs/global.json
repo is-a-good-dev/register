@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "global", 
        "value": "https://globalwidegames.github.io"
      }
