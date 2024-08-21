@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
        "name": "global", 
-       "value": "https://globalwidegames.github.io"
+       "value": "globalwidegames.github.io"
      }
   },
 
