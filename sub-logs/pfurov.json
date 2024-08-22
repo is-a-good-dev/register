@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "dispasha",
+        "email": "pashokfurov@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "pfurov",
+            "value": ["95.165.131.159"]
+        }
+    },
+
+    "proxied": false
+}
