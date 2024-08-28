@@ -1,0 +1,17 @@
+{
+	"website": "https://itzwebster.xyz",
+
+	"owner": {
+		"username": "OpAayush",
+		"email": "itzwebster@oliverbot"
+	},
+
+	"target": {
+		"CNAME": {
+			"name": "webster",
+			"value": "itzwebster.xyz"
+		}
+	},
+
+	"proxied": true
+}
