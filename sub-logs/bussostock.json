@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "bxxodev",
+        "email": "bxxodev@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "bussostock",
+            "value": ["188.216.0.20"]
+        }
+    },
+
+    "proxied": false
+}
