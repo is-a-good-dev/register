@@ -1,0 +1,19 @@
+{
+  "owner": {
+ "username": "YouFoundAlpha",
+    "email": "",
+    "Discord": "661121998830960651",
+    "GitHub": "YouFoundAlpha",
+    "GitLab": "YouFoundAlpha",
+    "Mastodon": "@YouFoundAlpha@mastodon.social"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "alpha", 
+       "value": "alpha.is-a.dev"
+     }
+  },
+
+  "proxied": false
+}
