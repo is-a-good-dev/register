@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "gj4mez",
+    "email": "chilliatogj4mez@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "unholly",
+      "value": ["architect.oneping.cfd"]
+    }
+  },
+
+  "proxied": true
+}
