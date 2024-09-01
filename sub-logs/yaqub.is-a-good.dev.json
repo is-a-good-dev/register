@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Packexsa",
+        "email": "farizalmaulanayaqub@outlook.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "yaqub.is-a-good.dev",
+            "value": ""
+        }
+    },
+
+    "proxied": true
+}
