@@ -1,13 +1,13 @@
 {
-  "owner": {
-    "username": "proweldo",
-    "email": "proweldo@gmail.com"
-  },
-  "target": {
-    "A": {
-      "name": "chrngcl-public",
-      "value": "3.1.189.207"
-    }
-  },
-  "proxied": false
+    "owner": {
+        "username": "proweldo",
+        "email": "proweldo@gmail.com"
+    },
+    "target": {
+        "A": {
+            "name": "chrngcl-public",
+            "value": "3.1.189.207"
+        }
+    },
+    "proxied": false
 }
