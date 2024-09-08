@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Mijatol",
+        "email": "samthomnu@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "noizys",
+            "value": ["1"]
+        }
+    },
+
+    "proxied": false
+}
