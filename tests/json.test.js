@@ -2,6 +2,7 @@ const core = require('@actions/core');
 const getJSON = require('../utils/getJSON.js');
 const checkInfo = require('../utils/checkInfo.js');
 const checkRecords = require('../utils/checkRecords.js');
+const getFileName = require('../utils/getFileName.js');
 const data = getJSON(process.env.FILES);
 
 function setupMessages() {
@@ -50,5 +51,9 @@ test('Check if JSON file follows format', () => {
 });
 
 test('Check if JSON file matches the value name', () => {
-  
+  const passed = getFileName(process.env.FILES, data);
+  let fileNameMessage = passed === true ? "File name matches target.RECORD_TYPE." : "File name does not match any target.RECORD_TYPE.";
+
+  core.setOutput('fileNameMessage', fileNameMessage);
+  expect(passed).toBe(true);
 });
