@@ -48,3 +48,7 @@ test('Check if JSON file follows format', () => {
   core.setOutput('recordMessage', recordMessage);
   expect(passed).toBe(true);
 });
+
+test('Check if JSON file matches the value name', () => {
+  
+});
