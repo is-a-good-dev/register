@@ -8,7 +8,7 @@
   
     "target": {
       "CNAME": {
-         "name": "test1", 
+         "name": "testing", 
          "value": "dns-serv1.talosbot.xyz"
        }
     },
