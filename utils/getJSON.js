@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { getFileExtension } = require('./utils.js');
+const { getFileExtension, stripExt } = require('./utils.js');
 const core = require('@actions/core');
 
 function getJSON(file, filename) {
@@ -14,7 +14,18 @@ function getJSON(file, filename) {
       // It exists
       const rawdata = fs.readFileSync(path); // Read the file
       const data = JSON.parse(rawdata); // Parse it
-      return data; // Return true or false, depending if tests pass or fail.
+      
+      // Extract the file name without extension
+      const fileNameWithoutExt = stripExt(file);
+      
+      // Validate if the file name matches any of the target.RECORD_TYPE values
+      const recordTypes = Object.keys(data.target);
+      if (!recordTypes.includes(fileNameWithoutExt.toUpperCase())) {
+        core.setOutput('infoMessage', `File name ${fileNameWithoutExt} does not match any target.RECORD_TYPE`);
+        return false;
+      }
+      
+      return data; // Return the parsed data if validation passes
     }
     return 3; // It doesn't exist
   } catch(err) {
@@ -28,4 +39,4 @@ function getJSON(file, filename) {
   return 3;
 }
 
-module.exports = getJSON; 
+module.exports = getJSON;
