@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/artaabedi/artaabedi.github.io",
+
+  "owner": {
+    "username": "artaabedi",
+    "email": "Iammsaf198@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "docs", 
+      "value": "artaabedi.github.io"
+    }
+  },
+
+  "proxied": false
+}
