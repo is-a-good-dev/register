@@ -1,15 +1,13 @@
 {
-  "repo": "https://github.com/artaabedi/artaabedi.github.io",
-
   "owner": {
     "username": "artaabedi",
-    "email": "Iammsaf198@gmail.com"
+    "email": "arta@mailfence.com"
   },
 
   "target": {
-    "CNAME": {
-      "name": "docs", 
-      "value": "artaabedi.github.io"
+    "URL": {
+      "name": "arta", 
+      "value": "artaabedi.com"
     }
   },
 
