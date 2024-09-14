@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "artaabedi",
+    "email": "arta@mailfence.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "artaabedi",
+      "value": "edge.redirect.pizza"
+    }
+  },
+
+  "proxied": false
+}
