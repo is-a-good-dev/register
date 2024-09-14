@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "artaabedi",
+    "email": "arta@mailfence.com"
+  },
+
+  "target": {
+    "URL": {
+      "name": "arta", 
+      "value": "artaabedi.com"
+    }
+  },
+
+  "proxied": false
+}
