@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "www", 
        "value": "fayaebeb.github.io"
      }
