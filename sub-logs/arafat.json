@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/yasar-arafath/registergood",
+
+  "owner": {
+    "username": "yasar-arafath",
+    "email": "arafat8426@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "www", 
+       "value": "fayaebeb.github.io"
+     }
+  },
+
+  "proxied": false
+}
