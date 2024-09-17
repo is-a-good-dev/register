@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "ZanaNowshad",
+        "email": "zanabal.nowshad@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "zanabal",
+            "value": "zananowshad.github.io"
+        }
+    },
+
+    "proxied": false
+}
