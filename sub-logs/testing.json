@@ -1,0 +1,14 @@
+{
+    "repo": "https://github.com/DEV-DIBSTER/DEV-DIBSTER.github.io",
+    "owner": {
+        "username": "DEV-DIBSTER",
+        "email": "testing@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "testing",
+            "value": "dev-dibster.github.io"
+        }
+    },
+    "proxied": false
+}
