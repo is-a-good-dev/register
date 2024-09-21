@@ -15,8 +15,6 @@ jobs:
         files: |
           sub-logs/**
           reserved/**
-    - name: Debug The Values
-      run: echo "${{ steps.changed-files.outputs.any_changed }}"
     - name: Install Modules
       if: steps.changed-files.outputs.any_changed == 'true'
       run: yarn
