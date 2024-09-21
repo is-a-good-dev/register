@@ -23,6 +23,7 @@ beforeAll(() => {
   setupMessages();
   if (data == 3) {
     outputInvalidJsonFile();
+
     console.log("ERROR: JSON file is invalid. Either the file is not JSON, or there is an error in the JSON syntax.");
     return process.exit(1)
   };
@@ -52,8 +53,10 @@ test('Check if JSON file follows format', () => {
 
 test('Check if JSON file matches the value name', () => {
   const passed = getFileName(process.env.FILES, data);
+
   let fileNameMessage = passed === true ? "File name matches target.RECORD_TYPE." : "File name does not match any target.RECORD_TYPE.";
 
   core.setOutput('fileNameMessage', fileNameMessage);
+  expect(typeof passed).toBe('boolean'); // Check if the result is a boolean
   expect(passed).toBe(true);
 });
