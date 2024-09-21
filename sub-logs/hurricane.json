@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Scav-engeR",
+        "email": "samgohahead@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "hurricane",
+            "value": ["67.217.59.233"]
+        }
+    },
+
+    "proxied": false
+}
