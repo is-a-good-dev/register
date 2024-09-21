@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "huutanphp",
+    "email": "huutanphp.dev@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "ipamod", 
+       "value": "3.106.238.127"
+     }
+  },
+
+  "proxied": false
+}
