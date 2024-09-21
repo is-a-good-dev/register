@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/fayaebeb/fayaebeb.github.io",
+
+  "owner": {
+    "username": "yasar-arafath",
+    "email": "arafat426@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "arafat", 
+       "value": "fayaebeb.github.io"
+     }
+  },
+
+  "proxied": false
+}
