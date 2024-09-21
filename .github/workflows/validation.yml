@@ -43,3 +43,11 @@ jobs:
         proxy-url: https://is-a-good-dev-gh-proxy.talosbot.xyz/
         repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
         allow-repeats: false # Default: false
+        
+- name: Debug FILES
+  run: echo "${{ steps.changed-files.outputs.all_changed_files }}"
+
+
+
+
+
