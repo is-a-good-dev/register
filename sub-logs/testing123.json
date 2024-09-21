@@ -6,7 +6,7 @@
     },
     "target": {
         "CNAME": {
-            "name": "testing",
+            "name": "testing123",
             "value": "dev-dibster.github.io"
         }
     },
