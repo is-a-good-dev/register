@@ -57,6 +57,5 @@ test('Check if JSON file matches the value name', () => {
   let fileNameMessage = passed === true ? "File name matches target.RECORD_TYPE." : "File name does not match any target.RECORD_TYPE.";
 
   core.setOutput('fileNameMessage', fileNameMessage);
-  expect(typeof passed).toBe('boolean'); // Check if the result is a boolean
   expect(passed).toBe(true);
 });

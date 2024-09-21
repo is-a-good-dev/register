@@ -7,7 +7,7 @@ function getFileName(file, data) {
       // Validate if the file name matches any of the target.RECORD_TYPE values
       const recordTypes = Object.values(data.target);
 
-      return recordTypes[0].name == fileNameWithoutExt.toLowerCase();
+      return recordTypes[0].name == fileNameWithoutExt.toLowerCase().split("/")[1];
 }
 
 module.exports = getFileName;
