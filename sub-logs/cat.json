@@ -8,7 +8,7 @@
 
     "target": {
       "CNAME": {
-         "name": "CNAME", 
+         "name": "cat", 
          "value": "dns.nekoweb.org"
        }
     },
