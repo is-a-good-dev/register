@@ -1,0 +1,17 @@
+{
+    "repo": "",
+
+    "owner": {
+      "username": "xxCopyCat",
+      "email": "ibrahimbode47@gmail.com"
+    },
+
+    "target": {
+      "CNAME": {
+         "name": "CNAME", 
+         "value": "dns.nekoweb.org"
+       }
+    },
+
+    "proxied": true
+  }
