@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "oudend",
+        "email": "ternermartin@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "oudend",
+            "value": "serveo.net"
+        }
+    },
+
+    "proxied": true
+}
