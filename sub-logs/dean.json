@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "dean", 
        "value": "onedrive-cf-index-ng-eca.pages.dev"
      }
