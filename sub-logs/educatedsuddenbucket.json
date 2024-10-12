@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "CNAME": {
+    "A": {
       "name": "educatedsuddenbucket", 
-      "value": "216.24.57.1"
+      "value": ["216.24.57.1"]
     }
   },
 
