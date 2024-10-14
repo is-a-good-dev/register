@@ -5,6 +5,13 @@
       "username": "Newfies",
       "email": "ItsSimplyGav@proton.me"
     },
+
+      "target": {
+    "record-type": {
+       "name": "CNAME", 
+       "value": "cname.short.io"
+     }
+  },
   
     "proxied": true
   }
