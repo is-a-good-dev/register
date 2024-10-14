@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "js-hly-zxl",
+        "email": "155941340+js-hly-zxl@users.noreply.github.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "amtu",
+            "value": "amtu.pages.dev"
+        }
+    },
+
+    "proxied": false
+}
