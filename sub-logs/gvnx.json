@@ -6,12 +6,12 @@
       "email": "ItsSimplyGav@proton.me"
     },
 
-      "target": {
-    "record-type": {
-       "name": "CNAME", 
-       "value": "cname.short.io"
-     }
-  },
+    "target": {
+        "CNAME": {
+            "name": "gvnx",
+            "value": "cname.short.io"
+        }
+    },
   
     "proxied": true
   }
