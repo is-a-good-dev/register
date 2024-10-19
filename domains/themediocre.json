@@ -1,20 +1,20 @@
 {
-  "owner": {
-    "username": "themediocredev",
-    "email": "thribhu.krishnan@outlook.com.au"
-  },
-
-  "target": {
-    "A": {
-      "name": "themediocre",
-      "value": ["34.132.134.162"]
+    "owner": {
+        "username": "themediocredev",
+        "email": "thribhu.krishnan@outlook.com.au"
     },
 
-    "TXT": {
-      "name": "@",
-      "value": "replit-verify=7a770ba4-a691-4406-b81a-e009a792e0ae"
-    }
-  },
+    "target": {
+        "A": {
+            "name": "themediocre",
+            "value": ["34.132.134.162"]
+        },
 
-  "proxied": false
+        "TXT": {
+            "name": "@",
+            "value": "replit-verify=7a770ba4-a691-4406-b81a-e009a792e0ae"
+        }
+    },
+
+    "proxied": false
 }

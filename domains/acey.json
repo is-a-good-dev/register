@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "AceyDoCodes",
-    "email": "aceygoesboom@gmail.com"
-  },
+    "owner": {
+        "username": "AceyDoCodes",
+        "email": "aceygoesboom@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "acey", 
-      "value": "cname.vercel-dns.com"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "acey",
+            "value": "cname.vercel-dns.com"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

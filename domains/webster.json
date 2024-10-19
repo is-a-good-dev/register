@@ -1,17 +1,17 @@
 {
-	"website": "https://itzwebster.xyz",
+    "website": "https://itzwebster.xyz",
 
-	"owner": {
-		"username": "Webster",
-		"email": "itzwebster@oliverbot.xyz"
-	},
+    "owner": {
+        "username": "Webster",
+        "email": "itzwebster@oliverbot.xyz"
+    },
 
-	"target": {
-		"CNAME": {
-			"name": "webster",
-			"value": "itzwebster.xyz"
-		}
-	},
+    "target": {
+        "CNAME": {
+            "name": "webster",
+            "value": "itzwebster.xyz"
+        }
+    },
 
-	"proxied": false
+    "proxied": false
 }

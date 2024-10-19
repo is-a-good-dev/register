@@ -1,9 +1,9 @@
 {
     "repo": "https://github.com/Newfies/register",
-  
+
     "owner": {
-      "username": "Newfies",
-      "email": "ItsSimplyGav@proton.me"
+        "username": "Newfies",
+        "email": "ItsSimplyGav@proton.me"
     },
 
     "target": {
@@ -12,6 +12,6 @@
             "value": "cname.short.io"
         }
     },
-  
+
     "proxied": true
-  }
+}

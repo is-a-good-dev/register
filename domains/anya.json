@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "anyalol",
-    "email": "anyalollipop@proton.me"
-  },
+    "owner": {
+        "username": "anyalol",
+        "email": "anyalollipop@proton.me"
+    },
 
-  "target": {
-    "A": {
-      "name": "anya",
-      "value": ["87.98.164.155"]
-    }
-  },
+    "target": {
+        "A": {
+            "name": "anya",
+            "value": ["87.98.164.155"]
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

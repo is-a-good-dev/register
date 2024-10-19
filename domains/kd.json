@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/itskdhere/My-Website-PRODUCTION",
+    "repo": "https://github.com/itskdhere/My-Website-PRODUCTION",
 
-  "owner": {
-    "username": "itskdhere",
-    "email": "itskdhere@proton.me"
-  },
+    "owner": {
+        "username": "itskdhere",
+        "email": "itskdhere@proton.me"
+    },
 
-  "target": {
-    "CNAME": {
-       "name": "kd", 
-       "value": "itskdhere.pages.dev"
-     }
-  },
+    "target": {
+        "CNAME": {
+            "name": "kd",
+            "value": "itskdhere.pages.dev"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

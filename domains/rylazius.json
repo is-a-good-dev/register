@@ -1,17 +1,17 @@
 {
-  "repo": "",
+    "repo": "",
 
-  "owner": {
-    "username": "rylazius",
-    "email": "nodejsenjoyer@gmail.com"
-  },
+    "owner": {
+        "username": "rylazius",
+        "email": "nodejsenjoyer@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "rylazius", 
-      "value": "rylazius.pages.dev"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "rylazius",
+            "value": "rylazius.pages.dev"
+        }
+    },
 
-  "proxied": true
+    "proxied": true
 }

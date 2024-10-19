@@ -7,9 +7,9 @@
     },
 
     "target": {
-        "CNAME":  {
-          "name": "connor",
-          "value": "connordoesdev.github.io"
+        "CNAME": {
+            "name": "connor",
+            "value": "connordoesdev.github.io"
         }
     },
 

@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "Oreki-Dev",
-    "email": "orekidev@gmail.com"
-  },
+    "owner": {
+        "username": "Oreki-Dev",
+        "email": "orekidev@gmail.com"
+    },
 
-  "target": {
-    "A": {
-      "name": "oreki",
-      "value": ["164.132.74.251"]
-    }
-  },
+    "target": {
+        "A": {
+            "name": "oreki",
+            "value": ["164.132.74.251"]
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

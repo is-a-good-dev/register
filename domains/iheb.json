@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/x-slayer/x-slayer.github.com",
+    "repo": "https://github.com/x-slayer/x-slayer.github.com",
 
-  "owner": {
-    "username": "X-SLAYER",
-    "email": "iheb@pixelium.tn"
-  },
+    "owner": {
+        "username": "X-SLAYER",
+        "email": "iheb@pixelium.tn"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "iheb",
-      "value": "x-slayer.github.io"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "iheb",
+            "value": "x-slayer.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

@@ -1,17 +1,17 @@
 {
-  "repo": "",
+    "repo": "",
 
-  "owner": {
-    "username": "LilyMusic",
-    "email": "lilymusicdiscord@gmail.com"
-  },
+    "owner": {
+        "username": "LilyMusic",
+        "email": "lilymusicdiscord@gmail.com"
+    },
 
-  "target": {
-    "A": {
-       "name": "astra", 
-       "value": ["69.30.249.53"]
-     }
-  },
+    "target": {
+        "A": {
+            "name": "astra",
+            "value": ["69.30.249.53"]
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

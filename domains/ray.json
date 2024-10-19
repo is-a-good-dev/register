@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/rayhanadev/personal-website-3",
+    "repo": "https://github.com/rayhanadev/personal-website-3",
 
-  "owner": {
-    "username": "rayhanadev",
-    "email": "rayhanadev@protonmail.com"
-  },
+    "owner": {
+        "username": "rayhanadev",
+        "email": "rayhanadev@protonmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "ray",
-      "value": "edge.redirect.pizza"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "ray",
+            "value": "edge.redirect.pizza"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

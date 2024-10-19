@@ -1,17 +1,17 @@
 {
-  "repo": "",
+    "repo": "",
 
-  "owner": {
-    "username": "roktim32",
-    "email": "roktimsenapoty2@gmail.com"
-  },
+    "owner": {
+        "username": "roktim32",
+        "email": "roktimsenapoty2@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-       "name": "everyone", 
-       "value": "roktim32.github.io"
-     }
-  },
+    "target": {
+        "CNAME": {
+            "name": "everyone",
+            "value": "roktim32.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

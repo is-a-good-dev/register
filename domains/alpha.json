@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "YouFoundAlpha",
-    "email": "sweepalf@gmail.com"
-  },
+    "owner": {
+        "username": "YouFoundAlpha",
+        "email": "sweepalf@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "alpha", 
-      "value": "edge.redirect.pizza"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "alpha",
+            "value": "edge.redirect.pizza"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

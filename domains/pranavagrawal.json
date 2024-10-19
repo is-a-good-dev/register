@@ -1,18 +1,17 @@
 {
-  "repo": "https://github.com/pranavagrawal321/pranavagrawal321.github.io",
+    "repo": "https://github.com/pranavagrawal321/pranavagrawal321.github.io",
 
-  "owner": {
-    "username": "pranavagrawal321",
-    "email": "pranavagrawal321@gmail.com"
-  },
+    "owner": {
+        "username": "pranavagrawal321",
+        "email": "pranavagrawal321@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "pranavagrawal",
-      "value": "pranavagrawal321.github.io"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "pranavagrawal",
+            "value": "pranavagrawal321.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }
-  

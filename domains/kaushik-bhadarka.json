@@ -1,13 +1,13 @@
 {
-  "owner": {
-    "username": "kaushik-bhadarka",
-    "email": "kaushik-bhadarka@acquaintsofttech.com"
-  },
-  "target": {
-    "CNAME": {
-      "name": "kaushik-bhadarka",
-      "value": "kaushik-bhadarka.github.io"
-    }
-  },
-  "proxied": false
+    "owner": {
+        "username": "kaushik-bhadarka",
+        "email": "kaushik-bhadarka@acquaintsofttech.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "kaushik-bhadarka",
+            "value": "kaushik-bhadarka.github.io"
+        }
+    },
+    "proxied": false
 }

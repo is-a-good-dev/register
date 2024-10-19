@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "JemPH",
-    "email": "jamusicfinder@gmail.com"
-  },
+    "owner": {
+        "username": "JemPH",
+        "email": "jamusicfinder@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-       "name": "cliqq", 
-       "value": "cliqq-api.onrender.com"
-     }
-  },
+    "target": {
+        "CNAME": {
+            "name": "cliqq",
+            "value": "cliqq-api.onrender.com"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

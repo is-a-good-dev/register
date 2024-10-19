@@ -1,15 +1,15 @@
 {
-  "owner": {
-    "username": "Imperialised",
-    "email": "editstring@gmail.com"
-  },
+    "owner": {
+        "username": "Imperialised",
+        "email": "editstring@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "legendsmp", 
-      "value": "site.namedhosting.com"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "legendsmp",
+            "value": "site.namedhosting.com"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

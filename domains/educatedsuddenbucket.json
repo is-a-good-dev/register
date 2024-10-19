@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/EducatedSuddenBucket/educatedsuddenbucket.github.io",
+    "repo": "https://github.com/EducatedSuddenBucket/educatedsuddenbucket.github.io",
 
-  "owner": {
-    "username": "EducatedSuddenBucket",
-    "email": "educatedsuddenbucket@gmail.com"
-  },
+    "owner": {
+        "username": "EducatedSuddenBucket",
+        "email": "educatedsuddenbucket@gmail.com"
+    },
 
-  "target": {
-    "A": {
-      "name": "educatedsuddenbucket", 
-      "value": ["216.24.57.1"]
-    }
-  },
+    "target": {
+        "A": {
+            "name": "educatedsuddenbucket",
+            "value": ["216.24.57.1"]
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }

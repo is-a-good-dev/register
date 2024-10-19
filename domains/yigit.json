@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/yigitdev/yigitdev.github.io ",
+    "repo": "https://github.com/yigitdev/yigitdev.github.io ",
 
-  "owner": {
-    "username": "yigitdev",
-    "email": "yigitkabak05@hotmail.com"
-  },
+    "owner": {
+        "username": "yigitdev",
+        "email": "yigitkabak05@hotmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-       "name": "yigit", 
-       "value": "yigit.xairys.com"
-     }
-  },
+    "target": {
+        "CNAME": {
+            "name": "yigit",
+            "value": "yigit.xairys.com"
+        }
+    },
 
-  "proxied": true
+    "proxied": true
 }

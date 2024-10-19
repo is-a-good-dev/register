@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/notnotrachit/notnotrachit.github.io",
+    "repo": "https://github.com/notnotrachit/notnotrachit.github.io",
 
-  "owner": {
-    "username": "notnotrachit",
-    "email": "notnotrachit@gmail.com"
-  },
+    "owner": {
+        "username": "notnotrachit",
+        "email": "notnotrachit@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "rachit",
-      "value": "na-west1.surge.sh"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "rachit",
+            "value": "na-west1.surge.sh"
+        }
+    },
 
-  "proxied": true
+    "proxied": true
 }

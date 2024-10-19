@@ -1,17 +1,17 @@
 {
-  "repo": "https://github.com/4sta69/register",
+    "repo": "https://github.com/4sta69/register",
 
-  "owner": {
-    "username": "4STA69",
-    "email": "zaxxmo0@gmail.com"
-  },
+    "owner": {
+        "username": "4STA69",
+        "email": "zaxxmo0@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "asta", 
-      "value": "4sta69.github.io"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "asta",
+            "value": "4sta69.github.io"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }
