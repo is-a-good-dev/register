@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/masskduck/maskduck.is-a.dev",
+
+    "owner": {
+        "username": "MaskDuck",
+        "email": "maskduckuwu@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "maskduck",
+            "value": "maaskduck.pages.dev"
+        }
+    },
+
+    "proxied": false
+}

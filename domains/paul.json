@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "NotKaskus",
+        "email": "kaskus45@proton.me"
+    },
+
+    "target": {
+        "A": {
+            "name": "paul",
+            "value": ["192.95.42.75"]
+        }
+    },
+
+    "proxied": false
+}

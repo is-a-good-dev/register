@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/tunganhtran/tunganhtran.github.io",
+
+    "owner": {
+        "username": "tunganhtran",
+        "email": "tunganhtran94@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "tungtran",
+            "value": "tunganhtran.github.io"
+        }
+    },
+
+    "proxied": false
+}

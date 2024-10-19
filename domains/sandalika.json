@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "SandalikaAriyrathna",
+        "email": "dilsandu96@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "sandalika",
+            "value": "sandalikaariyrathna.github.io"
+        }
+    },
+
+    "proxied": false
+}

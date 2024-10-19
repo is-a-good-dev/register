@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "TianTcl",
+        "email": "tclwebguest@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "tiantcl",
+            "value": "info.tiantcl.net"
+        }
+    },
+
+    "proxied": false
+}

@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "WadeSlider",
+        "email": "alexisarturodh@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "wadeslider",
+            "value": "wadeslider.github.io"
+        }
+    },
+
+    "proxied": false
+}

@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/donottakemyusername/portfolio_website",
+
+    "owner": {
+        "username": "donottakemyusername",
+        "email": "bz2461@columbia.edu"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "bowen",
+            "value": "bowenzhang99.netlify.app"
+        }
+    },
+
+    "proxied": false
+}

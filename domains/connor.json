@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/connordoesdev/connordoesdev.github.io",
+
+    "owner": {
+        "username": "ConnorDoesDev",
+        "email": "connor@cstudios.gay"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "connor",
+            "value": "connordoesdev.github.io"
+        }
+    },
+
+    "proxied": false
+}
