@@ -6,7 +6,7 @@ on:
     push:
         branches: [main]
         paths:
-            - "sub-logs/*"
+            - "domains/*"
             - ".github/workflows/validation.yml"
             - "dnsconfig.js"
 

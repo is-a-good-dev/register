@@ -1,0 +1,16 @@
+{
+    "repo":"https://github.com/hycord/monorepo",
+    "owner": {
+        "username": "hycord",
+        "email": "hycord@hycordia.com"
+    },
+    "target": {
+        "A": {
+            "name": "hycord",
+            "value": [
+                "89.106.200.1"
+            ]
+        }
+    },
+    "proxied": false
+}

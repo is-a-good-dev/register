@@ -11,7 +11,7 @@ function getDomainsList(filesPath) {
     return result;
 }
 
-var domains = getDomainsList("./sub-logs");
+var domains = getDomainsList("./domains");
 var commit = [];
 
 for (var subdomain in domains) {
