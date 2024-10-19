@@ -37,7 +37,7 @@ for (var subdomain in domains) {
     if (domainData.target.CNAME) {
         // Allow CNAME target on root
         if (subdomainName === "@") {
-            commit.push(ALIAS(subdomainName, domainData.target.CNAME + ".", proxyState));
+            commit.push(ALIAS(domainData.target.CNAME.name, domainData.target.CNAME.value + ".", proxyState));
         } else {
             commit.push(CNAME(domainData.target.CNAME.name, domainData.target.CNAME.value + ".", proxyState));
         }
