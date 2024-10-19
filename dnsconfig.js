@@ -20,32 +20,32 @@ for (var subdomain in domains) {
     var proxyState = domainData.proxied ? { cloudflare_proxy: "on" } : { cloudflare_proxy: "off" };
 
     // Handle A records
-    if (domainData.record.A) {
-        for (var a in domainData.record.A.value) {
-            commit.push(A(domainData.record.A.name, IP(domainData.record.A.value[a]), proxyState));
+    if (domainData.target.A) {
+        for (var a in domainData.target.A.value) {
+            commit.push(A(domainData.target.A.name, IP(domainData.target.A.value[a]), proxyState));
         }
     }
 
     // Handle AAAA records
-    if (domainData.record.AAAA) {
-        for (var aaaa in domainData.record.AAAA.value) {
-            commit.push(AAAA(domainData.record.AAAA.name, domainData.record.AAAA.value[aaaa], proxyState));
+    if (domainData.target.AAAA) {
+        for (var aaaa in domainData.target.AAAA.value) {
+            commit.push(AAAA(domainData.target.AAAA.name, domainData.target.AAAA.value[aaaa], proxyState));
         }
     }
 
     // Handle CNAME records
-    if (domainData.record.CNAME) {
-        // Allow CNAME record on root
+    if (domainData.target.CNAME) {
+        // Allow CNAME target on root
         if (subdomainName === "@") {
-            commit.push(ALIAS(subdomainName, domainData.record.CNAME + ".", proxyState));
+            commit.push(ALIAS(subdomainName, domainData.target.CNAME + ".", proxyState));
         } else {
-            commit.push(CNAME(domainData.record.CNAME.name, domainData.record.CNAME.value + ".", proxyState));
+            commit.push(CNAME(domainData.target.CNAME.name, domainData.target.CNAME.value + ".", proxyState));
         }
     }
 
     // Handle TXT records
-    if (domainData.record.TXT) {
-        commit.push(TXT(domainData.record.TXT.name === "@" ? subdomainName : domainData.record.TXT.name + "." + subdomainName, domainData.record.TXT.value));
+    if (domainData.target.TXT) {
+        commit.push(TXT(domainData.target.TXT.name === "@" ? subdomainName : domainData.target.TXT.name + "." + subdomainName, domainData.target.TXT.value));
     }
 }
 
