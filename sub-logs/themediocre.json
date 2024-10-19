@@ -7,11 +7,11 @@
   "target": {
     "A": {
       "name": "themediocre",
-      "value": "34.132.134.162"
+      "value": ["34.132.134.162"]
     },
 
     "TXT": {
-      "name": "themediocre",
+      "name": "@",
       "value": "replit-verify=7a770ba4-a691-4406-b81a-e009a792e0ae"
     }
   },

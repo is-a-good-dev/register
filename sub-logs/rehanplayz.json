@@ -7,7 +7,7 @@
   "target": {
     "A": {
       "name": "rehanplayz",
-      "value": "198.251.81.131"
+      "value": ["198.251.81.131"]
     }
   },
 

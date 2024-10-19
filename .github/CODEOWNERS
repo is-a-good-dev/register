@@ -2,5 +2,5 @@
 
 /sub-logs/* @is-a-good-dev/helpers
 /.github/* @Tweak4141
-/scripts/* @Tweak4141
-/utils/* @Tweak4141
+/.github/workflows/* @Tweak4141 @wdhdev
+/dnsconfig.js @Tweak4141 @wdhdev
