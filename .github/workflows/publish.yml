@@ -27,6 +27,6 @@ jobs:
             - name: Publish
               uses: is-a-dev/dnscontrol-action@main
               env:
-                  CLOUDFLARE_API_TOKEN: ${{ secrets.API_KEY }}
+                  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
               with:
                   args: push
