@@ -8,10 +8,6 @@
     "CNAME": {
        "name": "ben", 
        "value": "benthetechguy.net"
-     },
-    "CNAME": {
-       "name": "_acme-challenge.ben.is-a-good.dev",
-       "value": "9a415aff-3d5e-41ad-93a1-f0e5986e088f.auth.acme-dns.io"
      }
   },
 

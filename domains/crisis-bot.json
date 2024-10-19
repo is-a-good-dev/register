@@ -5,7 +5,10 @@
     },
 
     "target": {
-        "CNAME": "crisis-bot.netlify.app"
+        "CNAME": {
+            "name": "crisis-bot",
+            "value": "crisis-bot.netlify.app"
+        }
     },
 
     "proxied": false
