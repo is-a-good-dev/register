@@ -11,10 +11,7 @@ function getDomainsList(filesPath) {
     return result;
 }
 
-var domains = getDomainsList("./domains");
-var reservedDomains = getDomainsList("./domains/reserved");
-
-var allDomains = domains.concat(reservedDomains);
+var allDomains = getDomainsList("./domains");
 
 var commit = [];
 
