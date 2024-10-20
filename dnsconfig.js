@@ -57,6 +57,7 @@ for (var subdomain in allDomains) {
     }
 }
 
+/*
 // *._domainkey.is-a-good.dev
 commit.push(IGNORE("*._domainkey", "TXT"));
 // _acme-challenge.is-a-good.dev
@@ -73,6 +74,7 @@ commit.push(IGNORE("autoconfig", "CNAME"));
 commit.push(IGNORE("autodiscover", "CNAME"));
 // *.mx.is-a-good.dev
 commit.push(IGNORE("*", "MX", "*"));
+*/
 
 // Commit all DNS records
 D("is-a-good.dev", NewRegistrar("none"), DnsProvider(NewDnsProvider("cloudflare")), commit);
