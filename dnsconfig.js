@@ -54,19 +54,21 @@ for (var subdomain in allDomains) {
 }
 
 // Commit all DNS records
-D("is-a-good.dev", NewRegistrar("none"), DnsProvider(NewDnsProvider("cloudflare")), IGNORE("*", "MX", "*"), commit);
+D("is-a-good.dev", NewRegistrar("none"), DnsProvider(NewDnsProvider("cloudflare")), commit);
 
-// *._domainkey.is-a.dev
+// *._domainkey.is-a-good.dev
 commit.push(IGNORE("*._domainkey", "TXT"));
-// _acme-challenge.is-a.dev
+// _acme-challenge.is-a-good.dev
 commit.push(IGNORE("_acme-challenge", "TXT"));
-// _autodiscover._tcp.is-a.dev
+// _autodiscover._tcp.is-a-good.dev
 commit.push(IGNORE("_autodiscover._tcp", "SRV"));
-// _dmarc.is-a.dev
+// _dmarc.is-a-good.dev
 commit.push(IGNORE("_dmarc", "TXT"));
-// _psl.is-a.dev
+// _psl.is-a-good.dev
 commit.push(IGNORE("_psl", "TXT"));
-// autoconfig.is-a.dev
+// autoconfig.is-a-good.dev
 commit.push(IGNORE("autoconfig", "CNAME"));
-// autodiscover.is-a.dev
+// autodiscover.is-a-good.dev
 commit.push(IGNORE("autodiscover", "CNAME"));
+// *.mx.is-a-good.dev
+commit.push(IGNORE("*", "MX", "*"));
