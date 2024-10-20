@@ -52,16 +52,13 @@ for (var subdomain in allDomains) {
         if (Array.isArray(domainData.target.TXT.value)) {
             for (var txt in domainData.target.TXT) {
                 var txtRecord = domainData.target.TXT[txt];
-                commit.push(TXT(txtRecord.name, txtRecord.value));
+                commit.push(TXT(domainData.target.TXT.name === "@" ? subdomainName : txtRecord.name + "." + subdomainName, txtRecord.value));
             }
         } else {
             commit.push(TXT(domainData.target.TXT.name === "@" ? subdomainName : domainData.target.TXT.name + "." + subdomainName, domainData.target.TXT.value));
         }
     }
 }
-
-// Commit all DNS records
-D("is-a-good.dev", NewRegistrar("none"), DnsProvider(NewDnsProvider("cloudflare")), commit);
 
 // *._domainkey.is-a-good.dev
 commit.push(IGNORE("*._domainkey", "TXT"));
@@ -79,3 +76,6 @@ commit.push(IGNORE("autoconfig", "CNAME"));
 commit.push(IGNORE("autodiscover", "CNAME"));
 // *.mx.is-a-good.dev
 commit.push(IGNORE("*", "MX", "*"));
+
+// Commit all DNS records
+D("is-a-good.dev", NewRegistrar("none"), DnsProvider(NewDnsProvider("cloudflare")), commit);
