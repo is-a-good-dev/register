@@ -57,21 +57,6 @@ for (var subdomain in allDomains) {
     }
 }
 
-
-// *._domainkey.is-a-good.dev
-commit.push(IGNORE("*._domainkey", "TXT"));
-// _acme-challenge.is-a-good.dev
-commit.push(IGNORE("_acme-challenge", "TXT"));
-// _autodiscover._tcp.is-a-good.dev
-commit.push(IGNORE("_autodiscover._tcp", "SRV"));
-// _dmarc.is-a-good.dev
-commit.push(IGNORE("_dmarc", "TXT"));
-// _psl.is-a-good.dev
-commit.push(IGNORE("_psl", "TXT"));
-// autoconfig.is-a-good.dev
-commit.push(IGNORE("autoconfig", "CNAME"));
-// autodiscover.is-a-good.dev
-commit.push(IGNORE("autodiscover", "CNAME"));
 // *.mx.is-a-good.dev
 commit.push(IGNORE("*", "MX", "*"));
 
