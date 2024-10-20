@@ -55,3 +55,18 @@ for (var subdomain in allDomains) {
 
 // Commit all DNS records
 D("is-a-good.dev", NewRegistrar("none"), DnsProvider(NewDnsProvider("cloudflare")), IGNORE("*", "MX", "*"), commit);
+
+// *._domainkey.is-a.dev
+commit.push(IGNORE("*._domainkey", "TXT"));
+// _acme-challenge.is-a.dev
+commit.push(IGNORE("_acme-challenge", "TXT"));
+// _autodiscover._tcp.is-a.dev
+commit.push(IGNORE("_autodiscover._tcp", "SRV"));
+// _dmarc.is-a.dev
+commit.push(IGNORE("_dmarc", "TXT"));
+// _psl.is-a.dev
+commit.push(IGNORE("_psl", "TXT"));
+// autoconfig.is-a.dev
+commit.push(IGNORE("autoconfig", "CNAME"));
+// autodiscover.is-a.dev
+commit.push(IGNORE("autodiscover", "CNAME"));
