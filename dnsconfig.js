@@ -12,11 +12,15 @@ function getDomainsList(filesPath) {
 }
 
 var domains = getDomainsList("./domains");
+var reservedDomains = getDomainsList("./domains/reserved");
+
+var allDomains = domains.concat(reservedDomains);
+
 var commit = [];
 
-for (var subdomain in domains) {
-    var subdomainName = domains[subdomain].name;
-    var domainData = domains[subdomain].data;
+for (var subdomain in allDomains) {
+    var subdomainName = allDomains[subdomain].name;
+    var domainData = allDomains[subdomain].data;
     var proxyState = domainData.proxied ? { cloudflare_proxy: "on" } : { cloudflare_proxy: "off" };
 
     // Handle A records
@@ -50,4 +54,4 @@ for (var subdomain in domains) {
 }
 
 // Commit all DNS records
-D("is-a-good.dev", NewRegistrar("none"), DnsProvider(NewDnsProvider("cloudflare")), commit);
+D("is-a-good.dev", NewRegistrar("none"), DnsProvider(NewDnsProvider("cloudflare")), IGNORE("*", "MX", "*"), commit);
