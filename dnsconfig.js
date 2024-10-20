@@ -49,10 +49,9 @@ for (var subdomain in allDomains) {
 
     // Handle TXT records
     if (domainData.target.TXT) {
-        if (Array.isArray(domainData.target.TXT.value)) {
+        if (Array.isArray(domainData.target.TXT)) {
             for (var txt in domainData.target.TXT) {
                 var txtRecord = domainData.target.TXT[txt];
-                console.log(txtRecord.name, txtRecord.value)
                 commit.push(TXT(domainData.target.TXT.name === "@" ? subdomainName : txtRecord.name + "." + subdomainName, txtRecord.value));
             }
         } else {
