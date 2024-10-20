@@ -49,7 +49,13 @@ for (var subdomain in allDomains) {
 
     // Handle TXT records
     if (domainData.target.TXT) {
-        commit.push(TXT(domainData.target.TXT.name === "@" ? subdomainName : domainData.target.TXT.name + "." + subdomainName, domainData.target.TXT.value));
+        if (Array.isArray(domainData.target.TXT.value)) {
+            for (var txt in domainData.target.TXT.value) {
+                commit.push(TXT(domainData.target.TXT.name === "@" ? subdomainName : domainData.target.TXT.name + "." + subdomainName, domainData.target.TXT.value[txt]));
+            }
+        } else {
+            commit.push(TXT(domainData.target.TXT.name === "@" ? subdomainName : domainData.target.TXT.name + "." + subdomainName, domainData.target.TXT.value));
+        }
     }
 }
 
