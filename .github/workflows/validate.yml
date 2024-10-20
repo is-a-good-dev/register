@@ -7,13 +7,13 @@ on:
         branches: [main]
         paths:
             - "domains/*"
-            - ".github/workflows/validation.yml"
+            - ".github/workflows/validate.yml"
             - "dnsconfig.js"
 
     workflow_dispatch:
 
 concurrency:
-    group: ${{ github.ref }}-validation
+    group: ${{ github.ref }}-validate
     cancel-in-progress: true
 
 jobs:
