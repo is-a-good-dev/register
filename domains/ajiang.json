@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "longwang",
+        "email": "longwanglaomu@gmail.com"
+    },
+    "target": {
+        "NX": {
+            "name": "fuus",
+            "value": "daisy.ns.cloudflare.com."
+            "name": "fuus",
+            "value": "robert.ns.cloudflare.com."
+        }
+    },
+    "proxied": false
+}
