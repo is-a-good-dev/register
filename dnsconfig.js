@@ -44,6 +44,13 @@ for (var subdomain in allDomains) {
         }
     }
 
+    // Handle NS records
+    if (domainData.target.NS) {
+        for (var ns in domainData.target.NS.value) {
+            commit.push(NS(domainData.target.NS.name, domainData.target.NS.value[ns] + "."));
+        }
+    }
+
     // Handle TXT records
     if (domainData.target.TXT) {
         if (Array.isArray(domainData.target.TXT)) {
