@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "PolishBoiYT",
+        "email": "polishboiyt@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "polishboiyt.is-a-good.dev",
+            "value": "index.html"
+        }
+    },
+
+    "proxied": false
+}
