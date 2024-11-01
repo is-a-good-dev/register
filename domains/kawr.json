@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "Kawrrq",
+    "email": "kawrrq@gmail.com"
+  },
+
+  "target": {
+    "A": ["163.123.192.252"]
+  },
+  "proxied": false
+}
