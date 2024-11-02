@@ -7,7 +7,7 @@
     "target": {
         "A": {
             "name": "pathjerryio",
-            "value": ["joyce.ns.cloudflare.com"]
+            "value": ["107.140.95.67"]
         }
     },
 
