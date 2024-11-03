@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "jacobjuneau6",
+        "email": "jacobjuneau6@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "pathjerryio",
+            "value": ["107.140.95.67"]
+        }
+    },
+
+    "proxied": true
+}
