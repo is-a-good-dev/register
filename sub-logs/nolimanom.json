@@ -3,13 +3,11 @@
         "username": "nolimanom",
         "email": "skripabogdan11@gmail.com"
     },
-
     "target": {
-        "A": {
+        "CNAME": {
             "name": "nolimanom",
             "value": ["nolimanom.serv00.net"]
         }
     },
-
     "proxied": true
 }
