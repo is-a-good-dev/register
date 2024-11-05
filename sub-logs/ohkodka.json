@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "amadeustrtr",
+        "email": "trfenertrbahce@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "ohkodka",
+            "value": "gbuk.kiralikofis.us.kg"
+        }
+    },
+
+    "proxied": false
+}
