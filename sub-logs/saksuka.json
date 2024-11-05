@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "amadeustrtr",
+        "email": "trfenertrbahce@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "saksuka",
+            "value": ["176.65.128.28"]
+        }
+    },
+
+    "proxied": true
+}
