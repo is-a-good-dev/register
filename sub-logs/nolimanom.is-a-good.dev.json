@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "nolimanom",
+        "email": "skripabogdan11@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "nolimanom.is-a-good.dev",
+            "value": ["nolimanom.serv00.net"]
+        }
+    },
+
+    "proxied": false
+}
