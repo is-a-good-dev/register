@@ -9,5 +9,5 @@
             "value": "nolimanom.vercel.app"
         }
     },
-    "proxied": true
+    "proxied": false
 }
