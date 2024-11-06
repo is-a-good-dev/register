@@ -1,13 +1,17 @@
 {
+    "repo": "https://github.com/abardia/abardia.github.io",
+
     "owner": {
         "username": "nolimanom",
         "email": "skripabogdan11@gmail.com"
     },
+
     "target": {
         "CNAME": {
             "name": "nolimanom",
             "value": "nolimanom.github.io"
         }
     },
+
     "proxied": false
 }
