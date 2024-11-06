@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "nolimanom",
+        "email": "skripabogdan11@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "nolimanom",
+            "value": "nolimanom.vercel.app"
+        }
+    },
+
+    "proxied": true
+}
