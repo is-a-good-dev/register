@@ -6,7 +6,7 @@
     "target": {
         "CNAME": {
             "name": "nolimanom",
-            "value": "nolimanom.vercel.app"
+            "value": "nolimanom.github.io"
         }
     },
     "proxied": false
