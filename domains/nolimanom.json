@@ -7,6 +7,10 @@
         "CNAME": {
             "name": "nolimanom",
             "value": "nolimanom.github.io"
+        },
+        "TXT": {
+            "name": "_discord.nolimanom.is-a-good.dev",
+            "value": "dh=2071c6b20d5b24a35bad978b59c2217b5e6a5816"
         }
     },
     "proxied": false
