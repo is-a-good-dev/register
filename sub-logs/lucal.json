@@ -1,0 +1,18 @@
+{
+    "repo": "https://github.com/1mshy/register",
+  
+    "owner": {
+      "username": "1mshy",
+      "email": "imshi1@protonmail.com"
+    },
+  
+    "target": {
+      "CNAME": {
+        "name": "redirect", 
+        "value": "edge.redirect.pizza"
+      }
+    },
+  
+    "proxied": true
+  }
+  
