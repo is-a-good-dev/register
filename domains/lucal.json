@@ -8,11 +8,11 @@
   
     "target": {
       "CNAME": {
-        "name": "redirect", 
+        "name": "lucal", 
         "value": "edge.redirect.pizza"
       }
     },
   
-    "proxied": true
+    "proxied": false
   }
   
