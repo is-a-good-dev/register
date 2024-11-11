@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/is-a-good-dev/docs",
+
+  "owner": {
+    "username": "rishabhrathore055",
+    "email": "rishabhrathore055@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "rishabh", 
+      "value": "portfolio-rishabhrathore055.vercel.app/"
+    }
+  },
+
+  "proxied": false
+}
