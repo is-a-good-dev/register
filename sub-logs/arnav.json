@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "arnavravinder",
+        "email": "arnavravinder2009@gmail.com"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "arnav",
+            "value": "vc-domain-verify=arnav.is-a-good.dev,f26d3b202451267b81c8"
+        }
+    },
+
+    "proxied": false
+}
