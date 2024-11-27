@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/imshii/register",
+  
+    "owner": {
+      "username": "imshii",
+      "email": "lazy.kid.bedwars@gmail.com"
+    },
+  
+    "target": {
+      "CNAME": {
+        "name": "christmas", 
+        "value": "edge.redirect.pizza"
+      }
+    },
+  
+    "proxied": false
+  }
