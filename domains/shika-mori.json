@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "shika-mori", 
        "value": "yoichi-sato482.github.io"
      }
