@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Yoichi-Sato482/yoichi-sato482.github.io",
+
+  "owner": {
+    "username": "Yoichi-Sato482",
+    "email": "yoichisato2022@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "shika-mori", 
+       "value": "yoichi-sato482.github.io"
+     }
+  },
+
+  "proxied": false
+}
