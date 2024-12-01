@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "IowaSanae",
+        "email": "d4c-tyler@protonmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "butter-fish",
+            "value": "iowasanae.github.io"
+        }
+    },
+
+    "proxied": false
+}
