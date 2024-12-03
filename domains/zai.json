@@ -1,0 +1,23 @@
+{
+    "repo": "https://github.com/Zai-Kun/zai-kun.github.io",
+
+    "owner": {
+        "username": "Zai-Kun",
+        "email": "122824602+Zai-Kun@users.noreply.github.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "zai",
+            "value": "zai-kun.vercel.app"
+        },
+
+        "TXT": {
+            "name": "_vercel.zai",
+            "value": "vc-domain-verify=zai.is-a-good.dev,0555ca33b017a3a0c170"
+        }
+    },
+
+    "proxied": false
+}
+
