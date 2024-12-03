@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/gber39",
+
+    "owner": {
+        "username": "gber39",
+        "email": "jruss0702@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "gber39",
+            "value": ["185.199.110.153"]
+        }
+    },
+
+    "proxied": false
+}
