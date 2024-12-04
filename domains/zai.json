@@ -13,7 +13,7 @@
         },
 
         "TXT": {
-            "name": "_vercel.zai",
+            "name": "_vercel",
             "value": "vc-domain-verify=zai.is-a-good.dev,0555ca33b017a3a0c170"
         }
     },
