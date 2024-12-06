@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/anondev-sudo/anondev-sudo",
+
+    "owner": {
+        "username": "anondev-sudo",
+        "email": "contact@anonym-dev.tk"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "anon",
+            "value": "anondev.onrender.com"
+        }
+    },
+
+    "proxied": false
+}
