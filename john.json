@@ -1,15 +1,18 @@
 {
   "repo": "domain1",
+
   "owner": {
-    "username": "Jkean2012",
-    "email": "Jkean2012@gmail.com"
+    "username": "jkean2012",
+    "email": "jkean2012@gmail.com"
   },
+
   "target": {
     "record-type": {
-      "name": "CNAME",
-      "value": "johnkbio.netlify.app"
+      "name": "john"
+      "value": "johnkbio.netlify.app"  
     }
   },
-  "proxied": true
+
+  "proxied": false  
 }
 
