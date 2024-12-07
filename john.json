@@ -1,1 +1,17 @@
+{
+  "repo": "",
 
+  "owner": {
+    "username": "Jkean2012",
+    "email": "Jkean2012@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "", 
+       "value": ""
+     }
+  },
+
+  "proxied": false
+}
