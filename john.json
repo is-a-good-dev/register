@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
       "name": "john"
-      "value": "johnkbio.netlify.app"  
+      "value": "johnkbio.vercel.app"  
     }
   },
 
