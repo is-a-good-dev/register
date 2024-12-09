@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "TonyStark",
+        "email": "rutull009@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "rutul",
+            "value": ["8.8.8.8"]
+        }
+    },
+
+    "proxied": false
+}
