@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/skylinemusiccds/register",
+
+  "owner": {
+    "username": "skylinemusiccds",
+    "email": "gamingsatyam21@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+      "name": "NS", 
+      "value": "bristol.ns.cloudflare.com, kianchau.ns.cloudflare.com"
+    }
+  },
+
+  "proxied": true
+}
