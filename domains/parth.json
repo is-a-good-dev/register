@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "TheInfernitex",
+        "email": "agarwalparthsplendid@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "*.parth",
+            "value": "cname.vercel-dns.com"
+        }
+    },
+    "proxied": false
+}
