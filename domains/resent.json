@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/sadblooketgamer/Resent-Launcher",
+
+    "owner": {
+        "username": "meepcat2022",
+        "email": "meepcat2022@outlook.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "resrent",
+            "value": "reslauncher.vercel.app"
+        }
+    },
+
+    "proxied": false
+}
