@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/forrealdeveloper/Portfolio",
+
+  "owner": {
+    "username": "forrealdeveloper",
+    "email": "parthsali04@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "TXT", 
+       "value": "vc-domain-verify=parth.is-a-good.dev,382f0041f0ead8920453"
+     }
+  },
+
+  "proxied": false
+}
