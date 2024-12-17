@@ -8,8 +8,8 @@
 
   "target": {
     "A": {
-        "name": "@",
-        "value": "76.76.21.21"
+        "name": "parth",
+        "value": ["76.76.21.21"]
     },
     "TXT": {
        "name": "_vercel", 
