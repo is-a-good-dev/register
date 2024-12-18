@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/ilofnakha/is-a-good-dev",
+
+    "owner": {
+        "username": "ilofnakha",
+        "email": "ilofnakha@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "pola289",
+            "value": "pola289-aq5.pages.dev"
+        }
+    },
+
+    "proxied": true
+}
