@@ -7,6 +7,10 @@
   },
 
   "target": {
+    "A": {
+        "name": "parth",
+        "value": ["76.76.21.21"]
+    },
     "TXT": {
        "name": "_vercel", 
        "value": "vc-domain-verify=parth.is-a-good.dev,382f0041f0ead8920453"
