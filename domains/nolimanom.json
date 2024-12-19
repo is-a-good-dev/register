@@ -1,17 +1,21 @@
-{
-    "owner": {
-        "username": "nolimanom",
-        "email": "skripabogdan11@gmail.com"
-    },
-    "target": {
-        "CNAME": {
-            "name": "nolimanom",
-            "value": "nolimanom.github.io"
-        },
-        "TXT": {
-            "name": "_vercel",
-            "value": "vc-domain-verify=nolimanom.is-a-good.dev,cf38feec819e016279fc"
-        }
-    },
-    "proxied": false
+{  
+    "owner": {  
+        "username": "nolimanom",  
+        "email": "skripabogdan11@gmail.com"  
+    },  
+    "target": {  
+        "CNAME": {  
+            "name": "nolimanom",  
+            "value": "nolimanom.github.io"  
+        },  
+        "TXT": {  
+            "name": "_vercel",  
+            "value": "vc-domain-verify=nolimanom.is-a-good.dev,cf38feec819e016279fc"  
+        },  
+        "A": {  
+            "name": "@",  
+            "value": "76.76.21.21"  
+        }  
+    },  
+    "proxied": false  
 }
