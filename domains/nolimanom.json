@@ -9,7 +9,7 @@
             "value": ["76.76.21.21"]
         },
         "TXT": {
-            "name": "_vercel.nolimanom.is-a-good.dev",
+            "name": "_vercel",
             "value": "vc-domain-verify=nolimanom.is-a-good.dev,cf38feec819e016279fc"
         }
     },
