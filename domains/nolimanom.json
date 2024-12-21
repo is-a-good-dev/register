@@ -4,9 +4,9 @@
         "email": "skripabogdan11@gmail.com"
     },
     "target": {
-        "CNAME": {
+        "A": {
             "name": "nolimanom",
-            "value": "nolimanom.github.io"
+            "value": ["76.76.21.21"]
         },
         "TXT": {
             "name": "_vercel",
