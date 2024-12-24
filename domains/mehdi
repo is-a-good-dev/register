@@ -1,16 +1,1 @@
-{
-    "repo": "",
 
-    "owner": {
-        "username": "mehdo",
-        "email": "r7dragunov@gmail.com"
-    },
-
-    "target": {
-        "A": {
-            "name": "mehdi"
-        }
-    },
-
-    "proxied": false
-}
