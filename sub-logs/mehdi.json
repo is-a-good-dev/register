@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "im-dazai",
+        "email": "uchihadazai557@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "mehdi",
+            "value": "123"
+        }
+    },
+
+    "proxied": false
+}
