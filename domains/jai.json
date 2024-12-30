@@ -7,9 +7,9 @@
     },
 
     "target": {
-        "A": {
+        "CNAME": {
             "name": "jai",
-            "value": ["185.199.108.153"]
+            "value": "soraij.github.io"
         }
     },
 
