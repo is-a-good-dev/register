@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Just3itx",
+        "email": "ruixinh@nycstudents.net"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "lunor",
+            "value": "212.227.65.132:10000"
+        }
+    },
+
+    "proxied": false
+}
