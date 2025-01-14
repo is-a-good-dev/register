@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Eagle-dep/dep.github.io",
+
+  "owner": {
+    "username": "Eagle-dep",
+    "email": "dbeybd@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "Eagle-dep", 
+       "value": "dep.github.io"
+     }
+  },
+
+  "proxied": false
+}
