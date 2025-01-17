@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/MugishBeldar/mugish.beldar",
+  "owner": {
+    "username": "MugishBeldar",
+    "email": "mugishbeldar333@gmail.com"
+  },
+  "target": {
+    "record-type": {
+       "name": "mugishbeldar", 
+       "value": "mugishbeldar.github.io"
+     }
+  },
+  "proxied": false
+}
