@@ -5,10 +5,10 @@
     "email": "mugishbeldar333@gmail.com"
   },
   "target": {
-    "record-type": {
-       "name": "mugishbeldar", 
-       "value": "mugishbeldar.github.io"
-     }
+      "CNAME": {
+          "name": "mugishbeldar",
+          "value": "mugishbeldar.github.io"
+      }
   },
   "proxied": false
 }
