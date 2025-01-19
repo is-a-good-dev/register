@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/rahil1202/rahil-vahora",
+
+  "owner": {
+    "username": "rahil1202",
+    "email": "rahilisvahora@gmail.com"
+  },
+
+  "target": {    
+    "CNAME":{
+      "name" : "rahil-vahora",
+      "value" : "rahil-vahora.vercel.app"     
+    }
+  },
+
+  "proxied": false
+}
