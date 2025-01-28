@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "me-is-bread",
+        "email": "mail.sahil.raut@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "thebread.is-a-good.dev",
+            "value": "thebread.pages.dev"
+        }
+    },
+
+    "proxied": false
+}
