@@ -1,0 +1,23 @@
+{
+    "repo": "https://github.com/vinugawade/vinux.in",
+
+    "owner": {
+        "username": "vinugawade",
+        "email": "vinulike11@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "vinay",
+            "value": "vinux.in"
+        },
+
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=vinay.is-a-good.dev,9d48c3b8acefc37d105a"
+        }
+    },
+
+    "proxied": false
+}
+
