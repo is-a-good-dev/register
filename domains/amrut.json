@@ -1,0 +1,14 @@
+{
+    "repo": "https://github.com/amrutgawade/Portfolio",
+    "owner": {
+        "username": "amrutgawade",
+        "email": "amrutgawade.08@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "amrut",
+            "value": "amrutgawade.github.io"
+        }
+    },
+    "proxied": false
+}
