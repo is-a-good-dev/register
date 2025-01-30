@@ -1,0 +1,17 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "salmaniyad",
+        "email": "eng.salmaniyad@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "salman",
+            "value": "salmaniyad.vercel.app"
+        }
+    },
+
+    "proxied": false
+}
