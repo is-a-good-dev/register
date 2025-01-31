@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/lasheralberto/sapersx",
+  "repo": "https://github.com/lasheralberto/sapersx.github.io",
 
   "owner": {
     "username": "sapersx",
@@ -8,8 +8,8 @@
 
   "target": {
     "CNAME": {
-      "name": "docs", 
-      "value": "hosting.gitbook.io"
+      "name": "sapersx", 
+      "value": "sapersx.github.io"
     }
   },
 
