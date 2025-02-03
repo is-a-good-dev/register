@@ -1,0 +1,20 @@
+{
+    "owner": {
+        "username": "vuquangthinh",
+        "email": "quangthinh.dev@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "tonywu",
+            "value": "vuquangthinh.github.io"
+        },
+
+        "TXT": {
+            "name": "_github-pages-challenge-vuquangthinh",
+            "value": "0b9dc3e2752d1dc520c401ce8b7557"
+        }
+    },
+
+    "proxied": true
+}

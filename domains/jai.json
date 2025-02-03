@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/Soraij/jpaul_javin.github.io",
+
+    "owner": {
+        "username": "Soraij",
+        "email": "chukimjavin@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "jai",
+            "value": "soraij.github.io"
+        }
+    },
+
+    "proxied": false
+}

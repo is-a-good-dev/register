@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "cannonballchris",
+        "email": "cannonballchris8@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "chris",
+            "value": "cname.vercel-dns.com"
+        }
+    },
+
+    "proxied": false
+}

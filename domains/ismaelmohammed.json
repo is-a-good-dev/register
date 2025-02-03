@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "IsmaelMohammed",
+        "email": "ismaelmohammed97@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "ismaelmohammed",
+            "value": "ismaelmohammed.github.io"
+        }
+    },
+
+    "proxied": false
+}

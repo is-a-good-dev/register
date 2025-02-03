@@ -1,0 +1,18 @@
+{
+    "repo": "https://github.com/i-m-Gaurav/Portfolio",
+    "owner": {
+        "username": "i-m-Gaurav",
+        "email": "indiagauravkumar@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "grv",
+            "value": "cname.vercel-dns.com"
+        },
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=grv.is-a-good.dev,5797b029daf7981f7c7b"
+        }
+    },
+    "proxied": false
+}

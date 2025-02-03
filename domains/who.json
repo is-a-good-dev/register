@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Kyro3400",
+        "email": "jonlichter09@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "who",
+            "value": ["69.197.135.205"]
+        }
+    },
+
+    "proxied": false
+}

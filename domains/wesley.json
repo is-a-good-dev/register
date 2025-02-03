@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "westhecool",
+        "email": "noonehere@null.net"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "wesley",
+            "value": "cname-alt-mail-server.sv1.wesdns.cf"
+        }
+    },
+
+    "proxied": false
+}

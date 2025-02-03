@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "dwigoric",
+    "email": "9vcqw6lt@anonaddy.me"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "joshua", 
+      "value": "dwigoric.pages.dev"
+    }
+  },
+
+  "proxied": false
+}

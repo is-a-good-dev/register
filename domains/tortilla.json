@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "colbster937",
+        "email": "colbster937@colbster937.dev"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "tortilla",
+            "value": "dns.tortillagames.org"
+        }
+    },
+
+    "proxied": true
+}

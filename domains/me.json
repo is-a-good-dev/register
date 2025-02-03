@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "ihsangan",
+        "email": "erinatudel@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "me",
+            "value": "gweh.pages.dev"
+        }
+    },
+
+    "proxied": false
+}

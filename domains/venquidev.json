@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "venquidev",
+        "email": "edwinrey5211@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "venquidev",
+            "value": "venquidev.pages.dev"
+        }
+    },
+
+    "proxied": false
+}

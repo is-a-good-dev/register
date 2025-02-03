@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "DaPoyo / MrDaPoyo / 'Poyo",
+        "email": "wiiuforever25@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "luca",
+            "value": "mrdapoyo.github.io"
+        }
+    },
+
+    "proxied": false
+}

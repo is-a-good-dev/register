@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/vipsecure-github/clashtube.github.io",
+
+    "owner": {
+        "username": "ViPSeCuRe-github",
+        "email": "imthiyazcps@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "clashtube",
+            "value": "clashtube.github.io"
+        }
+    },
+
+    "proxied": false
+}

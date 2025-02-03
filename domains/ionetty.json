@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "ionetty",
+        "discord": "Io.Netty#3118"
+    },
+
+    "target": {
+        "A": {
+            "name": "ionetty",
+            "value": ["66.94.121.50"]
+        }
+    },
+
+    "proxied": false
+}

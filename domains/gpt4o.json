@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/FreeCode911/register",
+
+    "owner": {
+        "username": "FreeCode911",
+        "email": "lykcloud@dr.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "gpt4o",
+            "value": "freecode911.github.io"
+        }
+    },
+
+    "proxied": false
+}

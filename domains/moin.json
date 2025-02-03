@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "superman-enamy",
+        "email": "arifmoin789@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "moin",
+            "value": "moin-3bp.pages.dev"
+        }
+    },
+
+    "proxied": true
+}

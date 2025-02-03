@@ -1,0 +1,21 @@
+{
+    "website": "https://shipwr3ck.pages.dev/",
+
+    "owner": {
+        "username": "avik-o1",
+        "email": "avik7621@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "shipwr3ck",
+            "value": "shipwr3ck.pages.dev"
+        },
+        "TXT": {
+            "name": "_discord",
+            "value": "dh=64dff6eaee6f4858b89f6d2d7a46040087d0337f"
+        }
+    },
+
+    "proxied": false
+}

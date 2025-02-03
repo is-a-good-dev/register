@@ -1,0 +1,18 @@
+{
+  "repo": "domain1",
+
+  "owner": {
+    "username": "jkean2012",
+    "email": "jkean2012@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "john",
+      "value": "johnkbio.vercel.app"  
+    }
+  },
+
+  "proxied": false  
+}
+

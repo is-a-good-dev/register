@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/klashdevelopment/GlacierOS",
+
+    "owner": {
+        "username": "gavingogaming",
+        "email": "gavin@klash.dev"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "glacier",
+            "value": "glacier.fly.dev"
+        }
+    },
+
+    "proxied": false
+}

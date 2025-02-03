@@ -1,0 +1,18 @@
+{
+  "repo": "https://github.com/lasheralberto/sapersx.github.io",
+
+  "owner": {
+    "username": "sapersx",
+    "email": "themurcianlab@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "sapersx", 
+      "value": "sapersx.github.io"
+    }
+  },
+
+  "proxied": false
+}
+

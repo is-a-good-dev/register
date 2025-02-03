@@ -1,0 +1,43 @@
+{
+    "repo": "https://github.com/is-a-good-dev/register",
+
+    "owner": {
+        "username": "is-a-good-dev",
+        "email": "will@is-a-good.dev"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "@",
+            "value": "is-a-good-dev.github.io"
+        },
+        "TXT": [
+            {
+                "name": "@",
+                "value": "v=spf1 include:_spf.mx.cloudflare.net include:spf.brevo.com mx -all" 
+            },
+            {
+                "name": "_psl",
+                "value": "https://github.com/publicsuffix/list/pull/2095"
+            },
+            {
+                "name": "_dmarc",
+                "value": "v=DMARC1; p=reject; rua=mailto:abbca7fac4184933962606aafbb642c6@dmarc-reports.cloudflare.net,mailto:tweak@tnstudios.ca; ruf=mailto:tweak@tnstudios.ca; fo=0; adkim=r; aspf=r; pct=100; rf=afrf; ri=86400; sp=none"
+            },
+            {
+                "name": "@",
+                "value": "brevo-code:c86aed6c03391923d0f871e4b94078db"
+            },
+            {
+                "name": "dkim._domainkey",
+                "value": "v=DKIM1;k=rsa;t=s;s=email;p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxfs3yu9sCctCuab6NWQybjciG3D7b/AAJZa5PkCu4gtPj2xSe1I+b5gT4ZHVFs9dCRYLW0b0lyNUjpsxkgxHM7gbpb+JpLFl7o+CzDtjI7jsZhXdwkQaUrN9yvuDvM6vMrsPFjKaQJQatp09R9Gi3JdoafjqvUriJqLdrfxFroKGExV93fnZYa2 xB6eKWyHfZuKXxdaF2IJ4jskp6wAR3EPeYkRTY0oqqWvdjYYhHH1/nhrztSn+Fj7B+AgeDovy5Nlx3K2sG+3fCIJ5JGqg0bpGmZuGZviiCoKcfglfi0NTmcQrscMxohGQosClkurMSsR2tCqNPisC1jjQTiVsYwIDAQAB"
+            },
+            {
+                "name": "mail._domainkey",
+                "value": "k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDeMVIzrCa3T14JsNY0IRv5/2V1/v2itlviLQBwXsa7shBD6TrBkswsFUToPyMRWC9tbR/5ey0nRBH0ZVxp+lsmTxid2Y2z+FApQ6ra2VsXfbJP3HE6wAO0YTVEJt1TmeczhEd2Jiz/fcabIISgXEdSpTYJhb0ct0VJRxcg4c8c7wIDAQAB"
+            }
+        ]   
+    },
+
+    "proxied": false
+}

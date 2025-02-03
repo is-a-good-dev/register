@@ -1,0 +1,22 @@
+{
+    "repo": "https://github.com/wafflecodez/wafflecodez.github.io",
+
+    "owner": {
+        "username": "WaffleCodez",
+        "email": "waffles.30th.email@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "kamino",
+            "value": "dns.tixte.com"
+        },
+
+        "TXT": {
+            "name": "_tixte-challenge",
+            "value": "l3SKVIyd"
+        }
+    },
+
+    "proxied": true
+}

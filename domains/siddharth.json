@@ -1,0 +1,21 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "siddharth9300",
+        "email": "jkrish930@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "siddharth",
+            "value": "siddharthjain.vercel.app"
+        },
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=siddharth.is-a-good.dev,db292003a8b24b682079"
+        }
+    },
+
+    "proxied": false
+}

@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/PrathmTayade/portfolio-website",
+
+  "owner": {
+    "username": "prathamesh",
+    "email": "prathmtayade30@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "prathamesh",
+      "value": "prathameshtayade.vercel.app"
+    }
+  },
+
+  "proxied": false
+}
