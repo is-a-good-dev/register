@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "NReddy123",
+    "email": "lnreddy94@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "nr",
+      "value": "lnreddy.vercel.app"
+    }
+  },
+
+  "proxied": false
+}
