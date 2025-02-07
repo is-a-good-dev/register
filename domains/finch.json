@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "metalespesados",
+        "email": "metalespesados@proton.me"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "metalespesados",
+            "value": "metalespesados.vercel.app"
+        }
+    },
+
+    "proxied": false
+}
