@@ -1,15 +1,18 @@
 {
-    "owner": {
-        "username": "RohanDaCoder",
-        "email": "RohanBmgo2010@gmail.com"
-    },
-
-    "target": {
-        "CNAME": {
-            "name": "rohan",
-            "value": "rohandacoder.github.io"
-        }
-    },
-
-    "proxied": true
+  "owner": {
+    "username": "RohanDaCoder",
+    "email": "RohanBmgo2010@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "rohan",
+      "value": "rohandacoder.github.io"
+    }
+  },
+  "record": {
+    "A": [
+      "103.180.212.91"
+    ]
+  },
+  "proxied": true
 }
