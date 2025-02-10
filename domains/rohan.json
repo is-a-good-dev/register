@@ -7,12 +7,13 @@
     "CNAME": {
       "name": "rohan",
       "value": "rohandacoder.github.io"
+    },
+    "A": {
+      "name": "epicsmp",
+      "value": [
+        "103.180.212.91"
+      ]
     }
   },
-  "record": {
-    "A": [
-      "103.180.212.91"
-    ]
-  },
-  "proxied": true
+  "proxied": false
 }
