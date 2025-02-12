@@ -1,0 +1,22 @@
+{
+    "repo": "https://github.com/cytronicoder/cytronicoder",
+
+    "owner": {
+        "username": "cytronicoder",
+        "email": "novodoodle@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "peter",
+            "value": "cytronicoder.com"
+        },
+
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=peter.is-a-good.dev,c23d953ece630c930292"
+        }
+    },
+
+    "proxied": false
+}
