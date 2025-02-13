@@ -1,0 +1,22 @@
+{
+    "repo": "https://github.com/zthanhluan/register",
+
+    "owner": {
+        "username": "DienTu",
+        "email": "dientu078@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "ztl",
+            "value": "3dslider.vercel.app"
+        },
+        
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=ztl.is-a-good.dev,66dd316bd6eeeb3164a9"
+        }
+    },
+
+    "proxied": false
+}
