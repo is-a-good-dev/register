@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "CNAME": {
+    "A": {
       "name": "thanpuia.is-a-good.dev", 
       "value": "128.199.17.140"
     }
