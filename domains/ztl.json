@@ -10,6 +10,11 @@
         "CNAME": {
             "name": "ztl",
             "value": "3dslider.vercel.app"
+        },
+        
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=ztl.is-a-good.dev,66dd316bd6eeeb3164a9"
         }
     },
 
