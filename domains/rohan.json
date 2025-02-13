@@ -1,15 +1,19 @@
 {
-    "owner": {
-        "username": "RohanDaCoder",
-        "email": "RohanBmgo2010@gmail.com"
+  "owner": {
+    "username": "RohanDaCoder",
+    "email": "RohanBmgo2010@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "rohan",
+      "value": "rohandacoder.github.io"
     },
-
-    "target": {
-        "CNAME": {
-            "name": "rohan",
-            "value": "rohandacoder.github.io"
-        }
-    },
-
-    "proxied": true
+    "A": {
+      "name": "epicsmp",
+      "value": [
+        "103.180.212.91"
+      ]
+    }
+  },
+  "proxied": false
 }
