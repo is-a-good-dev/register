@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "ashutsh",
+        "email": "theashutoshandhare@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "ashutsh",
+            "value": ["122.177.34.207"]
+        }
+    },
+
+    "proxied": true
+}
