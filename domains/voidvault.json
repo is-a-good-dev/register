@@ -1,0 +1,10 @@
+{
+  "domain": "voidvault.is-a.dev",
+  "owner": {
+    "username": "Rajeshkumar-S",
+    "email": "rk9166771@gmail.com"
+  },
+  "records": {
+    "CNAME": "nova-blog-tech.vercel.app"
+  }
+}
