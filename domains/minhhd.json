@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "minh-hd",
+        "email": "hoangduy.minh18@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "minhhd",
+            "value": "minhhd.dev"
+        }
+    },
+
+    "proxied": true
+}
