@@ -1,0 +1,14 @@
+{
+    "owner": {
+        "username": "minhtuan1407",
+        "email": "m.tuan9a2@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "minhtuan1407",
+            "value": ["140.238.53.69"]
+        }
+    },
+    "proxied": false
+}
