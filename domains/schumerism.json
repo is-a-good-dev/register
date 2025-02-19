@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
       "name": "schumerism", 
-      "value": "schumerism.netlify.app"
+      "value": "schumerism.vercel.app"
     }
   },
 
