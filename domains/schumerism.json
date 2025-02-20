@@ -1,17 +1,23 @@
+
 {
-  "repo": "https://github.com/homosapiensapien/schumerism",
+    "repo": "https://github.com/homosapiensapien/schumerism",
 
-  "owner": {
-    "username": "homosapiensapien",
-    "email": "nathanielswoo@gmail.com"
-  },
+    "owner": {
+        "username": "homosapiensapien",
+        "email": "nathanielswoo@gmail.com"
+    },
 
-  "target": {
-    "CNAME": {
-      "name": "schumerism", 
-      "value": "schumerism.vercel.app"
-    }
-  },
+    "target": {
+        "CNAME": {
+            "name": "schumerism",
+            "value": "schumerism.vercel.app"
+        },
+        
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=schumerism.is-a-good.dev,3632157d958281595fba"
+        }
+    },
 
-  "proxied": false
+    "proxied": false
 }
