@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/moali-maverix/moali-maverix.github.io",
+  "owner": {
+    "username": "moali-maverix",
+    "email": "mohamed.ali@maveri-x.com"
+  },
+
+    "target": {
+        "CNAME": {
+            "name": "moali",
+            "value": "moali-maverix.github.io"
+        },
+
+        "CNAME": {
+            "name": "mc7nqwhrg55i",
+            "value": "gv-pz3g6rpznaoyxw.dv.googlehosted.com"
+        }
+    },
+
+  "proxied": false
+}
