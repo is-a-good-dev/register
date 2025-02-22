@@ -3,13 +3,19 @@
         "username": "JonathanXDR",
         "email": "jonathan.russ@bluewin.ch"
     },
-
     "target": {
         "TXT": {
             "name": "jonathan",
             "value": "google-site-verification=mjhtlwicffnpioondp4gplstx9wceud53evcocnajrg"
+        },
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=jonathan.is-a-good.dev,40f39ec5e043acd1806c"
+        },
+        "TXT": {
+            "name": "_discord.jonathan.is-a-good.dev",
+            "value": "dh=1589304661a2bcb3fd35a68ce3ac19d41a8b6924"
         }
     },
-
     "proxied": false
 }
