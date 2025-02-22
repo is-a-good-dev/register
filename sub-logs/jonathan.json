@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "JonathanXDR",
+        "email": "jonathan.russ@bluewin.ch"
+    },
+
+    "target": {
+        "TXT": {
+            "name": "jonathan",
+            "value": "google-site-verification=mjhtlwicffnpioondp4gplstx9wceud53evcocnajrg"
+        }
+    },
+
+    "proxied": false
+}
