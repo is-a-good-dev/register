@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "hnks", 
-       "value": "https://hnks-gh.github.io"
+       "value": "hnks-gh.github.io"
      }
   },
 
