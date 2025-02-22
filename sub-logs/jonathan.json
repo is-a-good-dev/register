@@ -4,6 +4,12 @@
         "email": "jonathan.russ@bluewin.ch"
     },
     "target": {
+        "A": {
+            "name": "jonathan",
+            "value": [
+                "76.76.21.21"
+            ]
+        },
         "TXT": {
             "name": "jonathan",
             "value": "google-site-verification=mjhtlwicffnpioondp4gplstx9wceud53evcocnajrg"
