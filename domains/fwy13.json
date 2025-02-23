@@ -1,0 +1,13 @@
+{
+    "repo": "https://github.com/fwy13/NeptuneDoc",
+    "owner": {
+        "username": "fwy13",
+        "email": "quy66052@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "documents",
+            "value": "neptunedoc.vercel.app"
+        }
+    }
+}
