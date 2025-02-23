@@ -9,7 +9,7 @@
   "target": {
     "A": {
       "name": "william2sober", 
-      "value": "76.76.21.21"
+      "value": ["76.76.21.21"]
     }
   },
 
