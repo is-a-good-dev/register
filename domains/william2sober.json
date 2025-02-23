@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/william2sober/is-a-good.dev",
+
+  "owner": {
+    "username": "william2sober",
+    "email": "william2sober@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "william2sober", 
+      "value": ["76.76.21.21"]
+    }
+  },
+
+  "proxied": false
+}
