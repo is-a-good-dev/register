@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "A": {
-      "name": "william2sober", 
-      "value": ["76.76.21.21"]
+    "CNAME": {
+      "name": "www", 
+      "value": "cname.vercel-dns.com"
     }
   },
 
