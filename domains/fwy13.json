@@ -6,7 +6,7 @@
     },
     "target": {
         "CNAME": {
-            "name": "documents",
+            "name": "fwy13",
             "value": "neptunedoc.vercel.app"
         }
     }
