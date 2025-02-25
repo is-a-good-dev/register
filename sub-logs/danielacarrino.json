@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "Pr3zLy",
+        "email": "officialpr3zly@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "danielacarrino",
+            "value": ["1"]
+        }
+    },
+
+    "proxied": false
+}
