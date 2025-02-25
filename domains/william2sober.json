@@ -1,22 +1,24 @@
 {
     "repo": "https://github.com/william2sober/is-a-good.dev",
-
     "owner": {
         "username": "william2sober",
         "email": "william2sober@gmail.com"
     },
-
     "target": {
         "CNAME": {
             "name": "william2sober",
             "value": "chi-eosin.vercel.app"
         },
-        
-        "TXT": {
-            "name": "_vercel",
-            "value": "vc-domain-verify=william2sober.is-a-good.dev,4803234ebbc76b9f2f67"
-        }
+        "TXT": [
+            {
+                "name": "_vercel",
+                "value": "vc-domain-verify=william2sober.is-a-good.dev,4803234ebbc76b9f2f67"
+            },
+            {
+                "name": "_discord.william2sober.is-a-good.dev",
+                "value": "dh=2412b0c42722ff8315e063efdd7aeed3da1c5d64"
+            }
+        ]
     },
-
     "proxied": false
 }
