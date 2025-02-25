@@ -5,9 +5,9 @@
         "email": "quy66052@gmail.com"
     },
     "target": {
-        "CNAME": {
+        "A": {
             "name": "fwy13",
-            "value": "neptunedoc.vercel.app"
+            "value": "116.109.81.76"
         }
     }
 }
