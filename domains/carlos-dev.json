@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "Carlos-dev-G",
+        "email": "baa4tsdev@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "carlos-dev",
+            "value": "carlos--dev.vercel.app"
+        }
+    },
+    "proxied": false
+}
