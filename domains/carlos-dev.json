@@ -5,7 +5,7 @@
     },
     "target": {
         "CNAME": {
-            "name": "carlos--dev",
+            "name": "carlos-dev",
             "value": "carlos--dev.vercel.app"
         }
     },
