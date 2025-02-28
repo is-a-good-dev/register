@@ -6,15 +6,12 @@
     "target": {
         "CNAME": {
             "name": "carlos-dev",
-            "value": "carlos--dev.vercel.app"
-        }
-    },
-    "records": [
-        {
-            "type": "TXT",
+            "value": "cname.vercel-dns.com"
+        },
+        "TXT": {
             "name": "_vercel",
             "value": "vc-domain-verify=carlos-dev.is-a-good.dev,c6502b7094b975ff69dd"
         }
-    ],
-    "proxied": false
+    },
+    "proxied": "false"
 }
