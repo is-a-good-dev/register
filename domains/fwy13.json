@@ -5,9 +5,9 @@
         "email": "quy66052@gmail.com"
     },
     "target": {
-        "A": {
+        "CNAME": {
             "name": "fwy13",
-            "value": ["116.109.81.76"]
+            "value": "fwy13.ddns.net"
         }
     }
 }
