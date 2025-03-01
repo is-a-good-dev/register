@@ -5,9 +5,9 @@
         "email": "quy66052@gmail.com"
     },
     "target": {
-        "NS": {
+        "CNAME": {
             "name": "fwy13",
-            "value": ["alla.ns.cloudflare.com", "byron.ns.cloudflare.com"]
+            "value": "fwy13.ddns.net"
         }
     }
 }
