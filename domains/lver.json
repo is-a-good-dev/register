@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "lverx",
+    "email": "contact.lver.link@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "lver.is-a-good.dev", 
+       "value": "44.195.106.63"
+     }
+  },
+
+  "proxied": false
+}
