@@ -1,5 +1,5 @@
 {
-  "repo": "",
+  "repo": "https://github.com/lverx/register-1/domains/lver.json",
 
   "owner": {
     "username": "lverx",
@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "A": {
-       "name": "lver.is-a-good.dev", 
-       "value": "44.195.106.63"
+    "TXT": {
+       "name": "lver", 
+       "value": "zoho-verification=zb75350498.zmverify.zoho.com"
      }
   },
 
