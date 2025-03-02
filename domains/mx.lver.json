@@ -1,0 +1,29 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "lverx",
+    "email": "contact.lver.link@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "zwxaq3253xqzb5d7jvz5p4m4eixuxqjd._domainkey.mx", 
+       "value": "zwxaq3253xqzb5d7jvz5p4m4eixuxqjd.dkim.amazonses.com"
+     }
+    "CNAME": {
+      "name": "7hmvxvh5aa4l7bvccmhbgaveffrz44wf._domainkey.mx",
+      "value": "7hmvxvh5aa4l7bvccmhbgaveffrz44wf.dkim.amazonses.com"
+    }
+    "CNAME": {
+      "name": "kzxsc3dt2qxeemgwrqcmbcouxnizdesv._domainkey.mx",
+      "value": "kzxsc3dt2qxeemgwrqcmbcouxnizdesv.dkim.amazonses.com"
+    }
+    "MX": {
+      "name": "mx",
+      "value": "inbound-smtp.us-east-1.amazonaws.com"
+    }
+  },
+  
+  "proxied": false
+}
