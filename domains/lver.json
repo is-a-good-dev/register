@@ -7,11 +7,11 @@
   },
 
   "target": {
-    "TXT": {
-       "name": "lver", 
-       "value": "zoho-verification=zb75350498.zmverify.zoho.com"
+    "CNAME": {
+       "name": "lver-rocks", 
+       "value": "lver-rocks.pages.dev"
      }
   },
 
-  "proxied": false
+  "proxied": true
 }
