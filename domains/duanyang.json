@@ -1,17 +1,13 @@
 {
-    "repo": "https://github.com/Mrliduanyang/register-good-dev",
-
     "owner": {
         "username": "Mrliduanyang",
         "email": "duanyangchn@gmail.com"
     },
-
     "target": {
         "CNAME": {
             "name": "duanyang",
             "value": "duanyang.cool"
         }
     },
-
     "proxied": false
 }
