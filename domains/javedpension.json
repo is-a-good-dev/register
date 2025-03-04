@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "nx0ly",
+        "email": "kaydois123@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "portfolio",
+            "value": "https://nx0ly.github.io/portfolio.github.io/"
+        }
+    },
+    "proxied": false
+}
