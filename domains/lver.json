@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/lverx/register-1/domains/lver.json",
+
+  "owner": {
+    "username": "lverx",
+    "email": "contact.lver.link@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "lver", 
+       "value": "edge.redirect.pizza."
+     }
+  },
+
+  "proxied": true
+}
