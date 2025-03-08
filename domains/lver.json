@@ -8,8 +8,8 @@
 
   "target": {
     "CNAME": {
-       "name": "lver-rocks", 
-       "value": "lver-rocks.pages.dev"
+       "name": "redirect", 
+       "value": "edge.redirect.pizza."
      }
   },
 
