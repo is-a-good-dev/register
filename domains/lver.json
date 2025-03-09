@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
        "name": "lver", 
-       "value": "edge.redirect.pizza."
+       "value": "edge.redirect.pizza"
      }
   },
 
