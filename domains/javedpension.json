@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "nx0ly",
+        "email": "kaydois123@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "javedpension",
+            "value": "nx0ly.github.io"
+        }
+    },
+    "proxied": false
+}
