@@ -5,8 +5,8 @@
     },
     "target": {
         "CNAME": {
-            "name": "portfolio",
-            "value": "https://nx0ly.github.io/portfolio.github.io/"
+            "name": "javedpension",
+            "value": "nx0ly.github.io/portfolio.github.io"
         }
     },
     "proxied": false
