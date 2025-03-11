@@ -6,7 +6,7 @@
     "target": {
         "CNAME": {
             "name": "javedpension",
-            "value": "nx0ly.github.io"
+            "value": "urlshortener-production-17d6.up.railway.app"
         }
     },
     "proxied": false
