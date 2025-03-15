@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "ColinLeDev",
+        "email": "webmaster@col1n.fr"
+    },
+    "target": {
+        "TXT": {
+            "name": "discord-verification",
+            "value": "dh=a9f5ffc4029753843fe3f5cf0e80b31d884efa02"
+        }
+    },
+    "proxied": false
+}

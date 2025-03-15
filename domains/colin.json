@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "ColinLeDev",
+        "email": "webmaster@col1n.fr"
+    },
+    "target": {
+        "CNAME": {
+            "name": "colin",
+            "value": "proxy.col1n.fr"
+        }
+    },
+    "proxied": false
+}
