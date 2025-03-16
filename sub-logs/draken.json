@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "dragonx943",
+        "email": "premieregirl26@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "draken",
+            "value": ["54.254.71.100"]
+        }
+    },
+
+    "proxied": false
+}
