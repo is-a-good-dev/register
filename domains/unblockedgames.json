@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/UBYIS/V2",
+
+    "owner": {
+        "username": "UBYIS",
+        "email": "skibkid420@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "unblockedgames",
+            "value": "ubyis.github.io/V2/"
+        }
+    },
+
+    "proxied": false
+}
