@@ -7,7 +7,7 @@
     "target": {
         "CNAME": {
             "name": "www.tanuj-nagpal",
-            "value": "www.tanuj101.github.io"
+            "value": "tanuj101.github.io"
         }
     },
     "proxied": false
