@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "fandyahmd",
+        "email": "fandyahmadazizi@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "fan",
+            "value": "fann.pages.dev"
+        }
+    },
+    "proxied": false
+}
