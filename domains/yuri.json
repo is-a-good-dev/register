@@ -6,12 +6,12 @@
     "email": "yuri.multitask967@passinbox.com"
   },
 
-  "CNAME": {
-    "record-type": {
+  "target": {
+    "CNAME": {
        "name": "yuri", 
        "value": "yuri-dev.neocities.org"
      }
   },
 
-  "proxied": false
+  "proxied": true
 }
