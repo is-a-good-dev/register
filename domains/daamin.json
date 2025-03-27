@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "daamin909",
+    "email": "ashai.daamin@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "daamin", 
+       "value": "daamin909-github-io.vercel.app"
+     }
+  },
+
+  "proxied": false
+}
