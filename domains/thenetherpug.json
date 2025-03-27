@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/TheNetherPug/is-a-good-dev/",
+
+  "owner": {
+    "username": "thenetherpug",
+    "email": "surithenetherpug@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "thenetherpug", 
+      "value": "placeholder"
+    }
+  },
+
+  "proxied": false
+}
