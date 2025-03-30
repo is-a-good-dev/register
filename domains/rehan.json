@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/Gamer5039/register", 
+  "owner": {
+    "username": "Gamer5039",
+    "email": "gg.rehan1234@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "rehan",
+      "value": "192.0.2.1"
+    }
+  },
+  "proxied": false
+}
