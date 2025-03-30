@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/bshashikiran/portfolio",
+
+    "owner": {
+        "username": "bshashikiran",
+        "email": "bolleddulashashikiran@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "bshashikiran",
+            "value": "bshashikiran.github.io"
+        }
+    },
+
+    "proxied": false
+}
