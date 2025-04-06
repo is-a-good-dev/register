@@ -1,13 +1,17 @@
 {
+    "repo": "https://github.com/itskayzen/register",
+
     "owner": {
         "username": "itskayzen",
         "email": "kayzen.pro.email@gmail.com"
     },
+
     "target": {
         "CNAME": {
             "name": "itskayzen",
-            "value": "itskayzen.github.io"
+            "value": "aaron-web.pages.dev"
         }
     },
-    "proxied": false
+
+    "proxied": true
 }
