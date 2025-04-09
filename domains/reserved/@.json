@@ -22,7 +22,7 @@
             },
             {
                 "name": "_dmarc",
-                "value": "v=DMARC1; p=reject; rua=mailto:abbca7fac4184933962606aafbb642c6@dmarc-reports.cloudflare.net,mailto:tweak@tnstudios.ca; ruf=mailto:tweak@tnstudios.ca; fo=0; adkim=r; aspf=r; pct=100; rf=afrf; ri=86400; sp=none"
+                "value": "v=DMARC1; p=reject; rua=mailto:abbca7fac4184933962606aafbb642c6@dmarc-reports.cloudflare.net,mailto:tweak@tnstudios.ca; ruf=mailto:tweak@tnstudios.ca; fo=0; adkim=s; aspf=s; pct=100; rf=afrf; ri=86400; sp=none"
             },
             {
                 "name": "@",
