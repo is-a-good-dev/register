@@ -1,1 +1,17 @@
+{
+  "repo": "",
 
+  "owner": {
+    "username": "CoolCoder10100",
+    "email": "brewinlachlan@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "", 
+       "value": ""
+     }
+  },
+
+  "proxied": true
+}
