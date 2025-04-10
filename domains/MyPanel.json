@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "record-type": {
-       "name": "", 
-       "value": ""
+    "CNAME": {
+       "name": "docs", 
+       "value": "https://4999ab12-7429-47e1-86e6-a90e72153b21.deepnoteproject.com"
      }
   },
 
