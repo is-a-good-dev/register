@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/solomonsweb/newportfolio",
+
+  "owner": {
+    "username": "solomonsweb",
+    "email": "solomon@cymruwifi.co.uk"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "solomon", 
+      "value": "solomonsweb.github.io"
+    }
+  },
+
+  "proxied": true
+}
