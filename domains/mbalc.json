@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/mbalc/register",
+
+    "owner": {
+        "username": "mbalc",
+        "email": "mbalc909@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "mbalc",
+            "value": "edge.redirect.pizza"
+        }
+    },
+
+    "proxied": false
+}
