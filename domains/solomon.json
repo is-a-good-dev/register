@@ -7,11 +7,11 @@
   },
 
   "target": {
-    "CNAME": {
-      "name": "solomon", 
-      "value": "solomonsweb.github.io"
+    "A": {
+      "name": "solomon.is-a-good.dev", 
+      "value": "18.133.72.105"
     }
   },
 
-  "proxied": true
+  "proxied": false
 }
