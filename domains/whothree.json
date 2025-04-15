@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/gottaegbert/recording",
+
+  "owner": {
+    "username": "gottaegbert",
+    "email": "gottaegbert@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "whothree_collection", 
+      "value": "https://whothreecollection.vercel.app/"
+    }
+  },
+
+  "proxied": true
+}
