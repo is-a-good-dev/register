@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/BOTCAHX/myporto",
+
+    "owner": {
+        "username": "hostinger-bot",
+        "email": "hostingerbalance@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "tio",
+            "value": "myporto15.netlify.app."
+        }
+    },
+
+    "proxied": true
+}
