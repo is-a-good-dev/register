@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
       "name": "whothreecollection", 
-      "value": "https://whothreecollection.vercel.app/"
+      "value": "whothreecollection.vercel.app"
     }
   },
 
