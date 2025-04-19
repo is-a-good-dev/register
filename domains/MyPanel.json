@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "CoolCoder10100",
+    "email": "brewinlachlan@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "docs", 
+       "value": "https://4999ab12-7429-47e1-86e6-a90e72153b21.deepnoteproject.com"
+     }
+  },
+
+  "proxied": true
+}
