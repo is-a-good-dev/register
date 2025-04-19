@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "andrea-capigiri",
+    "email": "uadopo+isadev@pm.me"
+  },
+  
+  "target": {
+    "A": {
+        "name": "andrea",
+        "value": ["62.171.176.192"]
+    }
+  },
+
+  "proxied": true
+}

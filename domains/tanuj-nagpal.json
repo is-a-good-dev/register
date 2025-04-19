@@ -1,0 +1,14 @@
+{
+    "repo": "https://github.com/tanuj101/tanuj101.github.io",
+    "owner": {
+        "username": "tanuj101",
+        "email": "tanujnagpal999@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "tanuj-nagpal",
+            "value": "tanuj101.github.io"
+        }
+    },
+    "proxied": false
+}

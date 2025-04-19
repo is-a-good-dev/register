@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "adit",
+        "email": "admin@kazuowill.serv00.net"
+    },
+
+    "target": {
+        "A": {
+            "name": "adit",
+            "value": ["128.204.223.98"]
+        }
+    },
+
+    "proxied": false
+}

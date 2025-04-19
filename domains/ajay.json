@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "ajaysaathvik",
+        "email": "ajaysathviksu@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "ajay",
+            "value": "ajaysathvik.framer.website"
+        }
+    },
+    "proxied": false
+}

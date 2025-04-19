@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "yurimdm",
+    "email": "yuri.multitask967@passinbox.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "yuri", 
+       "value": "yuri-dev.neocities.org"
+     }
+  },
+
+  "proxied": true
+}

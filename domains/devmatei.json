@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "devmatei",
+        "email": "contact@devmatei.is-a.dev"
+    },
+
+    "target": {
+        "A": {
+            "name": "devmatei",
+            "value": ["89.106.200.1"]
+        }
+    },
+
+    "proxied": false
+}

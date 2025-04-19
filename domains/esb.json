@@ -8,7 +8,7 @@
 
     "target": {
         "A": {
-            "name": "educatedsuddenbucket",
+            "name": "esb",
             "value": ["216.24.57.1"]
         }
     },

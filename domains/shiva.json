@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/is-a-good-dev/register",
+  
+  "owner": {
+    "username": "shiva",
+    "email": "shivabajpai2006@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "shiva",
+      "value": "shivacodes.vercel.app"
+    }
+  },
+
+  "proxied": false
+}
