@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/KunalScriptz/register",
+
+    "owner": {
+        "username": "KunalScriptz",
+        "email": "kunal1520018@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "KunalScriptz",
+            "value": "KunalScriptz.github.io"
+        }
+    },
+
+    "proxied": false
+}
