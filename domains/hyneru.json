@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "HyNeru2",
+    "email": "hyneru2@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "hyneru", 
+       "value": ["45.142.114.67"]
+     }
+  },
+
+  "proxied": false
+}
