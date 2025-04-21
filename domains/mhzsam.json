@@ -1,17 +1,12 @@
-{
-  "repo": "",
 
+
+{
   "owner": {
     "username": "mhzsam",
     "email": "mhzsam@gmail.com"
   },
-
-  "target": {
-    "record-type": {
-       "name": "A", 
-       "value": "95.217.160.242"
-     }
+  "record": {
+    "A": ["95.217.160.242"]
   },
-
   "proxied": false
 }
