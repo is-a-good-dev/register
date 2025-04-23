@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "deputyryan32",
+    "email": ""
+  },
+
+  "target": {
+    "record-type": {
+       "name": "", 
+       "value": ""
+     }
+  },
+
+  "proxied": false
+}
