@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "deputyryan32",
+    "email": "deputyryan32@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "deputyryan", 
+       "value": ["69.62.66.149"]
+     }
+  },
+
+  "proxied": false
+}
