@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "mhzsam",
+    "email": "mhzsam@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "mhzsam", 
+       "value": ["95.217.160.242"]
+     }
+  },
+
+  "proxied": false
+}
