@@ -1,12 +1,14 @@
-
-
 {
   "owner": {
     "username": "mhzsam",
     "email": "mhzsam@gmail.com"
   },
-  "record": {
-    "A": ["95.217.160.242"]
+
+  "target": {
+    "A": {
+       "name": "mhzsam", 
+       "value": ["95.217.160.242"]
+     }
   },
+
   "proxied": false
-}
