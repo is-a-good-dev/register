@@ -10,7 +10,11 @@
     "CNAME": {
        "name": "princevora", 
        "value": "princevora.vercel.app"
-     }
+     },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=princevora.is-a-good.dev,780280205ae91edb3d72"
+    }
   },
 
   "proxied": false
