@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "princevora",
+    "email": "princevora684@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "princevora", 
+       "value": "princevora.vercel.app"
+     }
+  },
+
+  "proxied": false
+}
