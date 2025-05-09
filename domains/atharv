@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/AtharvRG/portfolio",
+
+  "owner": {
+    "username": "AtharvRG",
+    "email": "atharv2703123@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "arg", 
+       "value": "portfolio-atharv-r-gachchi.vercel.app/"
+     }
+  },
+
+  "proxied": false
+}
