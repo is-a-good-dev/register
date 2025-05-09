@@ -8,7 +8,7 @@
 
   "target": {
     "CNAME": {
-       "name": "arg", 
+       "name": "atharv", 
        "value": "portfolio-atharv-r-gachchi.vercel.app/"
      }
   },
