@@ -1,1 +1,17 @@
+{
+  "repo": "",
 
+  "owner": {
+    "username": "DesignThinkerer",
+    "email": "hello@theophile.dev"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "theophile", 
+       "value": "theophile.dev"
+     }
+  },
+
+  "proxied": false
+}
