@@ -10,8 +10,12 @@
     "CNAME": {
        "name": "atharv", 
        "value": "portfolio-atharv-r-gachchi.vercel.app"
-     }
+     },
+    "TXT": {
+        "name": "_vercel",
+        "value": "vc-domain-verify=atharv.is-a-good.dev,dfbf3a99e72ae4b5a150"
+    }
   },
 
-  "proxied": false
+  "proxied": true
 }
