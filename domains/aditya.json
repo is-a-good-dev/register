@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/abardia/abardia.github.io",
+
+    "owner": {
+        "username": "Aditya Srivastava",
+        "email": "adityaxia9237@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "abardia",
+            "value": "adityasrivastava.vercel.app"
+        }
+    },
+
+    "proxied": false
+}
