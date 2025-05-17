@@ -1,0 +1,21 @@
+{
+	"repo": "https://github.com/jhoncarlo-condy/portfolio",
+
+	"owner": {
+		"username": "jhoncarlo-condy",
+		"email": "jhoncarlo.condy@gmail.com"
+	},
+
+	"target": {
+		"CNAME": {
+			"name": "condy",
+			"value": "jc-condy-portfolio.vercel.app"
+		},
+		"TXT": {
+			"name": "_vercel.condy",
+			"value": "vc-domain-verify=condy.is-a-good.dev,18930afe4dfbbced9ae9"
+		}
+	},
+
+	"proxied": false
+}
