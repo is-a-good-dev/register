@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "17sdheeraj",
+        "email": "contact@sdheeraj.is-cool.dev"
+    },
+    "target": {
+        "CNAME": {
+            "name": "sdheeraj",
+            "value": "17sdheeraj.github.io"
+        }
+    },
+    "proxied": false
+}
