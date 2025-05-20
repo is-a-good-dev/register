@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "0xheartcode",
+        "email": "gave-gravity-ninth@duck.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "0xheartcode",
+            "value": "0xheartcode.github.io"
+        }
+    },
+
+    "proxied": false
+}
