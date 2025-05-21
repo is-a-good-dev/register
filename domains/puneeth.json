@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "puneeth072003",
+    "email": "pyd773@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "puneeth", 
+      "value": "puneeth-y.netlify.app"
+    }
+  },
+  "proxied": false
+}
