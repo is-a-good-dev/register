@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/AnnNaserNabil/AnnNaserNabil.github.io",
+
+    "owner": {
+        "username": "AnnNaserNabil",
+        "email": "ann.n.nabil@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "ubermensch",
+            "value": "annnasernabil.github.io"
+        }
+    },
+
+    "proxied": false
+}
