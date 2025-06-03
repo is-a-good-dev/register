@@ -1,0 +1,17 @@
+{
+  "repo": "https://omkhalane.github.io/omkhalane.is-a-good.dev/",
+
+  "owner": {
+    "username": "omkhalane",
+    "email": "om.khalane.dev@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "omkhalane", 
+       "value": "omkhalane.github.io"
+     }
+  },
+
+  "proxied": false
+}
