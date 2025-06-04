@@ -1,0 +1,22 @@
+{
+  "repo": "https://github.com/HinalTilavat/portfolio",
+
+  "owner": {
+    "username": "HinalTilavat",
+    "email": "hinal.tilavat@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "hinal", 
+       "value": "cname.vercel-dns.com."
+     },
+      "TXT": {
+            "name": "_vercel.hinal",
+            "value": "vc-domain-verify=hinal.is-a-good.dev,8cf6f722571d8222e03b"
+        }
+  },
+
+  "proxied": false
+}
+
