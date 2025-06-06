@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/is-a-good-dev/docs",
+  "owner": {
+    "username": "thiennguyen93",
+    "email": "hi@thiennguyen.dev"
+  },
+  "target": {
+    "CNAME": {
+      "name": "thien",
+      "value": "thiennguyen93.github.io"
+    }
+  },
+  "proxied": true
+}
