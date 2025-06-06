@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
        "name": "hinal", 
-       "value": "cname.vercel-dns.com."
+       "value": "cname.vercel-dns.com"
      },
       "TXT": {
             "name": "_vercel.hinal",
