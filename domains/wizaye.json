@@ -1,0 +1,24 @@
+{
+  "repo": "https://github.com/wizaye/personal-portfolio",
+  "owner": {
+    "username": "wizaye",
+    "email": "vijayendhergatla21@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "@",
+      "value": [
+        "216.198.79.193"
+      ]
+    },
+    "CNAME": {
+      "name": "wizaye",
+      "value": "vijayendher-portfolio.vercel.app"
+    },
+    "TXT": {
+      "name": "_vercel.wizaye",
+      "value": "vc-domain-verify=wizaye.is-a-good.dev,eb14920c451923e1566e"
+    }
+  },
+  "proxied": false
+}
