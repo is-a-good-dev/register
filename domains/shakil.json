@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "shakil", 
        "value": "wait2late.github.io"
      }
