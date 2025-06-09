@@ -1,4 +1,6 @@
 {
+  "repo": "https://github.com/is-a-good-dev/docs",
+
   "owner": {
     "username": "sanal",
     "email": "sanalchandran23@gmail.com"
@@ -10,5 +12,6 @@
       "value": ["129.154.250.171"]
     }
   },
+
   "proxied": false
 }
