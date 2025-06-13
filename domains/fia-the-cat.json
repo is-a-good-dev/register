@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "Fia719",
+    "email": "blueyedtree@outlook.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "fia-the-cat", 
+      "value": "Fia719.github.io" 
+    }
+  },
+  "proxied": false
+}
