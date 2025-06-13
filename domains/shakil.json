@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Wait2Late/Portfolio",
+
+  "owner": {
+    "username": "Wait2Late",
+    "email": "w82l8.islam@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "shakil", 
+       "value": "wait2late.github.io"
+     }
+  },
+
+  "proxied": false
+}
