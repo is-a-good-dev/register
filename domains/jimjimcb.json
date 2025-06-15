@@ -1,0 +1,21 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "jimjimcbyt@gmail.com",
+    "email": "jimjimcbyt"
+  },
+
+  "target": {
+    "NS": {
+       "name": "jimjimcb", 
+       "value": "lakas.ns.cloudflare.com"
+     },
+    "NS": {
+       "name": "jimjimcb", 
+       "value": "tricia.ns.cloudflare.com"
+     }
+  },
+
+  "proxied": false
+}
