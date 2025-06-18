@@ -1,5 +1,5 @@
 {
-    "repo": "https://github.com/abardia/abardia.github.io",
+    "repo": "https://github.com/adityasriv2317/myPortfolio",
 
     "owner": {
         "username": "Aditya Srivastava",
@@ -8,7 +8,7 @@
 
     "target": {
         "CNAME": {
-            "name": "abardia",
+            "name": "Aditya Srivastava",
             "value": "adityasrivastava.vercel.app"
         }
     },
