@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "WSRF2014",
+        "email": "aspox8@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "han",
+            "value": "dev.hanlu.im"
+        }
+    },
+
+    "proxied": false
+}
