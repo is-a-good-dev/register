@@ -8,7 +8,7 @@
 
     "target": {
         "CNAME": {
-            "name": "Aditya",
+            "name": "aditya",
             "value": "adityasrivastava.vercel.app"
         }
     },
