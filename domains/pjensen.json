@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "Pelle-Jensen",
+    "email": "pellejdev@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "pjensen", 
+       "value": ["45.10.154.149"]
+     }
+  },
+
+  "proxied": false
+}
