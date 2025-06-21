@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "bkmsstudio",
+    "email": "bkmsstudio.th@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "docs": "", 
+       "value": "103.245.167.70"
+     }
+  },
+
+  "proxied": false
+}
