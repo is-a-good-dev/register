@@ -5,8 +5,12 @@
   },
   "target": {
     "CNAME": {
-      "name": "fia-the-cat", 
-      "value": "Fia719.github.io" 
+      "name": "Fia719",
+      "value": "Fia719.github.io"
+    },
+    "TXT": {
+      "name": "_github-pages-challenge-Fia719",
+      "value": "48dbba8cc5adcb5dd573a0c54813d9" 
     }
   },
   "proxied": false
