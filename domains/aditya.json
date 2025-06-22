@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/adityasriv2317/myPortfolio",
+
+    "owner": {
+        "username": "adityasriv2317",
+        "email": "adityaxia9237@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "aditya",
+            "value": "adityasrivastava.vercel.app"
+        }
+    },
+
+    "proxied": false
+}
