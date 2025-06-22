@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/GTSMK/khai.github.io",
+
+  "owner": {
+    "username": "GTSMK",
+    "email": "razan.smuler@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "khaidir", 
+      "value": "khai.github.io"
+    }
+  },
+
+  "proxied": false
+}
