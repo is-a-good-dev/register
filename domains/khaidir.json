@@ -10,6 +10,10 @@
     "CNAME": {
       "name": "khaidir", 
       "value": "khai.github.io"
+    },
+    "TXT": {
+      "name": "_github-pages-challenge-GTSMK", 
+      "value": "dad113f52bad82e3c0fc15d307e54e"
     }
   },
 
