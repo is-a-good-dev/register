@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/dailker",
+
+  "owner": {
+    "username": "dailker",
+    "email": "contact@theilker.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "dailker", 
+      "value": "theilker.com"
+    }
+  },
+
+  "proxied": false
+}
