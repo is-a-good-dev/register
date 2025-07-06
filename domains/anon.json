@@ -9,9 +9,14 @@
     "target": {
         "CNAME": {
             "name": "anon",
-            "value": "anondev.onrender.com"
-        }
+            "value": "cname.vercel-dns.com"
+        },
+        "TXT": {
+        "name": "_vercel",
+        "value": "vc-domain-verify=anon.is-a-good.dev,e4ffccc046bbe3087962"
+    }
     },
+
 
     "proxied": false
 }
