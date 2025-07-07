@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "devz44d",
+        "email": "asyncpy@proton.me"
+    },
+
+    "target": {
+        "A": {
+            "name": "deep",
+            "value": "https://devz44d.github.io/deep.github.io"
+        }
+    },
+
+    "proxied": false
+}
