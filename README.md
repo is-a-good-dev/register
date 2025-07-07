@@ -3,9 +3,10 @@
 
 <p align="center">A free subdomain provider for developers around the globe.</p>
 <p align="center">Thanks to our <a href="#sponsors">sponsors</a> for keeping this project running.</p>
+<p align="center">Join the is-a-good.dev discord <a href="https://discord.gg/HhRmBUQZfH">here</a>.</p>
 
-## 2024 Update:
-We now support Vercel!
+## 2025 Updates:
+Looking for new helpers and maintainers, send a cover letter to tweak@is-a-good.dev with why you want to help out!
 
 ## Register
 Please read the [documentation](https://docs.is-a-good.dev) to register a new domain manually.
