@@ -10,7 +10,11 @@
     "A": {
        "name": "austin", 
        "value": ["216.198.79.1"]
-     }
+     },
+    "TXT": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=austin.is-a-good.dev,c8837c2f7225ca5c8ec3"
+     },
   },
 
   "proxied": false
