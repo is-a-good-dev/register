@@ -1,0 +1,17 @@
+{
+  "repo": "AustinGraphics/AustinGraphicsWebsite",
+
+  "owner": {
+    "username": "AustinGraphics",
+    "email": "austinxthomas@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "austin", 
+       "value": "4414600745d56a63.vercel-dns-017.com"
+     }
+  },
+
+  "proxied": false
+}
