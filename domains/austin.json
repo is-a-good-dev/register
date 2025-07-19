@@ -8,7 +8,7 @@
 
   "target": {
     "A": {
-       "name": "@", 
+       "name": "austin", 
        "value": "216.198.79.1"
      }
   },
