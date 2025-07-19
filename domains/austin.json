@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "record-type": {
-       "name": "austin", 
-       "value": "4414600745d56a63.vercel-dns-017.com"
+    "A": {
+       "name": "@", 
+       "value": "216.198.79.1"
      }
   },
 
