@@ -1,0 +1,19 @@
+{
+    "owner": {
+        "username": "prathmeshsoni",
+        "email": "info@soniprathmesh.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "prathmesh",
+            "value": "cname.vercel-dns.com"
+        },
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=prathmesh.is-a-good.dev,6c7aa82a540c72abb433"
+        }
+    },
+
+    "proxied": false
+}
