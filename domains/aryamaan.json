@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/aryamaan-exe/portfolio",
+
+  "owner": {
+    "username": "aryamaan-exe",
+    "email": "aryamaan.27@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "aryamaan", 
+       "value": ["216.198.79.1"]
+     },
+    "TXT": {
+      "name": "_vercel", 
+      "value": "vc-domain-verify=aryamaan.is-a-good.dev,09a8c58fddfc848be025"
+    }
+  },
+
+  "proxied": false
+}
