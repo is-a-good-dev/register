@@ -1,1 +1,15 @@
+{
+    "owner": {
+        "username": "grawish",
+        "email": "admin@grawish.com"
+    },
 
+    "target": {
+        "A": {
+            "name": "grawish",
+            "value": ["18.227.102.206"]
+        }
+    },
+
+    "proxied": false
+}
