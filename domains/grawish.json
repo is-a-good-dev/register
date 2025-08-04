@@ -5,9 +5,9 @@
     },
 
     "target": {
-        "A": {
+        "CNAME": {
             "name": "grawish",
-            "value": ["18.227.102.206"]
+            "value": ["grawish.com"]
         }
     },
 
