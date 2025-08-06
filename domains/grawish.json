@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "grawish",
+        "email": "admin@grawish.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "grawish",
+            "value": "grawish.com"
+        }
+    },
+
+    "proxied": false
+}
