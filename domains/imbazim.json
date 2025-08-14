@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "imbazim",
+    "email": "imbazim@icloud.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "@", 
+       "value": "216.198.79.1"
+     }
+  },
+
+  "proxied": false
+}
