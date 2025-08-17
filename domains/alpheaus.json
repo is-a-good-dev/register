@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "THAT-RANDOM-DUD3",
+        "email": "alpheausomoigui@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "alpheaus",
+            "value": ["20.119.81.200"]
+        }
+    },
+
+    "proxied": false
+}
