@@ -8,9 +8,13 @@
 
   "target": {
     "A": {
-       "name": "@", 
-       "value": "216.198.79.1"
-     }
+       "name": "imbazim", 
+       "value": ["216.198.79.1"]
+    },
+    "TXT": {
+        "name": "_vercel",
+        "value": "vc-domain-verify=imbazim.is-a-good.dev,debfcc906b7d5ea3981f"
+    }
   },
 
   "proxied": false
