@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/is-a-good-dev/docs",
+
+  "owner": {
+    "username": "sumitarora2904",
+    "email": "arorasumit578@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "arora", 
+      "value": "185.199.108.153"
+    }
+  },
+
+  "proxied": false
+}
