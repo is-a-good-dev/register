@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/is-a-good-dev/docs",
+  "repo": "https://github.com/sumitarora2904/Phonetic-Alphabet-Converter",
 
   "owner": {
     "username": "sumitarora2904",
@@ -7,9 +7,9 @@
   },
 
   "target": {
-    "CNAME": {
+    "ANAME": {
       "name": "arora", 
-      "value": "185.199.108.153"
+      "value": "https://sumitarora2904.github.io/Phonetic-Alphabet-Converter/"
     }
   },
 
