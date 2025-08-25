@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "username": "milancodess",
+    "email": "milanbhandari153@gmail.com"
+  },
+  "target": {
+        "A": {
+       "name": "milanbhandari", 
+       "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=milan.is-a-good.dev,8816490808f0bbe26290"
+    }
+  },
+  "proxied": false
+}
