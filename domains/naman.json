@@ -1,17 +1,17 @@
 {
-    "repo": "https://github.com/namandhakad712/is-a-good-dev",
+  "repo": "",
 
-    "owner": {
-        "username": "namandhakad712",
-        "email": "namandhakad712@gmail.com"
-    },
+  "owner": {
+    "username": "namandhakad712",
+    "email": "namandhakad712@gmail.com"
+  },
 
-    "target": {
-        "CNAME": {
-            "name": "naman",
-            "value": "naman.is-great.net"
-        }
-    },
+  "target": {
+    "A": {
+       "name": "naman", 
+       "value": "185.27.134.222"
+     }
+  },
 
-    "proxied": false
+  "proxied": false
 }
