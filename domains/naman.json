@@ -1,17 +1,18 @@
 {
-  "repo": "",
-
+  "repo": "https://github.com/namandhakad712",
   "owner": {
     "username": "namandhakad712",
     "email": "namandhakad712@gmail.com"
   },
-
   "target": {
     "A": {
-       "name": "naman", 
-       "value": "185.27.134.222"
-     }
+      "name": "naman",
+      "value": "216.198.79.1"
+    },
+    "TXT": {
+      "name": "_vercel.naman",
+      "value": "vc-domain-verify=naman.is-a-good.dev,4a18685ed11c6f8b5a16"
+    }
   },
-
   "proxied": false
 }
