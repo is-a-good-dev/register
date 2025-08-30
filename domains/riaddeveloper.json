@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/RiadDeveloper",
+
+    "owner": {
+        "username": "RiadDeveloper",
+        "email": "riaddevmail@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "riaddeveloper",
+            "value": "riaddeveloper.github.io"
+        }
+    },
+
+    "proxied": false
+}
