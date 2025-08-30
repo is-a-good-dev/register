@@ -1,13 +1,13 @@
 {
-    "repo": "https://github.com/BioHazard786/no-fap-streak",
+    "repo": "https://github.com/BioHazard786/Portfolio",
     "owner": {
-        "username": "biohazard897",
-        "email": "hello@zaid.qzz.io"
+        "username": "BioHazard786",
+        "email": "message@zaid.qzz.io"
     },
     "target": {
         "CNAME": {
-            "name": "no-fap-streak",
-            "value": "no-fap-streak.biohazard786.workers.dev"
+            "name": "portfolio",
+            "value": "portfolio.biohazard786.workers.dev"
         }
     },
     "proxied": true
