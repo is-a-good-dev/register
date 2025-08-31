@@ -1,0 +1,14 @@
+{
+    "repo": "https://github.com/BioHazard786/Portfolio",
+    "owner": {
+        "username": "BioHazard786",
+        "email": "message@zaid.qzz.io"
+    },
+    "target": {
+        "CNAME": {
+            "name": "zaid",
+            "value": "portfolio.biohazard786.workers.dev"
+        }
+    },
+    "proxied": true
+}
