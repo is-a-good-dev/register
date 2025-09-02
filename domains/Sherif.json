@@ -1,1 +1,15 @@
+{
+  "repo": "https://github.com/Assisnalsherif/Assisnalsherif.github.io",
+  "owner": {
+    "username": "Assisnalsherif",
+    "email": "sherif.jilly1234@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sherif",
+      "value": "Assisnalsherif.github.io"
+    }
+  },
+  "proxied": false
+}
 
