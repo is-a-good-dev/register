@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/daffadaf/svelte-render-hub",
+  "owner": {
+    "username": "daffadaf",
+    "email": "daffarayyanda158@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+       "name": "daffadaf", 
+       "value": "svelte-render-czozqoh6h-daffadafs-projects.vercel.app"
+     }
+  },
+  "proxied": false
+}
