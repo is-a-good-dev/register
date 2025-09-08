@@ -1,0 +1,17 @@
+{
+  "repo": "github.com/itsmarwan/itsmarwan.github.io",
+
+  "owner": {
+    "username": "itsmarwan",
+    "email": "marwan.skins453@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "itsmarwan", 
+      "value": "itsmarwan.github.io"
+    }
+  },
+
+  "proxied": false
+}
