@@ -10,8 +10,12 @@
     "CNAME": {
       "name": "itsmarwan", 
       "value": "itsmarwan.github.io"
+    },
+    "TXT": {
+    "name": "_github-pages-challenge-ItsMarwan",
+    "value": "418ceaceca1f4580692b611875e698"
     }
-  },
+},
 
   "proxied": false
 }
