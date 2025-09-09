@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "Wolffyhtl",
+    "email": "clang@lun.qzz.io"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "fia.is-a-good.dev", 
+       "value": "wolffyhtl.github.io"
+     }
+  },
+
+  "proxied": true
+}
