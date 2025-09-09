@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "Wolffyhtl",
+    "email": "clang@lun.qzz.io"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "fia", 
+       "value": "wolffyhtl.github.io"
+     }
+  },
+
+  "proxied": true
+}
