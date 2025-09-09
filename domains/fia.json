@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "fia.is-a-good.dev", 
        "value": "wolffyhtl.github.io"
      }
