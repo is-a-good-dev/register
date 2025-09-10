@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/brutiv/Portfolio.git",
+
+  "owner": {
+    "username": "brutiv",
+    "email": "shefkiberisha75@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "brutiv", 
+       "value": "brutiv.pages.dev"
+     }
+  },
+
+  "proxied": false
+}
