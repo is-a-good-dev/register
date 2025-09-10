@@ -8,6 +8,10 @@
     "CNAME": {
        "name": "daffadaf", 
        "value": "svelte-render-czozqoh6h-daffadafs-projects.vercel.app"
+     },
+    "TXT": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=daffadaf.is-a-good.dev"
      }
   },
   "proxied": false
