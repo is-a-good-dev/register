@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "sherazrazadev",
+    "email": "sherazrazadev@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "sherazraza", 
+       "value": "216.198.79.1"
+     }
+  },
+
+  "proxied": false
+}
