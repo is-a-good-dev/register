@@ -1,0 +1,14 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "sherazrazadev",
+    "email": "sherazrazadev@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sherazraza",
+      "value": "sheraz-portfolio-one.vercel.app"
+    }
+  },
+  "proxied": false
+}
