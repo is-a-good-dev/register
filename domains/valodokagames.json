@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/is-a-good-dev/docs",
+
+  "owner": {
+    "username": "ValodokaGames",
+    "email": "valodokaunblockedgames@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "ValodokaGames", 
+      "value": "valodokagames.is-a-good.dev"
+    }
+  },
+
+  "proxied": false
+}
