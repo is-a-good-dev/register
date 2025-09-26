@@ -1,0 +1,17 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "jamzhou",
+        "email": "jie87911@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "jam",
+            "value": "jamzhou.github.io"
+        }
+    },
+
+    "proxied": false
+}
