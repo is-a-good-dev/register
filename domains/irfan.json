@@ -7,9 +7,13 @@
   },
 
   "target": {
-    "record-type": {
+    "A": {
        "name": "irfan", 
-       "CNAME": "vc-domain-verify=irfan.is-a-good.dev,326a12ca18f292acdfcc"
+       "value": "216.198.79.1"
+     },
+    "CNAME": {
+       "name": "irfan", 
+       "value": "vc-domain-verify=irfan.is-a-good.dev,326a12ca18f292acdfcc"
      }
   },
 
