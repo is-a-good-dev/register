@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/fxzer/fxzer.github.io",
+
+  "owner": {
+    "username": "fxzer",
+    "email": "fxzer8888@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "fxzer", 
+      "value": "fxzer.github.io"
+    }
+  },
+
+  "proxied": false
+}
