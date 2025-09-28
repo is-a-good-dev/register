@@ -1,0 +1,11 @@
+{
+  "bravecapitalllc": {
+    "owner": {
+      "email": "bravecapitalllc@gmail.com"
+    },
+    "record": {
+      "CNAME": "yourpage.mailerpage.io"
+    },
+    "ttl": 3600
+  }
+}
