@@ -10,6 +10,10 @@
         "CNAME": {
             "name": "jam",
             "value": "jamzhou.github.io"
+        },
+        "TXT": {
+            "name": "_github-pages-challenge-jamzhou",
+            "value": "a0238288cf024cb2c2549646521eeb"
         }
     },
 
