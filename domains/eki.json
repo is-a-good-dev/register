@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "ekixu",
+    "email": "eki@eki.im"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "eki", 
+       "value": "profile-eu9.pages.dev"
+     }
+  },
+
+  "proxied": false
+}
