@@ -1,0 +1,23 @@
+{
+    "owner": {
+        "username": "PatoFlamejanteTV",
+        "email": "patoflamejantetv@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "quack",
+            "value": "patoflamejantetv.github.io"
+        },
+        "TXT": [
+            {
+                "name": "_discord.quack.is-a-good-dev",
+                "value": "dh=3471cf5f6e425d5631635f1492699c310991c178"
+            },
+            {
+                "name": "_github-pages-challenge-PatoFlamejanteTV",
+                "value": "a200d9d62c5cf4522df304c1ca198e"
+            }
+        ]
+    },
+    "proxied": false
+}
