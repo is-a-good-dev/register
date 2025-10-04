@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/anandshenoy14",
+
+    "owner": {
+        "username": "anandshenoy14",
+        "email": "anand.shenoy14@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "anandshenoy",
+            "value": "anandpshenoy.herokuapp.com"
+        }
+    },
+
+    "proxied": false
+}
