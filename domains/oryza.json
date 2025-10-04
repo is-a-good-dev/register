@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/IHaveSicknesses/registerr",
+  
+  "owner": {
+    "username": "IHaveSicknesses",
+    "email": "thenirks1@gmail.com"
+  },
+  
+  "target": {
+    "CNAME": {
+      "name": "oryzaa",
+      "value": "oryzaa.netlify.app"
+    }
+  },
+  
+  "proxied": true
+}
