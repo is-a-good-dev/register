@@ -1,0 +1,19 @@
+{
+    "owner": {
+        "username": "PatoFlamejanteTV",
+        "email": "patoflamejantetv@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "pato",
+            "value": "patoflamejantetv.github.io"
+        },
+        "TXT": [
+            {
+                "name": "_github-pages-challenge-PatoFlamejanteTV",
+                "value": "69032989adca3be623afcec4fe2e84"
+            }
+        ]
+    },
+    "proxied": false
+}
