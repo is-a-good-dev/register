@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "mikevdberge",
+        "email": "mike.van.den.berge+isagooddev@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "mike",
+            "value": "https://mikevdberge.is-a.dev/"
+        }
+    },
+
+    "proxied": false
+}
