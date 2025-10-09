@@ -14,7 +14,7 @@
             "value": "vc-domain-verify=marwan.is-a-good.dev,658500234996e363f4fd"
         },
         "A": {
-            "name": "marwan",
+            "name": "@",
             "value": ["216.198.79.1"]
         }
     },
