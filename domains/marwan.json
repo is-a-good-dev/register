@@ -5,10 +5,6 @@
         "email": "marwan.skins453@gmail.com"
     },
     "target": {
-        "CNAME": {
-            "name": "marwan",
-            "value": "cname.vercel-dns.com"
-        },
         "TXT": {
             "name": "_vercel.marwan",
             "value": "vc-domain-verify=marwan.is-a-good.dev,658500234996e363f4fd"
