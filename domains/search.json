@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "OshekharO",
+    "email": "sakshamshekher@proton.me"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "search",
+      "value": "oshekharo.github.io"
+    }
+  },
+
+  "proxied": true
+}
