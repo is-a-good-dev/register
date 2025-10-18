@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/mdselimdev/Perspicacity",
+  "owner": {
+    "username": "mdselimdev",
+    "email": "mdselim.ibn@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "perspicacity",
+      "value": "mdselimdev.github.io"
+    }
+  },
+  "proxied": false
+}
