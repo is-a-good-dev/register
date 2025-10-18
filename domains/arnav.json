@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/Arnavgr8/allset-flask",
+
+    "owner": {
+        "username": "Arnavgr8",
+        "email": "malhotraarnav70@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "allset",
+            "value": "allset-web.vercel.app"
+        }
+    },
+
+    "proxied": false
+}
