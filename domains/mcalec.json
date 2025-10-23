@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "username": "mcalec-dev",
+    "email": "hello@mcalec.dev"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mcalec",
+      "value": "mcalec-dev.github.io"
+    },
+    "TXT": {
+      "name": "_github-pages-challenge-mcalec-dev",
+      "value": "9e9fd0afe8634615767832b067da96"
+    }
+  },
+  "proxied": true
+}
