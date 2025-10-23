@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "ana", 
        "value": "a104437ana.github.io"
      }
