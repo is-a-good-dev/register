@@ -1,8 +1,18 @@
 {
+  "repo": "https://github.com/a104437ana/a104437ana.github.io",
+
   "owner": {
-    "username": "a104437ana"
+    "username": "a104437ana",
+    "email": "ana.sa.oliveira7@gmail.com"
   },
-  "records": {
-    "CNAME": "a104437ana.github.io"
-  }
+
+  "target": {
+    "record-type": {
+       "name": "ana", 
+       "value": "a104437ana.github.io"
+     }
+  },
+
+  "proxied": false
 }
+
