@@ -5,9 +5,9 @@
 	},
 
 	"target": {
-		"A": {
+		"CNAME": {
 			"name": "quinnhou",
-			"value": "216.198.79.1"
+			"value": "quinn496.vercel.app"
 		},
 		"TXT": {
 			"name": "_vercel.quinnhou",
