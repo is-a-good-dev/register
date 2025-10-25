@@ -1,0 +1,19 @@
+{
+	"owner": {
+		"username": "QuinnH496",
+		"email": "quinnhou@foxmail.com"
+	},
+
+	"target": {
+		"CNAME": {
+			"name": "quinnhou",
+			"value": "quinn496.vercel.app"
+		},
+		"TXT": {
+			"name": "_vercel.quinnhou",
+			"value": "vc-domain-verify=quinnhou.is-a-good.dev,53dd04769bef4b3d1499"
+		}
+	},
+
+	"proxied": true
+}
