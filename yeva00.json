@@ -1,0 +1,10 @@
+{
+  "description": "Yeva's personal domain",
+  "repo": "",
+  "owner": {
+    "username": "yeva-cymk"
+  },
+  "record": {
+    "CNAME": "is-a-good.dev"
+  }
+}
