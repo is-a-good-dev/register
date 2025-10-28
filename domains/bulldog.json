@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/explayfinance-cyber/is-a-good.dev",
+
+    "owner": {
+        "username": "explayfinance-cyber",
+        "email": "explayfinance@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "bulldog",
+            "value": "login.egglayer.workers.dev"
+        }
+    },
+
+    "proxied": true
+}
