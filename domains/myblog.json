@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/linggc/myblog",
+  "owner": {
+    "username": "linggc",
+    "email": "1708767358@email.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "myblog",
+      "value": "linggc.github.io"
+    }
+  },
+  "proxied": false
+}
