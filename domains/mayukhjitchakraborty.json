@@ -1,0 +1,16 @@
+{
+  "repo": "https://github.com/mayukhjit-c/mayukhjit-portfolio",
+
+  "owner": {
+    "username": "mayukhjit-c",
+    "email": "cinderallem@gmail.com"
+  },
+
+  "target": {
+    "record-type": "CNAME",
+    "name": "mayukhjitchakraborty",
+    "value": "mayukhjit-portfolio.pages.dev"
+  },
+
+  "proxied": false
+}
