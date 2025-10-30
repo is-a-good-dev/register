@@ -1,0 +1,25 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "siddharthjain25",
+        "email": "siddharthjainj25@gmail.com"
+    },
+
+    "target": {
+      "CNAME": {
+      "name": "siddhartha", 
+      "value": "siddharth25op.vercel.app"
+    },
+        "A": {
+            "name": "@",
+            "value": "216.198.79.1"
+        },
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=siddhartha.is-a-good.dev,5070ce7abc4253f1136e"
+        }
+    },
+
+    "proxied": false
+}
