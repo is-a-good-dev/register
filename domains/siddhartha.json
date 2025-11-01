@@ -1,0 +1,21 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "siddharthjain25",
+        "email": "siddharthjainj25@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "siddhartha",
+            "value": ["216.198.79.1"]
+        },
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=siddhartha.is-a-good.dev,5070ce7abc4253f1136e"
+        }
+    },
+
+    "proxied": false
+}
