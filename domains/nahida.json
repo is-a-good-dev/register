@@ -1,0 +1,12 @@
+{
+  "description": "Nahida fan website 🌿",
+  "domain": "is-a-good.dev",
+  "subdomain": "nahida",
+  "owner": {
+    "repo": "https://github.com/lemonicdudexd12-pixel",
+    "email": "lemonicdudexd12@gmail.com"
+  },
+  "record": {
+    "A": ["199.36.158.100"]
+  }
+}
