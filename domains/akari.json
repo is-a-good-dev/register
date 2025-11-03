@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/bnyhtz/bnyShortener",
+
+  "owner": {
+    "username": "bnyhtz",
+    "email": "contact@akari.gg"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "akari", 
+       "value": "bnyshortener.pages.dev"
+     }
+  },
+
+  "proxied": false
+}
