@@ -1,17 +1,19 @@
 {
-  "repo": "https://github.com/Wait2Late/Portfolio",
+  "repo": "https://github.com/Wait2Late/wait2late.github.io",
 
   "owner": {
     "username": "Wait2Late",
     "email": "w82l8.islam@gmail.com"
   },
-
   "target": {
     "CNAME": {
        "name": "shakil", 
        "value": "wait2late.github.io"
-     }
+    },
+    "TXT": {
+      "name": "_github-pages-challenge-Wait2Late",
+      "value": "71e8429485655611f63161a92696e8"
+    }
   },
-
   "proxied": false
 }
