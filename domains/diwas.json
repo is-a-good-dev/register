@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "diwas7777",
+        "email": "contact@diwas.info.np"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "diwas",
+            "value": "diwas7777.github.io"
+        }
+    },
+
+    "proxied": true
+}
