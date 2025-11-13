@@ -1,11 +1,17 @@
 {
-  "description": "College project hosted on S3",
-  "domain": "is-a-good.dev",
-  "subdomain": "cloudshare",
-  "owner": {
-    "email": "mubemubendiran@gmail.com"
-  },
-  "record": {
-    "CNAME": "http://cloudshare-website.s3-website.ap-south-1.amazonaws.com"
-  }
+    "repo": "https://github.com/MUBENDIRAN/is-a-good-dev",
+
+    "owner": {
+        "username": "MUBENDIRAN",
+        "email": "mubemubendiran@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "CloudShare",
+            "value": "http://cloudshare-website.s3-website.ap-south-1.amazonaws.com"
+        }
+    },
+
+    "proxied": false
 }
