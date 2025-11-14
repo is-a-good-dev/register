@@ -9,7 +9,7 @@
     "target": {
         "CNAME": {
             "name": "cloudshare",
-            "value": "d1f2fhbszlda26.cloudfront.net"
+            "value": "cloudshare-website.s3.ap-south-1.amazonaws.com"
         }
     },
 
