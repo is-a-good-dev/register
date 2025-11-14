@@ -9,11 +9,11 @@
   "target": {
     "A": {
        "name": "laavesh", 
-       "value": "216.198.79.1"
+       "value": ["216.198.79.1"]
      },
     "TXT": {
        "name": "_vercel",
-       "value": "vc-domain-verify=laavesh.is-a-good.dev,e5918c623f8c1e8fe0fa"
+       "value": ["vc-domain-verify=laavesh.is-a-good.dev,e5918c623f8c1e8fe0fa"]
      }
   },
 
