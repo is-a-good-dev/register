@@ -1,17 +1,13 @@
 {
-    "repo": "https://github.com/MUBENDIRAN/is-a-good-dev",
-
     "owner": {
         "username": "MUBENDIRAN",
         "email": "mubemubendiran@gmail.com"
     },
-
     "target": {
         "CNAME": {
             "name": "cloudshare",
             "value": "cloudshare-website.s3.ap-south-1.amazonaws.com"
         }
     },
-
     "proxied": true
 }
