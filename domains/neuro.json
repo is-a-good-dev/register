@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/repoclones/us",
+
+    "owner": {
+        "username": "neurofumo",
+        "email": "jasonramesdames@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "neuro",
+            "value": "nurox.pages.dev"
+        }
+    },
+
+    "proxied": true
+}
