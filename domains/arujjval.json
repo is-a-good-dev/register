@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/arujjval/arujjval.github.io",
+
+  "owner": {
+    "username": "arujjval",
+    "email": "arujjwal73@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "arujjval", 
+      "value": "arujjval.github.io"
+    }
+  },
+
+  "proxied": false
+}

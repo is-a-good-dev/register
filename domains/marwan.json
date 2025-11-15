@@ -1,17 +1,19 @@
 {
-    "repo": "github.com/itsmarwan/itsmarwan.github.io",
+    "repo": "https://github.com/itsmarwan/vercel-redirect",
     "owner": {
         "username": "itsmarwan",
         "email": "marwan.skins453@gmail.com"
     },
     "target": {
-        "CNAME": {
-            "name": "itsmarwan",
-            "value": "itsmarwan.github.io"
-        },
         "TXT": {
-            "name": "_github-pages-challenge-ItsMarwan",
-            "value": "418ceaceca1f4580692b611875e698"
+            "name": "_discord",
+            "value": "dh=5f0a589942626b2a6d1d9709b95533c1a4c9b53e"
+        },
+        "A": {
+            "name": "marwan",
+            "value": [
+                "216.198.79.1"
+            ]
         }
     },
     "proxied": false

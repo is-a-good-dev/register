@@ -1,0 +1,20 @@
+{
+    "repo": "",
+    "owner": {
+        "username": "sherazrazadev",
+        "email": "sherazrazadev@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "sherazraza",
+            "value": "sheraz-portfolio-one.vercel.app"
+        },
+        "TXT": {
+            "name": "_vercel.sherazraza",
+            "value": [
+                "vc-domain-verify=sherazraza.is-a-good.dev,f338f1285a164dd74d39"
+            ]
+        }
+    },
+    "proxied": false
+}

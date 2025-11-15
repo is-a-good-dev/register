@@ -1,0 +1,21 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "codemiz",
+    "email": "ik571572@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "irfan", 
+       "value": ["216.198.79.1"]
+     },
+    "TXT": {
+       "name": "irfan", 
+       "value": "vc-domain-verify=irfan.is-a-good.dev,326a12ca18f292acdfcc"
+     }
+  },
+
+  "proxied": false
+}

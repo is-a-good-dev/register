@@ -1,0 +1,21 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "jamzhou",
+        "email": "jie87911@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "jam",
+            "value": "jamzhou.github.io"
+        },
+        "TXT": {
+            "name": "_github-pages-challenge-jamzhou",
+            "value": "8813332ae34ce904a139d0a5ad613c"
+        }
+    },
+
+    "proxied": false
+}

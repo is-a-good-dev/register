@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "ErenayDev",
+    "email": "erenaydev@proton.me"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "erenay",
+      "value": "erenaydev.com.tr"
+    }
+  },
+
+  "proxied": false
+}
