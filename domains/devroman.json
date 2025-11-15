@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "RomanDev",
+        "email": "info@matviy.pp.ua"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "devroman",
+            "value": "cv.matviy.pp.ua"
+        }
+    },
+
+    "proxied": true
+}
