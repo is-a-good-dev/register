@@ -7,11 +7,14 @@
   },
 
   "target": {
-    "CNAME": {
+    "NS": {
        "name": "fia", 
-       "value": "wolffyhtl.github.io"
-     }
+       "value": "ariella.ns.cloudflare.com"
+     },
+    "NS": {
+       "name": "fia",
+       "value": "chad.ns.cloudflare.com"
   },
 
-  "proxied": true
+  "proxied": false
 }
