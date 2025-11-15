@@ -1,15 +1,15 @@
 {
     "owner": {
-        "username": "GameRoMan",
-        "email": "gameromandev@gmail.com"
+        "username": "RomanDev",
+        "email": "info@matviy.pp.ua"
     },
 
     "target": {
         "CNAME": {
             "name": "roman",
-            "value": "gameroman.pages.dev"
+            "value": "matviy.pp.ua"
         }
     },
 
-    "proxied": false
+    "proxied": true
 }
