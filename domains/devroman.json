@@ -7,9 +7,10 @@
     "target": {
         "CNAME": {
             "name": "devroman",
-            "value": "cv.matviy.pp.ua"
+            "value": "romandev.pp.ua"
         }
     },
 
     "proxied": true
+
 }
