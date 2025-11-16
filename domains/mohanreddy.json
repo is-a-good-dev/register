@@ -5,13 +5,6 @@
   },
   "domain": "mohanreddy",
   "records": {
-    "CNAME": "comrademohan.netlify.app",
-    "MX": [
-      "10 mx1.improvmx.com",
-      "20 mx2.improvmx.com"
-    ],
-    "TXT": [
-      "v=spf1 include:spf.improvmx.com ~all"
-    ]
+    "CNAME": "comrademohan.netlify.app"
   }
 }
