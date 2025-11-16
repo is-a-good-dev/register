@@ -1,10 +1,13 @@
 {
-  "owner": {
-    "username": "ComradeMohan",
-    "email": "k.nobitha666@gmail.com"
-  },
-  "domain": "mohanreddy",
-  "records": {
-    "CNAME": "comrademohan.netlify.app"
-  }
+    "owner": {
+        "username": "ComradeMohan",
+        "email": "k.nobitha666@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "mohanreddy",
+            "value": "comrademohan.netlify.app"
+        }
+    },
+    "proxied": false
 }
