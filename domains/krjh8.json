@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/krjh8-experiencia/register",
+
+    "owner": {
+        "username": "krjh8",
+        "email": "holapedrofake@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "krjh8",
+            "value": "krjh8.pages.dev"
+        }
+    },
+
+    "proxied": true
+}
