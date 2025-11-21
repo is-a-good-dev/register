@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/4realwilly/register-is-a-good.dev",
+
+  "owner": {
+    "username": "4realwilly",
+    "email": "wholley123@icloud.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "website", 
+      "value": "my-website-9et.pages.dev"
+    }
+  },
+
+  "proxied": false
+}
