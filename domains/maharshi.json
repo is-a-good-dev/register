@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "maharshi878",
+    "email": "maharshipatel878@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "maharshi", 
+       "value": "maharshi878.github.io"
+     }
+  },
+
+  "proxied": false
+}
