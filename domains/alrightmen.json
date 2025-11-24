@@ -1,0 +1,17 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "militaryeneseem",
+        "email": "eemteamoffcial@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "alrightmen",
+            "value": "212.227.166.131"
+        }
+    },
+
+    "proxied": false
+}
