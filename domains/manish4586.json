@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "Manish4586",
+    "email": "manish.n.manish45@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "Manish4586", 
+       "value": "manish4586.github.io"
+     }
+  },
+
+  "proxied": false
+}
