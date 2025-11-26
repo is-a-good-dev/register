@@ -1,0 +1,18 @@
+{
+  "repo": "https://github.com/Kishinarry/Website",
+
+  "owner": {
+    "username": "Kishinaryy",
+    "email": "kishinaryisreal@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "kishithedev", 
+       "value": "CNAME": "kishithedev.is-a-good-dev"
+"
+     }
+  },
+
+  "proxied": false
+}
