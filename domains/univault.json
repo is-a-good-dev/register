@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "ComradeMohan",
+        "email": "mail@saveethahub.tecg"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "univault",
+            "value": "univaultapp.netlify.app"
+        }
+    },
+
+    "proxied": false
+}
