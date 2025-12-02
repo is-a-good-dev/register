@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/MAXVEL187?tab=repositories",
+
+  "owner": {
+    "username": "MAXVEL187",
+    "email": "m@05050101.xyz"
+  },
+
+  "target": {
+    "A": {
+       "name": "maxvel", 
+       "value": ["216.198.79.1"]
+     },
+    "TXT": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=maxvel.is-a-good.dev,b3472dd53dfece99e19c"
+     }
+  },
+
+  "proxied": false
+}
