@@ -7,10 +7,10 @@
   },
 
   "target": {
-    "record-type": {
-       "name": "marcos", 
-       "value": "cname.vercel-dns.com"
-     }
+    "CNAME": {
+      "name": "marcos",
+      "value": "cname.vercel-dns.com"
+    }
   },
 
   "proxied": false
