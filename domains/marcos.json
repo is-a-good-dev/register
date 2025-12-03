@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Marcos0o0/Portfolio-Marcos",
+
+  "owner": {
+    "username": "marcos0o0",
+    "email": "marcos.godoy00001@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "marcos",
+      "value": "cname.vercel-dns.com"
+    }
+  },
+
+  "proxied": false
+}
