@@ -10,6 +10,11 @@
     "CNAME": {
       "name": "marcos",
       "value": "cname.vercel-dns.com"
+    },
+
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=marcos.is-a-good.dev,828ef105346c4655bcb3"
     }
   },
 
