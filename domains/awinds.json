@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "awinds",
+    "email": "awinds@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "awinds", 
+       "value": "lijian.net"
+     }
+  },
+
+  "proxied": false
+}
