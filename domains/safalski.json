@@ -8,6 +8,10 @@
         "A": {
             "name": "safalski",
             "value": ["216.198.79.1"]
+        },
+        "TXT":{
+            "name": "_vercel",
+            "value": "vc-domain-verify=safalski.is-a-good.dev,50081057ee627658d1a6"
         }
     },
 
