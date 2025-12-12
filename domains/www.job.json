@@ -1,0 +1,15 @@
+
+  "owner": {
+    "username": "FWEEaaaa1",
+    "email": "gorgonfweman@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "www", 
+      "value": "job.is-a-good.dev"
+    }
+  },
+
+  "proxied": true
+}
