@@ -1,0 +1,9 @@
+{
+  "domain": "bindu.is-a.dev",
+  "owner": {
+    "username": "dhyanmanav"
+  },
+  "records": {
+    "CNAME": "bindu-raj.netlify.app"
+  }
+}
