@@ -6,7 +6,7 @@
 
   "target": {
     "CNAME": {
-      "name": "www", 
+      "name": "www.job", 
       "value": "job.is-a-good.dev"
     }
   },
