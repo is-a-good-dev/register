@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "korbirayen",
+        "email": "contact.rayenkorbi@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "rayen",
+            "value": "korbirayen.github.io"
+        }
+    },
+
+    "proxied": false
+}
