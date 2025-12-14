@@ -1,1 +1,9 @@
-https://the-chosen-one.is-a-good.dev/
+{
+  "owner": {
+    "username": "The-Chosen-One-O5",
+    "email": "shakthinathan2008@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com" 
+  }
+}
