@@ -5,10 +5,14 @@
   },
 
   "target": {
-    "CNAME": {
+    "A": {
        "name": "awinds", 
-       "value": "awinds.eu.org"
-     }
+       "value": "awinds.github.io"
+     },
+    "TXT": {
+      "name": "_github-pages-challenge-awinds.awinds",
+      "value": "3d287d53de536673db0acb8fd0cb5f"
+    }
   },
 
   "proxied": false
