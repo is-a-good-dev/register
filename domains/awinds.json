@@ -5,7 +5,7 @@
   },
 
   "target": {
-    "A": {
+    "CNAME": {
        "name": "awinds", 
        "value": "awinds.github.io"
      },
