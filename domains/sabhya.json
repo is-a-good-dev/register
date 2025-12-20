@@ -3,8 +3,11 @@
     "username": "SabhyaAggarwal",
     "email": "sabhya.aiss@gmail.com"
   },
-  "record": {
-    "CNAME": "sabhya.me",
-    "proxied": false
-  }
+  "target": {
+    "CNAME": {
+      "name": "sabhya",
+      "value": "sabhya.me"
+    }
+  },
+  "proxied": false
 }
