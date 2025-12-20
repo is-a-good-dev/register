@@ -1,10 +1,9 @@
 {
   "owner": {
     "username": "SabhyaAggarwal",
-    "email": "sabhya.aiss@gmail.com"
+    "email": "sabhya@example.com"
   },
   "record": {
     "CNAME": "sabhya.me"
-  },
-  "proxied": false
+  }
 }
