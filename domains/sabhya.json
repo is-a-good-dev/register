@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "SabhyaAggarwal",
+    "email": "sabhya.aiss@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sabhya",
+      "value": "sabhya.me"
+    }
+  },
+  "proxied": false
+}
