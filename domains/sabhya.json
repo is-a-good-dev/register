@@ -4,6 +4,7 @@
     "email": "sabhya.aiss@gmail.com"
   },
   "record": {
-    "CNAME": "sabhya.me"
+    "CNAME": "sabhya.me",
+    "proxied": false
   }
 }
