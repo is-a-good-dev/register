@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "MilesWK",
+    "email": "mileswkrueger@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "miles", 
+       "value": "https://www.mileswk.com/"
+     }
+  },
+
+  "proxied": false
+}
