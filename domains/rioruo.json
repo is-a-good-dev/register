@@ -1,0 +1,22 @@
+{
+    "repo": "https://github.com/mhafizhdsy-netizen/register",
+
+    "owner": {
+        "username": "RioDev",
+        "email": "mhafizhdsy@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "rioruo",
+            "value": "rioruo.vercel.app"
+        },
+        
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=rioruo.is-a-good.dev,ce087afe538e8470c255"
+        }
+    },
+
+    "proxied": false
+}
