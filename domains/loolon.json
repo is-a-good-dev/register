@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/EricYang9/register",
+
+  "owner": {
+    "username": "EricYang9",
+    "email": "0x3eth@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "loolon", 
+       "value": "ericyang9.github.io"
+     }
+  },
+
+  "proxied": false
+}
