@@ -10,10 +10,6 @@
     "CNAME": {
       "name": "centralmacatuba", 
       "value": "centralmacatuba.eu.org"
-    },
-    "NS": {
-      "name": "centralmacatuba",
-      "value": ["fred.ns.cloudflare.com", "magali.ns.cloudflare.com"]
     }
   },
 
