@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/HariKrishna-9885699666/is-a-good-dev-register",
+  "owner": {
+    "username": "HariKrishna-9885699666",
+    "email": "anemharikrishna@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "harikrishna",
+      "value": "iamharikrishna.vercel.app"
+    }
+  },
+  "proxied": false
+}
