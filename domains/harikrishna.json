@@ -7,7 +7,7 @@
   "target": {
     "CNAME": {
       "name": "harikrishna",
-      "value": "http://iamharikrishna.vercel.app"
+      "value": "iamharikrishna.vercel.app"
     }
   },
   "proxied": false
