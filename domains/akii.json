@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/AceAkira1017/AceAkira1017",
+
+  "owner": {
+    "username": "ItZmeAc3",
+    "email": "akiratakuyashi09@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "aceakira1017", 
+       "value": "aceakira1017.github.io"
+     }
+  },
+
+  "proxied": false
+}
