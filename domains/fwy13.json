@@ -7,7 +7,7 @@
     "target": {
         "CNAME": {
             "name": "fwy13",
-            "value": "fwy13.ddns.net"
+            "value": "https://fwy13-portfolio.vercel.app"
         }
     }
 }
