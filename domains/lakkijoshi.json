@@ -1,0 +1,11 @@
+{
+  "description": "My portfolio website",
+  "repo": "https://github.com/joshilak7/portfolio-frontend",
+  "owner": {
+    "username": "joshilak7",
+    "email": "luckyjoshi659@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
