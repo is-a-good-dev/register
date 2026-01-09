@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "ComradeMohan",
+        "email": "k.nobitha666@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "simatscodex",
+            "value": "campus-codex.netlify.app"
+        }
+    },
+    "proxied": false
+}
