@@ -1,0 +1,17 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "is-a-good-dev2",
+        "email": "will2@is-a-good.dev"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "matt3",
+            "value": "is-a-good-dev.github.io"
+        }
+    },
+
+    "proxied": false
+}
