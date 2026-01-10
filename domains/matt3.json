@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/is-a-good-dev/dashboard",
+
+    "owner": {
+        "username": "is-a-good-dev3",
+        "email": "matt3@is-a-good.dev"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "dashboard",
+            "value": "is-a-good-dev.github.io"
+        }
+    },
+
+    "proxied": false
+}
