@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/joshilak7/YOUR_REPO_NAME",
+
+    "owner": {
+        "username": "joshilak7",
+        "email": "luckyjoshi659@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "lakki-joshi",
+            "value": "cname.vercel-dns.com"
+        }
+    },
+
+    "proxied": false
+}
