@@ -6,7 +6,7 @@
     "target": {
         "CNAME": {
             "name": "simatscodex",
-            "value": "campus-codex.netlify.app"
+            "value": "campus-codex.vercel.app"
         }
     },
     "proxied": false
