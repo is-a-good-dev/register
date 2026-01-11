@@ -8,8 +8,8 @@
 
     "target": {
         "CNAME": {
-            "name": "dashboard",
-            "value": "is-a-good-dev.github.io"
+            "name": "matt3",
+            "value": "https://is-a-good-dev.github.io"
         }
     },
 
