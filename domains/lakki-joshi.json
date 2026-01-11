@@ -1,0 +1,10 @@
+{
+  "description": "Personal portfolio website",
+  "repo": "https://github.com/joshilak7/portfolio-website",
+  "owner": {
+    "username": "joshilak7"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
