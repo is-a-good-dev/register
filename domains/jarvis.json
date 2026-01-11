@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/DharmM-AI-guy/Jarvis-domain",
+
+  "owner": {
+    "username": "DharmM-AI-guy",
+    "email": "dharmm420@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "jarvis",
+      "value": ["2.56.246.90"]
+    }
+  },
+
+  "proxied": false
+}
