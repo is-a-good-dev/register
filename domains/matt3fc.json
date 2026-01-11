@@ -7,9 +7,9 @@
     },
 
     "target": {
-        "A": {
+        "CNAME": {
             "name": "matt3",
-            "value": "https://is-a-good-dev.github.io"
+            "value": "is-a-good-dev.github.io"
         }
     },
 
