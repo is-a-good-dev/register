@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/joshilak7/portfolio-website",
+
+  "owner": {
+    "username": "joshilak7",
+    "email": "luckyjoshi659@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+    "name": "www",
+    "value": "3b91a5d32f9b8328.vercel-dns-017.com."
+     }
+  },
+
+  "proxied": false
+}
