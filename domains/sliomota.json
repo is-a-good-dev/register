@@ -2,14 +2,14 @@
  "repo": "https://github.com/sliomota/Portafolio",
 
   "owner": {
-    "username": "sliomot",
+    "username": "sliomota",
     "email": "saimonlionello00@gmail.com"
   },
 
   "target": {
     "CNAME": {
-      "name": "portafolio simon", 
-      "value": "https://portafolio-5h2u1yso7-sliomotas-projects.vercel.app/"
+      "name": "sliomot", 
+      "value": "portafolio-sandy-theta.vercel.app"
     }
   },
     "proxied": false
