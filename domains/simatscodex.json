@@ -7,9 +7,8 @@
         "CNAME": {
             "name": "simatscodex",
             "value": "campus-codex.vercel.app"
-        }
-    },
-    "TXT": {
+        },
+        "TXT": {
             "name": "_vercel",
             "value": "vc-domain-verify=simatscodex.is-a-good.dev,42eee558666370db0702"
         }
