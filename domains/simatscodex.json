@@ -9,28 +9,10 @@
             "value": "campus-codex.vercel.app"
         }
     },
-    "proxied": false
-}
-
-{
-    "repo": "https://github.com/zthanhluan/register",
-
-    "owner": {
-        "username": "DienTu",
-        "email": "dientu078@gmail.com"
-    },
-
-    "target": {
-        "CNAME": {
-            "name": "ztl",
-            "value": "3dslider.vercel.app"
-        },
-        
-        "TXT": {
+    "TXT": {
             "name": "_vercel",
             "value": "vc-domain-verify=simatscodex.is-a-good.dev,42eee558666370db0702"
         }
     },
-
     "proxied": false
 }
