@@ -10,5 +10,9 @@
       "value": "cname.vercel-dns.com"
     }
   },
+"TXT": {
+      "name": "_vercel",
+      "value":"vc-domain-verify=sliomota.is-a-good.dev,b9c5bce146da6b025fe0"
+    },
   "proxied": false
 }
