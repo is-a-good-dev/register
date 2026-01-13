@@ -1,0 +1,21 @@
+{
+  "repo": "",
+  
+  "owner": {
+    "username": "joshilak7",
+    "email": "luckyjoshi659@gmail.com"
+  },
+  
+  "target": {
+        "CNAME": {
+       "name": "lakkijoshi", 
+       "value": "lakkijoshi.vercel.app"
+     },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=lakkijoshi.is-a-good.dev,6e8ae7c73f06f4d9c175"
+    }
+  },
+
+    "proxied": false
+}
