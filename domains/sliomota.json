@@ -5,14 +5,14 @@
     "email": "saimonlionello00@gmail.com"
   },
   "target": {
-    "CNAME": {
+    "A": {
       "name": "sliomota",
-      "value": "cname.vercel-dns.com"
-    }
-  },
+      "value": ["216.198.79.1"]
+    },
 "TXT": {
       "name": "_vercel",
       "value":"vc-domain-verify=sliomota.is-a-good.dev,b9c5bce146da6b025fe0"
-    },
+    }
+  },
   "proxied": false
 }
