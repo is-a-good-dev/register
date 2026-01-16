@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/saifxyzyz/portfolio",
+
+  "owner": {
+    "username": "saifxyzyz",
+    "email": "saifmujeeb2603@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "saif", 
+       "value": "portfolio-22v.pages.dev"
+     }
+  },
+
+  "proxied": true
+}
