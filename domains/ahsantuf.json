@@ -1,10 +1,10 @@
 {
   "owner": {
     "username": "ahsanTUF",
-    "email": "thsanauf@gmail.com"
+    "email": "YOUR_REAL_EMAIL_HERE"
   },
   "record": {
-    "CNAME": "cname.vercel-dns.com",
-    "proxied": false
-  }
+    "CNAME": ["cname.vercel-dns.com"]
+  },
+  "proxied": false
 }
