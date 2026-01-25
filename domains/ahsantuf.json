@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/ahsanTUF/ahsanTUF-Portfolio-Website",
+  "owner": {
+    "username": "ahsanTUF",
+    "email": "thsanauf@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ahsantuf",
+      "value": "cname.vercel-dns.com"
+    }
+  },
+  "proxied": false
+}
