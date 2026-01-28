@@ -8,6 +8,10 @@
     "CNAME": {
       "name": "ahsantuf",
       "value": "cname.vercel-dns.com"
+    },
+    "TXT": {
+      "name": "_vercel.ahsantuf",
+      "value": "vc-domain-verify=ahsantuf.is-a-good.dev,4d421059b916afc29bd0"
     }
   },
   "proxied": false
