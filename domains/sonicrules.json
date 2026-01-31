@@ -1,0 +1,16 @@
+{
+  "repo": "https://github.com/sonicrules1234/register_is_a_good_dev",
+
+  "owner": {
+    "username": "sonicrules1234",
+    "email": "sonicrules1234@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "sonicrules", 
+       "value": ["207.50.146.94"]
+     }
+  },
+  "proxied": false
+}
