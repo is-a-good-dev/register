@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/VoidhavenStudios/voidhaven.github.io",
+
+  "owner": {
+    "username": "VoidhavenStudios",
+    "email": "rhalza.dev+voidhavenstudios@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "voidhaven",
+      "value": ""
+    }
+  },
+
+  "proxied": false
+}
