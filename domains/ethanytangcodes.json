@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/ethanytangcodes/ethanytangcodes.github.io",
+
+  "owner": {
+    "username": "ethanytangcodes",
+    "email": "ethantytang11@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "ethanytangcodes", 
+      "value": "ethanytangcodes.github.io"
+    }
+  },
+
+  "proxied": false
+}
