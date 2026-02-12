@@ -12,6 +12,10 @@
     "TXT": {
       "name": "_vercel",
       "value": "vc-domain-verify=harikrishna.is-a-good.dev,107655b32c4b0b765dde"
+    },
+    "A": {
+      "name": "@",
+      "value": "216.198.79.1"
     }
   },
   "proxied": false
