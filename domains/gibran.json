@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "gebrann",
+    "email": "notgibranreal@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "gibran", 
+       "value": "macchiato.sg.rapidwhm.com"
+     }
+  },
+
+  "proxied": true
+}
