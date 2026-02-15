@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/tecanmol/Portfolio",
+
+  "owner": {
+    "username": "tecanmol",
+    "email": "panmol735@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "anmol", 
+       "value": "tecanmol.github.io"
+     }
+  },
+
+  "proxied": false
+}
