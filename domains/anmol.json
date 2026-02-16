@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/tecanmol/Portfolio",
+
+  "owner": {
+    "username": "tecanmol",
+    "email": "panmol735@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "anmol", 
+       "value": "tecanmol.github.io"
+     },
+     "TXT": {
+            "name": "_github-pages-challenge-tecanmol",
+            "value": "d34165849914c244cb30974eb0184e"
+    }
+  },
+
+  "proxied": false
+}
