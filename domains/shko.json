@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "username": "OneAboveAll190604",
+    "email": "shkoma.ranya@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "shko",
+      "value": "216.198.79.1"
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=shko.is-a-good.dev,4d32124d721d31eae5a2"
+    }
+  },
+  "proxied": false
+}
