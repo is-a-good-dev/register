@@ -1,0 +1,21 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "NathanOrvain",
+    "email": "nathan@jika.gg"
+  },
+
+  "target": {
+    "A": {
+      "name": "kurayami", 
+      "value": "216.198.79.1"
+    },
+    "TXT": {
+      "name": "_vercel", 
+      "value": "vc-domain-verify=kurayami.is-a-good.dev,e4862becbed7b29f4d29"
+    }
+  },
+
+  "proxied": false
+}
