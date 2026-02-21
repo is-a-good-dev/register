@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "NathanOrvain",
+    "email": "nathan@jika.gg"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "kurayami",
+      "value": "cname.vercel-dns.com"
+    }
+  },
+
+  "proxied": false
+}
