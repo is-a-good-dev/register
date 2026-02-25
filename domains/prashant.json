@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "prashant64bit",
+    "email": "Prashant64bit@gmail.com"
+  },
+  
+  "target": {
+    "CNAME": {
+       "name": "prashant", 
+       "value": "prashant64bit.github.io"
+     }
+  },
+
+  "proxied": false
+}
