@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "npman",
+        "email": "13826249000l@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "npman",
+            "value": ["43.153.108.105"]
+        }
+    },
+
+    "proxied": false
+}
