@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/s14mx69/s14mx69",
+
+  "owner": {
+    "username": "siam",
+    "email": "siam@is-a-good.dev"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "docs", 
+      "value": "hosting.gitbook.io"
+    }
+  },
+
+  "proxied": false
+}
