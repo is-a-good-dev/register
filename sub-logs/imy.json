@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "imyaza",
+    "email": "ala@imy1.eu.org"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "imy", 
+       "value": ""
+     }
+  },
+
+  "proxied": false
+}
