@@ -1,11 +1,14 @@
 {
+  "repo": "https://github.com/Falzz1010/portofoliome-naufal",
   "owner": {
     "username": "Falzz1010",
-    "email": "emailkamu@example.com"
+    "email": "setiawandandy845@gmail.com "
   },
-  "record": {
-    "type": "CNAME",
-    "target": "cname.vercel-dns.com",
-    "proxied": false
-  }
+  "target": {
+    "CNAME": {
+      "name": "falzz",
+      "value": "cname.vercel-dns.com"
+    }
+  },
+  "proxied": false
 }
