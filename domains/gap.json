@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "silkenpy",
+        "email": "silkenpy@gmail.com"
+    },
+
+    "target": {
+        "AAAA": {
+            "name": "gap",
+            "value": ["2a09:8280:1::1:8841"]
+        }
+    },
+
+    "proxied": true
+}
