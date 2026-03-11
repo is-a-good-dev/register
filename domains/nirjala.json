@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "nirjalalala",
+    "email": "pandeynirjala6@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "nirjalalala", 
+       "value": "nirjalalala.github.io"
+     }
+  },
+
+  "proxied": false
+}
