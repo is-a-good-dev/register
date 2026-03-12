@@ -1,0 +1,20 @@
+{
+  "repo": "register",
+
+  "owner": {
+    "username": "mcmuhyeon705-a11y",
+    "email": "mcmuhyeon705@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+      "name": "NS",
+      "value": [
+        "chloe.ns.cloudflare.com",
+        "rohin.ns.cloudflare.com"
+      ]
+    }
+  },
+
+  "proxied": false
+}
