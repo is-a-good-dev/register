@@ -10,7 +10,11 @@
         "CNAME": {
             "name": "@",
             "value": "tujo.is-cool.dev"
-        }
+        },
+        {
+        "name": "www",
+        "value": "tujo.is-cool.dev"
+      }
     },
 
     "proxied": true
