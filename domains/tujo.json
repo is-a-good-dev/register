@@ -6,8 +6,9 @@
   },
   "target": {
     "CNAME": {
-      "@": "tujo.is-cool.dev",
-      "www": "tujo.is-cool.dev"
+      "name": "@",
+      "value": "tujo.is-cool.dev"
     }
-  }
+  },
+  "proxied": false
 }
