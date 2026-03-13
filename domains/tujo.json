@@ -5,16 +5,9 @@
     "email": "its.tujo@gmail.com"
   },
   "target": {
-    "CNAME": [
-      {
-        "name": "@",
-        "value": "tujo.is-cool.dev"
-      },
-      {
-        "name": "www",
-        "value": "tujo.is-cool.dev"
-      }
-    ],
-    "proxied": true
+    "CNAME": {
+      "@": "tujo.is-cool.dev",
+      "www": "tujo.is-cool.dev"
+    }
   }
 }
