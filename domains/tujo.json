@@ -1,21 +1,20 @@
 {
-
-    "owner": {
-        "username": "its-tujo",
-        "discord" : "its_tujo",
-        "email": "its.tujo@gmail.com"
-    },
-
-    "target": {
-        "CNAME": {
-            "name": "@",
-            "value": "tujo.is-cool.dev"
-        },
-        {
+  "owner": {
+    "username": "its-tujo",
+    "discord": "its_tujo",
+    "email": "its.tujo@gmail.com"
+  },
+  "target": {
+    "CNAME": [
+      {
+        "name": "@",
+        "value": "tujo.is-cool.dev"
+      },
+      {
         "name": "www",
         "value": "tujo.is-cool.dev"
       }
-    },
-
+    ],
     "proxied": true
+  }
 }
