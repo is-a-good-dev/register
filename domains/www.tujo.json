@@ -6,7 +6,7 @@
   },
   "target": {
     "CNAME": {
-      "name": "www",
+      "name": "www.tujo",
       "value": "tujo.is-cool.dev"
     }
   },
