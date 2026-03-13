@@ -7,7 +7,7 @@
   "target": {
     "CNAME": {
       "name": "tujo",
-      "value": "redirect1to2tujo3is4cool5dev.eu.pythonanywhere.com"
+      "value": "redirect-to-github-pages.vercel.app"
     }
   },
   "proxied": false
