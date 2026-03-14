@@ -7,8 +7,7 @@
   "target": {
     "A": {
       "name": "tujo",
-      "value": "216.198.79.1",
-      "proxied": false
+      "value": ["216.198.79.1"]
     },
     "TXT": {
       "name": "_vercel",
