@@ -13,6 +13,6 @@
       "name": "_vercel",
       "value": "vc-domain-verify=tujo.is-a-good.dev,0cc1063fed4f951106ae"
     }
-  }
-  "proxied" = false
+  },
+  "proxied": false
 }
