@@ -5,18 +5,14 @@
     "email": "its.tujo@gmail.com"
   },
   "target": {
-    "records": [
-      {
-        "type": "A",
-        "name": "tujo",
-        "value": "216.198.79.1",
-        "proxied": false
-      },
-      {
-        "type": "TXT",
-        "name": "_vercel",
-        "value": "vc-domain-verify=tujo.is-a-good.dev,0cc1063fed4f951106ae"
-      }
-    ]
+    "A": {
+      "name": "tujo",
+      "value": "216.198.79.1",
+      "proxied": false
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=tujo.is-a-good.dev,0cc1063fed4f951106ae"
+    }
   }
 }
