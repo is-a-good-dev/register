@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "its-tujo",
+    "discord": "its_tujo",
+    "email": "its.tujo@gmail.com"
+  },
+  "target": {
+    "TXT": {
+      "name": "_vercel.tujo",
+      "value": "vc-domain-verify=tujo.is-a-good.dev,0cc1063fed4f951106ae"
+    }
+  },
+  "proxied": false
+}
