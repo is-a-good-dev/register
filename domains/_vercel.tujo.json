@@ -6,7 +6,7 @@
   },
   "target": {
     "TXT": {
-      "name": "_vercel",
+      "name": "_vercel.tujo",
       "value": "vc-domain-verify=tujo.is-a-good.dev,0cc1063fed4f951106ae"
     }
   },
