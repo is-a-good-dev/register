@@ -1,0 +1,12 @@
+{
+  "domain": "is-a-good.dev",
+  "subdomain": "daniel",
+  "owner": {
+    "username": "dany24raj",
+    "email": "dany24raj@gmail.com"
+  },
+  "proxied": false,
+  "record": {
+    "CNAME": "dany24raj.github.io"
+  }
+}
