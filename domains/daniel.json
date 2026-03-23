@@ -1,12 +1,11 @@
 {
-  "name": "daniel",
   "domain": "is-a-good.dev",
-  "description": "Personal Portfolio of Daniel Mangalraj Andrews, Technical Architect",
-  "github_username": "dany24raj",
+  "subdomain": "daniel",
   "owner": {
-    "repo": "https://github.com/dany24raj/register",
+    "username": "dany24raj",
     "email": "dany24raj@gmail.com"
   },
+  "proxied": false,
   "record": {
     "CNAME": "dany24raj.github.io"
   }
