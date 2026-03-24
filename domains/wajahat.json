@@ -5,8 +5,16 @@
     "email": "hi@pyzit.com"
   },
   "target": {
-    "A": ["216.198.79.1"],
-    "TXT": ["vc-domain-verify=wajahat.is-a-good.dev,23a336e1af65daf7f899"]
+    "A": {
+      "name": "@",
+      "value": "216.198.79.1"
+    },
+    "TXT": [
+      {
+        "name": "_vercel",
+        "value": "vc-domain-verify=wajahat.is-a-good.dev,23a336e1af65daf7f899"
+      }
+    ]
   },
   "proxied": false
 }
