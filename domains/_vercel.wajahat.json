@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/pyzit/register-is-a-good.dev/",
+
+  "owner": {
+    "username": "pyzit",
+    "email": "hi@pyzit.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "TXT", 
+       "value": "vc-domain-verify=wajahat.is-a-good.dev,23a336e1af65daf7f899"
+     }
+  },
+
+  "proxied": false
+}
