@@ -7,7 +7,7 @@
   "target": {
     "A": {
       "name": "wajahat",
-      "value": "216.198.79.1"
+      "value": ["216.198.79.1"]
     },
     "TXT": [
       {
