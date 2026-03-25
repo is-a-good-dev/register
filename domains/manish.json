@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "manish7479dlp",
+    "email": "manish7479dlp@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+      "name": "manish",
+      "value": "manish7479dlp.github.io"
+    }
+  },
+
+  "proxied": false
+}
