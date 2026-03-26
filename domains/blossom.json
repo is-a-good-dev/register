@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/ethan-y-tang/blossom",
+  "repo": "https://github.com/ethan-y-tang/ethan-y-tang.github.io",
 
   "owner": {
     "username": "ethan-y-tang",
@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
       "name": "blossom", 
-      "value": "ethan-y-tang.github.io/blossom"
+      "value": "ethan-y-tang.github.io"
     }
   },
 
