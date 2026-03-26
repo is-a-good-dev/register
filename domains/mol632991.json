@@ -3,5 +3,8 @@
   "owner": "mol632991-png",
   "repo": "https://github.com/mol632991-png/register",
   "proxied": false,
-  "target": ["diana.ns.cloudflare.com", "igor.ns.cloudflare.com"]
+  "target": [
+    "diana.ns.cloudflare.com",
+    "igor.ns.cloudflare.com"
+  ]
 }
