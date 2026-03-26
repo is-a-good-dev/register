@@ -1,14 +1,11 @@
 {
   "domain": "mol632991.is-a-good.dev",
-  "owner": {
-    "username": "mol632991-png",
-    "repo": "https://github.com/mol632991-png/register"
-  },
-  "proxied": false,
+  "owner": "mol632991-png",
   "target": {
     "ns": [
       "diana.ns.cloudflare.com",
       "igor.ns.cloudflare.com"
     ]
-  }
+  },
+  "proxied": false
 }
