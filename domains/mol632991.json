@@ -1,11 +1,11 @@
 {
   "domain": "mol632991.is-a-good.dev",
-  "owner": {
+  "owner": {  // 👈 这里是对象
     "username": "mol632991-png",
     "repo": "https://github.com/mol632991-png/register"
   },
   "proxied": false,
-  "target": {
+  "target": {  // 👈 这里是对象
     "ns": [
       "diana.ns.cloudflare.com",
       "igor.ns.cloudflare.com"
