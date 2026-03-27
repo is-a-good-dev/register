@@ -8,6 +8,10 @@
     "A": {
       "name": "dai",
       "value": ["216.150.1.1"]
+    },
+    "TXT": {
+      "name": "_vercel.dai",
+      "value": "vc-domain-verify=dai.is-a-good.dev,29b5ad1e12be91f00a7a"
     }
   },
   "proxied": false
