@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/ncdai/chanhdai.com",
+  "owner": {
+    "username": "ncdai",
+    "email": "dai@chanhdai.com"
+  },
+  "target": {
+    "A": {
+      "name": "dai",
+      "value": ["216.150.1.1"]
+    }
+  },
+  "proxied": false
+}
