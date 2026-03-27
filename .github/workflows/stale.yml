@@ -18,5 +18,5 @@ jobs:
                   days-before-close: 7
                   stale-issue-message: "This issue has been marked as stale due to inactivity and will be closed. Comment anything on this issue to prevent it"
                   stale-pr-message: "This pull request has been marked as stale due to inactivity and will be closed. Comment anything on this PR to prevent it"
-                  exempt-issue-labels: "No-stale"
-                  exempt-pr-labels: "No-stale"
+                  exempt-issue-labels: "No-stale,Validated"
+                  exempt-pr-labels: "No-stale,Validated"
