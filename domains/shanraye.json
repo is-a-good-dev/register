@@ -1,0 +1,17 @@
+{
+    "repo": "https://shanrayeguzman0.github.io/farali.github.io/",
+
+    "owner": {
+        "username": "shanrayeguzman0",
+        "email": "shanrayeguzman0@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "shanrayeguzman0",
+            "value": "shanrayeguzman0.github.io"
+        }
+    },
+
+    "proxied": false
+}
