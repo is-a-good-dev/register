@@ -1,9 +1,11 @@
 {
   "owner": {
-    "username": "The1RealBlade"
+    "username": "The1RealBlade",
+    "email": "blade.business13@gmail.com"
   },
-  "records": {
-    "CNAME": "the1realblade.github.io"
+  "target": {
+    "type": "CNAME",
+    "value": "the1realblade.github.io"
   },
   "proxied": false
 }
