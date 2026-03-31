@@ -1,4 +1,9 @@
 {
-  "domain": "the1realblade.github.io",
-  "subdomain": "blade"
+  "owner": {
+    "username": "The1RealBlade"
+  },
+  "records": {
+    "CNAME": "the1realblade.github.io"
+  },
+  "proxied": false
 }
