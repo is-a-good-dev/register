@@ -1,11 +1,17 @@
 {
+  "repo": "https://github.com/The1RealBlade/blade-portfolio",
+
   "owner": {
     "username": "The1RealBlade",
     "email": "blade.business13@gmail.com"
   },
+
   "target": {
-    "type": "CNAME",
-    "value": "the1realblade.github.io"
+    "CNAME": {
+      "name": "blade",
+      "value": "the1realblade.github.io"
+    }
   },
+
   "proxied": false
 }
