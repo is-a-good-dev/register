@@ -1,11 +1,15 @@
 {
-  "$schema": "../schemas/domain.schema.json",
-  "domain": "is-a-good.dev",
-  "subdomain": "daniel",
-  "owner": {
-    "email": "dany24raj@gmail.com"
-  },
-  "records": {
-    "CNAME": "cname.vercel-dns.com"
-  }
+    "owner": {
+        "username": "dany24raj",
+        "email": "dany24raj@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "daniel",
+            "value": "cname.vercel-dns.com"
+        }
+    },
+
+    "proxied": false
 }
