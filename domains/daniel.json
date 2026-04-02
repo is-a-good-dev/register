@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "dany24raj",
+        "email": "dany24raj@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "daniel",
+            "value": "cname.vercel-dns.com"
+        }
+    },
+
+    "proxied": false
+}
