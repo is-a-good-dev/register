@@ -4,12 +4,12 @@
         "email": "dany24raj@gmail.com"
     },
     "target": {
-        "A": {
-            "name": "@",
-            "value": "216.198.79.1"
+        "CNAME": {
+            "name": "daniel",
+            "value": "020cc563f8b09674.vercel-dns-017.com."
         },
         "TXT": {
-            "name": "_vercel",
+            "name": "daniel",
             "value": "vc-domain-verify=daniel.is-a-good.dev,edf71ea283a771759c4e"
         }
     },
