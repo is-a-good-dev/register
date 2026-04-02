@@ -8,10 +8,6 @@
             "name": "@",
             "value": "216.198.79.1"
         },
-        "CNAME": {
-            "name": "www",
-            "value": "020cc563f8b09674.vercel-dns-017.com."
-        },
         "TXT": {
             "name": "_vercel",
             "value": "vc-domain-verify=daniel.is-a-good.dev,edf71ea283a771759c4e"
