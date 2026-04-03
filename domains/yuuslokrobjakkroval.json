@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/yuuslokrobjakkroval/yuuslokrobjakkroval.github.io",
+
+  "owner": {
+    "username": "yuuslokrobjakkroval",
+    "email": "yuuslokrobjakkroval@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "yuuslokrobjakkroval",
+      "value": "yuuslokrobjakkroval.me"
+    }
+  },
+
+  "proxied": false
+}
