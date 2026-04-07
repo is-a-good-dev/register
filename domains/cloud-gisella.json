@@ -1,0 +1,10 @@
+{
+  "description": "Personal Nextcloud server",
+  "owner": {
+    "username": "alleusai",
+    "email": "alleusai@gmail.com"
+  },
+  "records": {
+    "A": ["185.199.108.153"]
+  }
+}
