@@ -1,17 +1,10 @@
 {
-  "repo": "https://github.com/Moggle-Khraum/noveldr-site",
-
   "owner": {
     "username": "moggle-khraum",
     "email": "demiurgegravedigger@gmail.com"
   },
-
-  "target": {
-    "CNAME": {
-      "name": "noveldr-app", 
-      "value": "moggle-khraum.github.io/noveldr-site/"
-    }
+  "record": {
+    "CNAME": "moggle-khraum.github.io"
   },
-
-  "proxied": true
+  "proxied": false
 }
