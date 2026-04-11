@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/Jabir-Srj/tinkr",
+
+    "owner": {
+        "username": "Jabir-Srj",
+        "email": "jabirsrj8@protonmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "tinkr",
+            "value": "tinkr-nu.vercel.app"
+        }
+    },
+
+    "proxied": true
+}
