@@ -6,7 +6,7 @@
     "target": {
         "CNAME": {
             "name": "daniel",
-            "value": "020cc563f8b09674.vercel-dns-017.com."
+            "value": "020cc563f8b09674.vercel-dns-017.com"
         },
         "TXT": {
             "name": "daniel",
