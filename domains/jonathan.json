@@ -8,14 +8,16 @@
             "name": "jonathan",
             "value": ["216.198.79.1"]
         },
-        "TXT": {
-            "name": "jonathan",
-            "value": "google-site-verification=MJhtlWiCFFNpiOoNdP4gPLstx9WCEuD53evcocNajrg"
-        },
-        "TXT": {
-            "name": "_vercel",
-            "value": "vc-domain-verify=jonathan.is-a-good.dev,40f39ec5e043acd1806c"
-        }
+        "TXT": [
+            {
+                "name": "jonathan",
+                "value": "google-site-verification=MJhtlWiCFFNpiOoNdP4gPLstx9WCEuD53evcocNajrg"
+            },
+            {
+                "name": "_vercel",
+                "value": "vc-domain-verify=jonathan.is-a-good.dev,40f39ec5e043acd1806c"
+            }
+        ]
     },
     "proxied": false
 }
