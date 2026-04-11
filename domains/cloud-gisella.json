@@ -1,7 +1,11 @@
 {
-  "owner": "alleusai",
+  "owner": {
+    "username": "alleusai",
+    "email": "alleusai@gmail.com"
+  },
   "repo": "alleusai/cloud-gisella",
-  "target": {
-    "A": ["185.199.108.153"]
+  "proxied": false,
+  "A": {
+    "@": "185.199.108.153"
   }
 }
