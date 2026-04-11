@@ -9,7 +9,7 @@
 
     "target": {
         "CNAME": {
-            "name": "noveldr-app",
+            "name": "moggle",
             "value": "noveldr-site.github.io"
         }
     },
