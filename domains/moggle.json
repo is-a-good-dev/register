@@ -1,0 +1,18 @@
+
+{
+    "repo": "https://github.com/Moggle-Khraum/noveldr-site/noveldr-site.github.io",
+
+    "owner": {
+        "username": "moggle-khraum",
+        "email": "demiurgegravedigger@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "moggle",
+            "value": "noveldr-site.github.io"
+        }
+    },
+
+    "proxied": false
+}
