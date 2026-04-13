@@ -3,15 +3,17 @@
         "username": "dany24raj",
         "email": "dany24raj@gmail.com"
     },
-    "target": {
-        "CNAME": {
+    "records": [
+        {
+            "type": "CNAME",
             "name": "daniel",
-            "value": "020cc563f8b09674.vercel-dns-017.com"
+            "value": "cname.vercel-dns.com"
         },
-        "TXT": {
-            "name": "daniel",
+        {
+            "type": "TXT",
+            "name": "_vercel.daniel",
             "value": "vc-domain-verify=daniel.is-a-good.dev,edf71ea283a771759c4e"
         }
-    },
+    ],
     "proxied": false
 }
