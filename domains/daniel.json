@@ -3,15 +3,10 @@
         "username": "dany24raj",
         "email": "dany24raj@gmail.com"
     },
-    "target": {
-        "cname": "cname.vercel-dns.com"
+    "record": {
+        "CNAME": "cname.vercel-dns.com"
     },
     "records": [
-        {
-            "type": "CNAME",
-            "name": "daniel",
-            "value": "cname.vercel-dns.com"
-        },
         {
             "type": "TXT",
             "name": "_vercel.daniel",
