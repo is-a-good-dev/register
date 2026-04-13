@@ -6,5 +6,6 @@
   },
   "record": {
     "CNAME": "aayu-me.github.io"
-  }
+  },
+  "proxied": false
 }
