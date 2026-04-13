@@ -1,12 +1,17 @@
 {
   "repo": "https://github.com/aayu-me/aayu-me.github.io",
-  "domain": "aayu",
+
   "owner": {
     "username": "aayu-me",
     "email": "beeshalnep@gmail.com"
   },
-  "record": {
-    "CNAME": "aayu-me.github.io"
+
+  "target": {
+    "CNAME": {
+      "name": "aayu", 
+      "value": "aayu-me.github.io"
+    }
   },
+
   "proxied": false
 }
