@@ -6,6 +6,7 @@
     "record": {
         "CNAME": "cname.vercel-dns.com"
     },
+    "target": "cname.vercel-dns.com",
     "records": [
         {
             "type": "TXT",
