@@ -1,20 +1,17 @@
 {
-    "owner": {
-        "username": "dany24raj",
-        "email": "dany24raj@gmail.com"
+  "owner": {
+    "username": "dany24raj",
+    "email": "dany24raj@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "daniel",
+      "value": "cname.vercel-dns.com"
     },
-    "record": {
-        "CNAME": "cname.vercel-dns.com"
-    },
-    "target": {
-        "CNAME": "cname.vercel-dns.com"
-    },
-    "records": [
-        {
-            "type": "TXT",
-            "name": "_vercel.daniel",
-            "value": "vc-domain-verify=daniel.is-a-good.dev,edf71ea283a771759c4e"
-        }
-    ],
-    "proxied": false
+    "TXT": {
+      "name": "_vercel.daniel",
+      "value": "vc-domain-verify=daniel.is-a-good.dev,edf71ea283a771759c4e"
+    }
+  },
+  "proxied": false
 }
