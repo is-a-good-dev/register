@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "adornyt5-cloud",
+    "email": "adornyt5@gmail.com"
+  },
+  "record": {
+    "CNAME": "adornyt5-cloud.github.io"
+  },
+  "target": "adornyt5-cloud.github.io",
+  "proxied": false
+}
