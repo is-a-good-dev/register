@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/adornyt5-cloud/beast.is-a-good.dev",
+  "owner": {
+    "username": "adornyt5-cloud",
+    "email": "adornyt5@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "beast",
+      "value": "adornyt5-cloud.github.io"
+    }
+  },
+  "proxied": false
+}
