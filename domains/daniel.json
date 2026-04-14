@@ -5,7 +5,7 @@
   },
   "target": {
     "A": {
-      "name": "@",
+      "name": "@.daniel",
       "value": "216.198.79.1"
     },
     "TXT": {
