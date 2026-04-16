@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Lukezinin/registergooddev",
+
+  "owner": {
+    "username": "Lukezinin",
+    "email": "LukeNGG1@hotmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "luke", 
+       "value": "luke.is-a-good.dev.cdn.cloudflare.net"
+     }
+  },
+
+  "proxied": true
+}
