@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "tonyliuzj",
+    "email": "tony@liuzj.net"
+  },
+  
+  "target": {
+    "A": {
+      "name": "liu",
+      "value": ["176.9.86.61"]
+    }
+  },
+  
+  "proxied": false
+}
