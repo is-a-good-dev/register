@@ -3,13 +3,13 @@
 
   "owner": {
     "username": "Lukezinin",
-    "email": "LukeNGG1@hotmail.com"
+    "email": "luccasnowgg@gmail.com"
   },
 
   "target": {
     "CNAME": {
        "name": "luke", 
-       "value": "luke.is-a-good.dev.cdn.cloudflare.net"
+       "value": "lukegooddev.luccasnowgg.workers.dev"
      }
   },
 
