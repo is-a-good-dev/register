@@ -1,8 +1,11 @@
 {
   "owner": {
-    "email": "13757636@alu.murciaeduca.es"
+    "email": "13757636@alu.murciaeduca.es",
+    "username": "JoanB11"
   },
   "record": {
     "CNAME": "proyecto.is-a-good.dev"
-  }
+  },
+  "target": "CNAME",
+  "private": false
 }
