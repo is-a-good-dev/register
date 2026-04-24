@@ -1,0 +1,11 @@
+{
+  "domain": "is-a.good.dev",
+  "subdomain": "fortythree",
+  "owner": {
+    "repo": "https://th3silv3rslash3r-del.github.io/forty-three-github-work/",
+    "email": "thom7512014@outlook.com"
+  },
+  "record": {
+    "CNAME": "th3silv3rslash3r-del.github.io"
+  }
+}
