@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "amritpandey637-svg",
+    "email": "amritpandey637@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "nyz", 
+       "value": "nyz-omega.vercel.app"
+     }
+  },
+
+  "proxied": false
+}
