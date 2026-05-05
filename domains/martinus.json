@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "john-CK08",
+    "email": "john.chikwok@outlook.com"
+  },
+  "records": {
+    "NS": [
+      "lola.ns.cloudflare.com",
+      "tim.ns.cloudflare.com"
+    ]
+  }
+}
