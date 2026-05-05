@@ -4,7 +4,9 @@
     "email": "john.chikwok@outlook.com"
   },
   "target": {
-    "A": "1.1.1.1"
+    "A": {
+      "@": "1.1.1.1"
+    }
   },
   "proxied": false
 }
