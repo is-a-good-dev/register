@@ -3,6 +3,6 @@
     "username": "john-CK08",
     "email": "john.chikwok@outlook.com"
   },
-  "CNAME": "the-rag-knowledge-base-agent.streamlit.app",
+  "cname": "the-rag-knowledge-base-agent.streamlit.app",
   "proxied": false
 }
