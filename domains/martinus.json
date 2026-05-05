@@ -3,10 +3,11 @@
     "username": "john-CK08",
     "email": "john.chikwok@outlook.com"
   },
-  "records": {
+  "target": {
     "NS": [
       "lola.ns.cloudflare.com",
       "tim.ns.cloudflare.com"
     ]
-  }
+  },
+  "proxied": false
 }
