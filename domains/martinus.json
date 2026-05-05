@@ -4,7 +4,7 @@
     "email": "john.chikwok@outlook.com"
   },
   "target": {
-    "CNAME": "example.com",
+    "CNAME": "192.0.2.1",
     "NS": [
       "lola.ns.cloudflare.com",
       "tim.ns.cloudflare.com"
