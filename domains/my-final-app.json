@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "john-CK08",
-    "email": "john.chikwok@outlook.com"
+    "username": "john-CK08"
   },
-  "cname": "the-rag-knowledge-base-agent.streamlit.app",
+  "records": {
+    "CNAME": ["the-rag-knowledge-base-agent.streamlit.app"]
+  },
   "proxied": false
 }
