@@ -4,14 +4,12 @@
     "email": "john.chikwok@outlook.com"
   },
   "target": {
-    "CNAME": {
-      "records": [
-        {
-          "name": "@",
-          "value": "github.io"
-        }
-      ]
-    }
+    "CNAME": [
+      {
+        "name": "@",
+        "value": "pages.github.com"
+      }
+    ]
   },
   "proxied": false
 }
