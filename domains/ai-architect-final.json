@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "john-CK08",
+    "email": "john.chikwok@outlook.com"
+  },
+  "target": {
+    "CNAME": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app",
+    "proxied": true
+  }
+}
