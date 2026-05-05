@@ -4,11 +4,11 @@
     "email": "john.chikwok@outlook.com"
   },
   "target": {
-    "A": {
+    "CNAME": {
       "records": [
         {
           "name": "@",
-          "value": "192.0.2.1"
+          "value": "github.io"
         }
       ]
     }
