@@ -4,12 +4,7 @@
     "email": "john.chikwok@outlook.com"
   },
   "target": {
-    "CNAME": [
-      {
-        "name": "@",
-        "value": "cloudflare.com"
-      }
-    ]
+    "A": "1.1.1.1"
   },
   "proxied": false
 }
