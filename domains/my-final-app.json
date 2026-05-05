@@ -1,10 +1,12 @@
 {
+  "description": "My personal website",
+  "repo": "https://github.com/john-CK08/register",
   "owner": {
     "username": "john-CK08",
     "email": "john.chikwok@outlook.com"
   },
-  "target": {
-    "CNAME": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app",
-    "proxied": true
-  }
+  "record": {
+    "CNAME": "the-rag-knowledge-base-agent.streamlit.app"
+  },
+  "proxied": false
 }
