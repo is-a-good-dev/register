@@ -5,7 +5,7 @@
   },
   "target": {
     "A": {
-      "name": "@",
+      "name": "martinus",
       "value": ["1.1.1.1"]
     }
   },
