@@ -1,22 +1,24 @@
 {
-  "owner": {
-    "username": "Hali-creater",
-    "email": "vaqarhali01@gmail.com"
-  },
-  "target": {
-    "A": {
-      "name": "ai-architect",
-      "value": [
-        "185.199.108.153",
-        "185.199.109.153",
-        "185.199.110.153",
-        "185.199.111.153"
-      ]
+    "owner": {
+        "username": "Hali-creater",
+        "email": "vaqarhali01@gmail.com"
     },
-    "TXT": {
-      "name": "ai-architect",
-      "value": "v=spf1 include:spf.improvmx.com ~all"
-    }
-  },
-  "proxied": false
+    "record": {
+        "A": [
+            "185.199.108.153",
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ],
+        "MX": ["mx1.improvmx.com.", "mx2.improvmx.com."],
+        "TXT": ["v=spf1 include:spf.improvmx.com ~all"]
+    },
+    "nested": [
+        {
+            "name": "agent",
+            "record": {
+                "CNAME": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app"
+            }
+        }
+    ]
 }
