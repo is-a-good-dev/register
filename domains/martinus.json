@@ -1,12 +1,8 @@
 {
   "owner": {
     "username": "john-CK08",
-    "email": "john.chikwok@outlook.com"
+    "email": "john.chikwok@outlook.com" 
   },
-  "target": {
-    "URL": {
-      "@": "https://example.com"
-    }
-  },
+  "target": {},
   "proxied": false
 }
