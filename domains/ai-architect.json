@@ -1,0 +1,22 @@
+{
+  "owner": {
+    "username": "Hali-creater",
+    "email": "vaqarhali01@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "ai-architect",
+      "value": [
+        "185.199.108.153",
+        "185.199.109.153",
+        "185.199.110.153",
+        "185.199.111.153"
+      ]
+    },
+    "TXT": {
+      "name": "ai-architect",
+      "value": "v=spf1 include:spf.improvmx.com ~all"
+    }
+  },
+  "proxied": false
+}
