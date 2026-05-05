@@ -1,8 +1,15 @@
 {
   "owner": {
     "username": "john-CK08",
-    "email": "john.chikwok@outlook.com" 
+    "email": "john.chikwok@outlook.com"
   },
-  "target": {},
+  "target": {
+    "CNAME": [
+      {
+        "name": "@",
+        "value": "cloudflare.com"
+      }
+    ]
+  },
   "proxied": false
 }
