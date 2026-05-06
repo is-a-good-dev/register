@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/FWEEaaaa1/fweeaaaa1.github.io",
+
+  "owner": {
+    "username": "FWEEaaaa1",
+    "email": "gorgonfweman@outlook.com"
+  },
+
+  "target": {
+    "TXT": {
+       "name": "_discord.job", 
+       "value": "dh=6020e898639a637d5f9146ea0802de60691b8fd1"
+     }
+  },
+
+  "proxied": false
+}
