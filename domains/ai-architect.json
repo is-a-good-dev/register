@@ -3,7 +3,7 @@
         "username": "Hali-creater",
         "email": "vaqarhali01@gmail.com"
     },
-    "record": {
+    "target": {
         "A": [
             "185.199.108.153",
             "185.199.109.153",
@@ -18,12 +18,14 @@
             "v=spf1 include:spf.improvmx.com ~all"
         ]
     },
+    "proxied": false,
     "nested": [
         {
             "name": "agent",
-            "record": {
+            "target": {
                 "CNAME": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app"
-            }
+            },
+            "proxied": false
         }
     ]
 }
