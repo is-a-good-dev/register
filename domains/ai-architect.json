@@ -5,27 +5,21 @@
     },
     "target": {
         "A": [
-            "185.199.108.153",
-            "185.199.109.153",
-            "185.199.110.153",
-            "185.199.111.153"
-        ],
-        "MX": [
-            "mx1.improvmx.com.",
-            "mx2.improvmx.com."
+            { "value": "185.199.108.153", "proxied": false },
+            { "value": "185.199.109.153", "proxied": false },
+            { "value": "185.199.110.153", "proxied": false },
+            { "value": "185.199.111.153", "proxied": false }
         ],
         "TXT": [
-            "v=spf1 include:spf.improvmx.com ~all"
+            { "value": "v=spf1 include:spf.improvmx.com ~all", "proxied": false }
         ]
     },
-    "proxied": false,
     "nested": [
         {
             "name": "agent",
             "target": {
-                "CNAME": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app"
-            },
-            "proxied": false
+                "CNAME": { "value": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app", "proxied": false }
+            }
         }
     ]
 }
