@@ -5,28 +5,47 @@
     },
     "name": "ai-architect",
     "target": {
-        "A": {
-            "value": [
-                "185.199.108.153",
-                "185.199.109.153",
-                "185.199.110.153",
-                "185.199.111.153"
-            ],
-            "proxied": false
-        },
-        "TXT": {
-            "value": "v=spf1 include:spf.improvmx.com ~all",
-            "proxied": false
-        }
+        "A": [
+            {
+                "name": "@",
+                "value": "185.199.108.153",
+                "proxied": false
+            },
+            {
+                "name": "@",
+                "value": "185.199.109.153",
+                "proxied": false
+            },
+            {
+                "name": "@",
+                "value": "185.199.110.153",
+                "proxied": false
+            },
+            {
+                "name": "@",
+                "value": "185.199.111.153",
+                "proxied": false
+            }
+        ],
+        "TXT": [
+            {
+                "name": "@",
+                "value": "v=spf1 include:spf.improvmx.com ~all",
+                "proxied": false
+            }
+        ]
     },
     "nested": [
         {
             "name": "agent",
             "target": {
-                "CNAME": {
-                    "value": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app",
-                    "proxied": false
-                }
+                "CNAME": [
+                    {
+                        "name": "agent",
+                        "value": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app",
+                        "proxied": false
+                    }
+                ]
             }
         }
     ]
