@@ -3,30 +3,27 @@
         "username": "Hali-creater",
         "email": "vaqarhali01@gmail.com"
     },
+    "name": "ai-architect",
+    "description": "AI Agent Portfolio and RAG Knowledge Base",
     "target": {
-        "A": {
-            "name": "@",
-            "value": "185.199.108.153",
-            "proxied": false
-        },
+        "A": [
+            "185.199.108.153",
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ],
         "TXT": [
-            {
-                "name": "@",
-                "value": "v=spf1 include:spf.improvmx.com ~all",
-                "proxied": false
-            }
+            "v=spf1 include:spf.improvmx.com ~all"
         ]
     },
+    "proxied": false,
     "nested": [
         {
             "name": "agent",
             "target": {
-                "CNAME": {
-                    "name": "agent",
-                    "value": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app",
-                    "proxied": false
-                }
-            }
+                "CNAME": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app"
+            },
+            "proxied": false
         }
     ]
 }
