@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/kerolos98/DM-medical-coder.git",
+
+  "owner": {
+    "username": "kerolos98",
+    "email": "kemad57@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "@",
+      "value": "lb7srk8i.up.railway.app"
+    }
+  },
+
+  "proxied": false
+}
