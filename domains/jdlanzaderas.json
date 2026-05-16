@@ -5,11 +5,11 @@
   },
 
   "target": {
-    "A": {
-       "name": "jdlanzaderas", 
-       "value": ["69.164.250.130"]
-     }
-  },
+        "redirect": {
+            "name": "jdlanzaderas",
+            "value": "https://jdlanzaderas.indevs.in"
+        }
+    },
 
   "proxied": false
 }
