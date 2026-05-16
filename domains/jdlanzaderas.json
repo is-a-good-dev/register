@@ -5,11 +5,11 @@
   },
 
   "target": {
-        "redirect": {
+        "CNAME": {
             "name": "jdlanzaderas",
-            "value": "https://jdlanzaderas.indevs.in"
+            "value": "jdlanzaderas.indevs.in"
         }
     },
 
-  "proxied": false
+  "proxied": true
 }
