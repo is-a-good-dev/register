@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "itskev-dev",
+        "email": "itskev.dev@gmail.com"
+    },
+    "record": {
+        "CNAME": "itskev-pi.vercel.app"
+    }
+}
