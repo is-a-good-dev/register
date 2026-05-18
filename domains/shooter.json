@@ -1,10 +1,17 @@
 {
-    "owner": {
-        "username": "4XW1N",
-        "email": "aswinkumarank@gmail.com"
-    },
-    "record": {
-        "CNAME": "4xw1n.github.io"
-    },
-    "proxied": false
+  "repo": "https://github.com/4XW1N/shooter",
+
+  "owner": {
+    "username": "4XW1N",
+    "email": "aswinkumarank@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "shooter",
+      "value": "4xw1n.github.io"
+    }
+  },
+
+  "proxied": false
 }
