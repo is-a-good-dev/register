@@ -1,0 +1,24 @@
+{
+    "owner": {
+        "username": "Hali-creater",
+        "email": "vaqarhali01@gmail.com"
+    },
+    "name": "ai-architect",
+    "target": {
+        "CNAME": {
+            "value": "hali-creater.github.io",
+            "proxied": false
+        }
+    },
+    "nested": [
+        {
+            "name": "agent",
+            "target": {
+                "CNAME": {
+                    "value": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app",
+                    "proxied": false
+                }
+            }
+        }
+    ]
+}
