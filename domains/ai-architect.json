@@ -5,19 +5,17 @@
     },
     "name": "ai-architect",
     "target": {
-        "CNAME": {
-            "value": "hali-creater.github.io",
-            "proxied": false
-        }
+        "CNAME": [
+            { "value": "hali-creater.github.io", "proxied": false }
+        ]
     },
     "nested": [
         {
             "name": "agent",
             "target": {
-                "CNAME": {
-                    "value": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app",
-                    "proxied": false
-                }
+                "CNAME": [
+                    { "value": "the-rag-knowledge-base-agent-x4uzihm5bexrkeru87nh4g.streamlit.app", "proxied": false }
+                ]
             }
         }
     ]
