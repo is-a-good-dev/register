@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/taanzzz/tanz",
+
+  "owner": {
+    "username": "taanzzz",
+    "email": "poroshislamtarek123@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "tanz",
+      "value": "cname.vercel-dns.com"
+    }
+  },
+
+  "proxied": false
+}
