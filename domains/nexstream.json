@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/ejjays/nexstream",
+
+  "owner": {
+    "username": "ejjays",
+    "email": "christsonalloso021@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "nexstream", 
+       "value": "cname.vercel-dns.com"
+     }
+  },
+  
+  "proxied": false
+}
