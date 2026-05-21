@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "MYNAMEINBEAN",
+    "email": "beanbosssssssss@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "overcloaked",
+      "value": [
+        "74.208.64.80"
+      ]
+    }
+  },
+  "proxied": true
+}
