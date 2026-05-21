@@ -5,11 +5,11 @@
   },
 
   "target": {
-    "A": {
-       "name": "jdlanzaderas", 
-       "value": ["69.164.250.130"]
-     }
-  },
+        "CNAME": {
+            "name": "jdlanzaderas",
+            "value": "jdlanzaderas.indevs.in"
+        }
+    },
 
-  "proxied": false
+  "proxied": true
 }
