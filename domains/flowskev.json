@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "flowskev",
+        "email": "flowskev@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "flowskev",
+            "value": "cname.vercel-dns.com"
+        }
+    },
+
+    "proxied": false
+}
