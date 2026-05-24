@@ -3,13 +3,11 @@
     "username": "JohnDiether",
     "email": "lanzaderasjohndiether83@gmail.com"
   },
-
   "target": {
-        "CNAME": {
-            "name": "jdlanzaderas",
-            "value": "jdlanzaderas.indevs.in"
-        }
-    },
-
-  "proxied": true
+    "CNAME": {
+      "name": "jdlanzaderas",
+      "value": "intercept-pointer.jdlanzaderas.workers.dev"
+    }
+  },
+  "proxied": false
 }
