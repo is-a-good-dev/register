@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "s8rr",
+        "email": "hi@sabbir.is-a.dev"
+    },
+    "target": {
+        "CNAME": {
+            "name": "sabbir",
+            "value": "s8rr.github.io"
+        }
+    },
+    "proxied": false
+}
