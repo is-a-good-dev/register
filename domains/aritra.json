@@ -1,17 +1,18 @@
 {
   "repo": "https://github.com/U9D3RTAK3R/DaMasterPortfolioRetro",
-
   "owner": {
     "username": "U9D3RTAK3R",
     "email": "aritrasaha0508g@gmail.com"
   },
-
   "target": {
     "A": {
        "name": "aritra", 
-       "value": "216.198.79.1"
-     }
+       "value": ["216.198.79.1"]
+     },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=aritra.is-a-good.dev,5daaed73dec73fa3cab3"
+    }
   },
-
   "proxied": false
 }
