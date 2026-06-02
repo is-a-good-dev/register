@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "lichuanjing650-commits",
+        "email": "lichuanjing650@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "etstudio",
+            "value": "lichuanjing650-commits.github.io"
+        }
+    },
+    "proxied": false
+}
