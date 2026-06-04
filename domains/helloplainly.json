@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "simbiont-ai",
+        "email": "TODO-SHEF-EMAIL"
+    },
+    "target": {
+        "CNAME": {
+            "name": "helloplainly",
+            "value": "simbiont-ai.github.io"
+        }
+    },
+    "proxied": false
+}
