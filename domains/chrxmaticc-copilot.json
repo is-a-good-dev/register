@@ -3,8 +3,7 @@
         "username": "Chrxmee-Bits",
         "email": "chrxmaticc@proton.me"
     },
-    "record": {
-        "CNAME": "chrxmaticc-copliot.vercel.app"
-    },
+    "type": "CNAME",
+    "target": "chrxmaticc-copilot.vercel.app",
     "proxied": true
 }
