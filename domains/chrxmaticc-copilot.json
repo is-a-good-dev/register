@@ -1,11 +1,10 @@
 {
-    "$schema": "../schema.json",
     "owner": {
         "username": "Chrxmee-Bits",
         "email": "chrxmaticc@proton.me"
     },
     "proxied": true,
     "records": {
-        "CNAME": "chrxmaticc-copliot.vercel.app"
+        "CNAME": "chrxmaticc-copilot.vercel.app"
     }
 }
