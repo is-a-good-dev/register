@@ -5,7 +5,11 @@
     },
     "proxied": true,
     "records": {
-        "CNAME": "chrxmaticc-copilot.vercel.app"
+        "CNAME": "chrxmaticc-copliot.vercel.app"
     },
-    "target": "chrxmaticc-copilot.vercel.app"
+    "subdomains": {
+        "": {
+            "CNAME": "chrxmaticc-copliot.vercel.app"
+        }
+    }
 }
