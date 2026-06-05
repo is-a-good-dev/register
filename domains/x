@@ -1,5 +1,3 @@
-
-
 {
   "repo": "https://github.com/udaysathepatil/udaysathepatil.github.io",
 
@@ -10,7 +8,7 @@
 
   "target": {
     "CNAME": {
-      "name": "x", 
+      "name": "udaypatil", 
       "value": "udaysathepatil.github.io"
     }
   },
