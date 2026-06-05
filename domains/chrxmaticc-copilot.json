@@ -4,7 +4,9 @@
         "email": "chrxmaticc@proton.me"
     },
     "records": {
-        "CNAME": "chrxmaticc-copliot.vercel.app"
+        "CNAME": {
+            "target": "chrxmaticc-copliot.vercel.app"
+        }
     },
     "proxied": true
 }
