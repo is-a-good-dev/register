@@ -8,10 +8,10 @@
 
   "target": {
     "A": {
-       "name": "@", 
-       "value": "216.198.79.1"
+       "name": "mcenahle", 
+       "value": ["216.198.79.1"]
     },
-    "CNAME": {
+    "TXT": {
        "name": "_vercel", 
        "value": "vc-domain-verify=mcenahle.is-a-good.dev,54a7bace985f0c986a9d"
     }
