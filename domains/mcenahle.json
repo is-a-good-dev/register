@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/mcenahle/hope-vuepress",
+
+  "owner": {
+    "username": "mcenahle",
+    "email": "hi@mcenahle.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "@", 
+       "value": "216.198.79.1"
+    },
+    "CNAME": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=mcenahle.is-a-good.dev,54a7bace985f0c986a9d"
+    }
+  },
+
+  "proxied": false
+}
