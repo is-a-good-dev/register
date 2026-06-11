@@ -1,0 +1,17 @@
+{
+  "repo": "iamsky837/iamsky837",
+
+  "owner": {
+    "username": "iamsky837",
+    "email": "biswanathdas8307@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "skye",
+      "value": "iamsky837.github.io"
+    }
+  },
+
+  "proxied": false
+}
