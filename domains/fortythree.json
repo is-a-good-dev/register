@@ -1,0 +1,15 @@
+
+{
+    "owner": {
+        "username": "th3silv3rslash3r-del",
+        "email": "thom7512014@outlook.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "fortythree",
+            "value": "th3silv3rslash3r-del.github.io"
+        }
+    },
+    "proxied": false
+}
+

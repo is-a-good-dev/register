@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/ethan-y-tang/ethan-y-tang.github.io",
+
+  "owner": {
+    "username": "ethan-y-tang",
+    "email": "ethantytang11@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "blossom", 
+      "value": "ethan-y-tang.github.io"
+    }
+  },
+
+  "proxied": false
+}
