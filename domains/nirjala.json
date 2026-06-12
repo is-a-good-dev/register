@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "nirjalalala",
+    "email": "pandeynirjala6@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "nirjala",
+      "value": "nirjalalala.github.io"
+    }
+  },
+
+  "proxied": false
+}
