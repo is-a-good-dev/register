@@ -13,5 +13,5 @@
      }
   },
 
-  "proxied": CNAME_Cloudflared
+  "proxied": true
 }
