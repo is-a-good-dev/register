@@ -1,0 +1,20 @@
+{
+    "repo": "https://github.com/2225786886",
+    "owner": {
+        "username": "2225786886",
+        "email": "2225786886@users.noreply.github.com"
+    },
+    "target": {
+        "TXT": [
+            {
+                "name": "ssooooo-06121846-good",
+                "value": "openai-domain-verification=dv-pAWnGT83Pdk0pHcrrRVmcySN"
+            }
+        ],
+        "CNAME": {
+            "name": "ssooooo-06121846-good",
+            "value": "lobby-characteristics-lewis-mature.trycloudflare.com"
+        }
+    },
+    "proxied": false
+}
