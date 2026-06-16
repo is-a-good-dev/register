@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/aleksejmutic/alexei-blog",
+
+  "owner": {
+    "username": "aleksejmutic",
+    "email": "aleksej.mutic@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "alexei",
+      "value": "incomparable-lily-229ca6.netlify.app"
+    }
+  },
+
+  "proxied": false
+}

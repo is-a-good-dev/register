@@ -1,4 +1,6 @@
 {
+    "repo": "https://github.com/PROGRAMIST-PP-UA/roman.is-a-good.dev",
+    
     "owner": {
         "username": "RomanDev",
         "email": "info@matviy.pp.ua"
@@ -7,9 +9,9 @@
     "target": {
         "CNAME": {
             "name": "roman",
-            "value": "matviy.pp.ua"
+            "value": "programist-pp-ua.github.io"
         }
     },
 
-    "proxied": true
+    "proxied": false
 }

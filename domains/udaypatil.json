@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/udaysathepatil/udaysathepatil.github.io",
+
+  "owner": {
+    "username": "udaysathepatil",
+    "email": "udaysathepatil@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "udaypatil", 
+      "value": "udaysathepatil.github.io"
+    }
+  },
+
+  "proxied": false
+}

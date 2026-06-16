@@ -7,10 +7,10 @@
   },
 
   "target": {
-    "record-type": {
-       "name": "nirjalalala", 
-       "value": "nirjalalala.github.io"
-     }
+    "CNAME": {
+      "name": "nirjala",
+      "value": "nirjalalala.github.io"
+    }
   },
 
   "proxied": false

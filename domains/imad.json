@@ -1,0 +1,19 @@
+{
+  "owner": {
+    "username": "imadtg",
+    "email": "i.haidi@outlook.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "imad",
+      "value": "37e5296925d11fc1.vercel-dns-017.com"
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=imad.is-a-good.dev,c73d1a02a47d02f82c94"
+    }
+  },
+
+  "proxied": false
+}

@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Lukezinin/registergooddev",
+
+  "owner": {
+    "username": "Lukezinin",
+    "email": "luccasnowgg@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "luke", 
+       "value": "lisadev.onrender.com"
+     }
+  },
+
+  "proxied": false
+}

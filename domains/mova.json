@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/Stonepath-dotcom/gutsytik",
+  "owner": {
+    "username": "Stonepath-dotcom",
+    "email": "ardiidonovan@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "mova",
+      "value": "cname.vercel-dns.com"
+    }
+  },
+  "proxied": false
+}
