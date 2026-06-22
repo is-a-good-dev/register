@@ -1,0 +1,11 @@
+{
+    "description": "A web app to upload and chat with PDF files using AI",
+    "repo": "https://github.com/aryaallu119-dotcom/pdfchat-3-aa",
+    "owner": {
+        "username": "aryaallu119-dotcom",
+        "email": "aryaallu119@gmail.com"
+    },
+    "record": {
+        "A": ["216.198.79.1"]
+    }
+}
