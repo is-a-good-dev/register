@@ -8,8 +8,8 @@
 
   "target": {
     "A": {
-       "name": "", 
-       "value": "216.198.79.1"
+       "name": "yethikrishna", 
+       "value": ["216.198.79.1"]
      },
     "TXT": {
        "name": "_vercel", 
