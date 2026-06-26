@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/yethikrishna/portfolio-yethikrishna.r",
+
+  "owner": {
+    "username": "yethikrishna",
+    "email": "yethikrishnarcvn7a@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "@", 
+       "value": "216.198.79.1"
+     },
+    "TXT": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=yethikrishna.is-a-good.dev,cfaa88cc79ac4ed85b38"
+     }
+  },
+
+  "proxied": false
+}
