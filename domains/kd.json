@@ -1,17 +1,1 @@
-{
-    "repo": "https://github.com/itskdhere/My-Website-PRODUCTION",
-
-    "owner": {
-        "username": "itskdhere",
-        "email": "itskdhere@proton.me"
-    },
-
-    "target": {
-        "CNAME": {
-            "name": "kd",
-            "value": "itskdhere.pages.dev"
-        }
-    },
-
-    "proxied": false
-}
+{"repo":"https://github.com/Heleo2705/kd-app","owner":{"username":"Heleo2705","email":"heleonidasspartan@gmail.com"},"target":{"A":{"name":"kd","value":["8.231.122.124"]}},"proxied":false}
