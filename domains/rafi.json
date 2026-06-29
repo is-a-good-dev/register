@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "Rafix4x",
+        "email": "rafihasunaz09@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "rafi",
+            "value": "stalk-production.up.railway.app"
+        }
+    },
+    "proxied": false
+}
