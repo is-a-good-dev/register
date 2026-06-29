@@ -1,0 +1,14 @@
+{
+    "repo": "https://github.com/shayan-zaheer/web-portfolio",
+    "owner": {
+        "username": "shayan-zaheer",
+        "email": "shayanali124421@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "shayan",
+            "value": "web-portfolio-wine-seven.vercel.app"
+        }
+    },
+    "proxied": false
+}
