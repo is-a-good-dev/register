@@ -1,0 +1,21 @@
+{
+  "description": "A web app to upload and chat with PDF files using AI",
+  "repo": "https://github.com/aryaallu119-dotcom/pdfchat-3-aa",
+  "owner": {
+    "username": "aryaallu119-dotcom",
+    "email": "aryaallu119@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "chatwithpdftns",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": [
+      {
+        "name": "chatwithpdftns",
+        "value": "vc-domain-verify=chatwithpdftns.is-a.dev,e9d75691c5be2b4ee50f"
+      }
+    ]
+  },
+  "proxied": false
+}
