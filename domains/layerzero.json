@@ -1,0 +1,14 @@
+{
+    "repo": "https://github.com/rishhbh/layerzero",
+    "owner": {
+        "username": "rishhbh",
+        "email": "rishabh223300@gmail.com"
+    },
+    "target": {
+        "A": {
+            "name": "layerzero",
+            "value": ["13.218.247.121"]
+        }
+    },
+    "proxied": true
+}
