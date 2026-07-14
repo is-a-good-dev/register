@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/ayoub5550/ai-agents-ar",
+
+    "owner": {
+        "username": "ayoub5550",
+        "email": "ayoubteke11@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "agentvault",
+            "value": "ayoub5550.github.io"
+        }
+    },
+
+    "proxied": true
+}
