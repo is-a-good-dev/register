@@ -1,0 +1,17 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "quincicontact-dot",
+    "email": "shumincontact@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "shumin-invitation",
+      "value": "custom-domains.chatgpt.site."
+    },
+    "TXT": {
+      "name": "_openai-site-verification.shumin-invitation",
+      "value": "openai-site-verification=NaVB63ZEeihxNWfVwUybB2dB3CJJtFJ3MYy6XhOnMlw"
+    }
+  }
+}
