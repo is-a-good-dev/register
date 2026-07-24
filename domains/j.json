@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/jokoarynt/is-a-good-dev",
+
+    "owner": {
+        "username": "jokoarynt",
+        "email": "expel-tank-spent@duck.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "j",
+            "value": "edge.redirect.pizza"
+        }
+    },
+
+    "proxied": false
+}
