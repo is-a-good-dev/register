@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/jokoarynt/is-a-good-dev",
+
+    "owner": {
+        "username": "jokoarynt",
+        "email": "luxury-cash-roast@duck.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "jokoariyanto",
+            "value": "edge.redirect.pizza"
+        }
+    },
+
+    "proxied": false
+}
