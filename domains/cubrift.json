@@ -13,5 +13,5 @@
         }
     },
 
-    "proxied": false
+    "proxied": true
 }
