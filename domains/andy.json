@@ -1,17 +1,14 @@
 {
-  "repo": "",
-
-  "owner": {
-    "username": "andy-ish",
-    "email": "zhizhongwang403@gmail.com"
-  },
-
-  "target": {
-    "CNAME": {
-       "name": "andy", 
-       "value": "webtest.hiandy.me"
-     },
-  },
-
-  "proxied": true
+   "repo":"",
+   "owner":{
+      "username":"andy-ish",
+      "email":"zhizhongwang403@gmail.com"
+   },
+   "target":{
+      "CNAME":{
+         "name":"andy",
+         "value":"webtest.hiandy.me"
+      }
+   },
+   "proxied":true
 }
