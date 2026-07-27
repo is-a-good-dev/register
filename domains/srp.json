@@ -1,5 +1,5 @@
 {
-  "repo": "SRP",
+  "repo": "https://github.com/Smit20102023/register",
 
   "owner": {
     "username": "Smit20102023",
@@ -13,7 +13,7 @@
     },
     "TXT": {
       "name": "_vercel",
-      "value": "vc-domain-verify=is-a-good.dev,0647febd7ad7a80ddcec"
+      "value": "vc-domain-verify=srp.is-a-good.dev,0647febd7ad7a80ddcec"
     }
   },
 
