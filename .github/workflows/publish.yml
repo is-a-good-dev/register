@@ -29,4 +29,4 @@ jobs:
               env:
                   CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
               with:
-                  args: push --diff2
+                  args: --diff2 push
