@@ -1,0 +1,21 @@
+{
+  "repo": "SRP",
+
+  "owner": {
+    "username": "Smit20102023",
+    "email": "smitpatel.yt.gamer.95@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "srp",
+      "value": "smitpatel0677.github.io"
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=is-a-good.dev,0647febd7ad7a80ddcec"
+    }
+  },
+
+  "proxied": false
+}
