@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/atharvbidri500-beep/final",
+
+    "owner": {
+        "username": "atharvbidri500-beep",
+        "email": "atharvbidri500@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "hirepilot",
+            "value": "atharvbidri500-beep.github.io"
+        }
+    },
+
+    "proxied": false
+}
