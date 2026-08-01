@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/BestSpark687090/BestSpark687090",
+
+  "owner": {
+    "username": "BestSpark687090",
+    "email": "bestspark@bestspark.org"
+  },
+
+  "target": {
+    "A": {
+      "name": "bestspark", 
+      "value": ["15.204.67.205"]
+    }
+  },
+
+  "proxied": true
+}
