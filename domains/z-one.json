@@ -1,0 +1,15 @@
+{
+  "repo": "https://github.com/z-onestudios/z-one",
+  "owner": {
+    "username": "z-onestudios",
+    "email": "officialz.one10f@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "z-one",
+      "value": "zonestudios.vercel.app"
+    }
+  },
+  "proxied": false
+}
+
