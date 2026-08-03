@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/a7med-Talaat/portfolio",
+
+  "owner": {
+    "username": "a7med-Talaat",
+    "email": "ahmedtalaatsalah05@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "ahmedtal3at",
+      "value": "ahmedtal3at.vercel.app"
+    }
+  },
+
+  "proxied": false
+}
