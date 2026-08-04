@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/zenformality/zenx",
+
+  "owner": {
+    "username": "zenformality",
+    "email": "prakitchetia@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "zenx", 
+      "value": "216.198.79.1"
+    }
+  },
+
+  "proxied": false
+}
