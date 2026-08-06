@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "timbboli111"
+  },
+  "target": {
+    "CNAME": {
+      "name": "kelaskreatiflab",
+      "value": "timbboli111.github.io"
+    }
+  }
+}
