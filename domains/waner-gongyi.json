@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/wanerlin/freebuff2api",
+  "owner": {
+    "username": "wanerlin",
+    "email": "5783893@qq.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "waner-gongyi",
+      "value": "0b009808-fa89-40ae-a410-2394f9b6b7d0.cfargotunnel.com"
+    }
+  },
+  "proxied": true
+}
