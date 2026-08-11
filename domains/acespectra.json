@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/ace-spectra",
+
+  "owner": {
+    "username": "ace-spectra",
+    "email": "suitedross@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "acespectra",
+      "value": "acespectra.pages.dev"
+    }
+  },
+
+  "proxied": false
+}
