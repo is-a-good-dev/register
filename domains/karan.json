@@ -1,0 +1,20 @@
+{
+  "repo": "https://github.com/CreatorKaran/karan_portfolio",
+
+  "owner": {
+    "username": "CreatorKaran",
+    "email": "karan.sojitra2@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "karan",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=karan.is-a-good.dev,f83328998cfa6a9c8f3f"
+    }
+  },
+  "proxied": false
+}
