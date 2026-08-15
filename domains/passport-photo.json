@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/mm0/free-passport-photo-maker",
+
+  "owner": {
+    "username": "mm0",
+    "email": "matt.margolin@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "passport-photo",
+      "value": "mm0.github.io"
+    }
+  },
+
+  "proxied": false
+}
