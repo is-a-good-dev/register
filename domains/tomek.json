@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "majevva",
+    "email": "tomajewski@icloud.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "tomek",
+      "value": "5070ba98-100a-4664-8fcc-b39d53b919c4.cfargotunnel.com"
+    }
+  },
+
+  "proxied": false
+}
