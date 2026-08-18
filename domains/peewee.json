@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "gabelossless",
+    "email": "gabelossless@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "repo": "https://github.com/gabelossless/peewee-coin"
+}
