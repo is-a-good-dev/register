@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/airdropgasy-spec",
+  "owner": {
+    "username": "airdropgasy-spec",
+    "email": "airdropgasy@exemple.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "monsterai",
+      "value": "aimonster.youcan.store"
+    }
+  },
+  "proxied": false
+}
