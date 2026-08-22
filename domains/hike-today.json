@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/XiaTest2002/hike-today",
+  "owner": {
+    "username": "XiaTest2002",
+    "email": "1287805527@qq.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "hike-today",
+      "value": "XiaTest2002.github.io"
+    }
+  },
+  "proxied": false
+}
