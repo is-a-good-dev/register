@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "madebyjred-sudo",
+    "email": "madebyjred@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "mdbyjred",
+      "value": ["2.25.128.2"]
+    }
+  },
+
+  "proxied": false
+}
