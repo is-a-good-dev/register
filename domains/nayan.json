@@ -8,6 +8,10 @@
         "CNAME": {
             "name": "nayan",
             "value": "cname.vercel-dns.com"
+        },
+        "TXT": {
+            "name": "_vercel.nayan",
+            "value": "vc-domain-verify=nayan.is-a-good.dev,c19e75ed7fe1ba08e081"
         }
     },
 
