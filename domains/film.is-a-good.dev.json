@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "Atliner"
+  },
+  "record": {
+    "NS": [
+      "isla.ns.cloudflare.com",
+      "rohin.ns.cloudflare.com"
+    ]
+  }
+}
