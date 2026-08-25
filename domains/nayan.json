@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "NayanRoy14",
+        "email": "roynayanroy14@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "nayan",
+            "value": "cname.vercel-dns.com"
+        }
+    },
+
+    "proxied": false
+}
