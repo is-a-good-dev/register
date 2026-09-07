@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/SunFlare94/SunFlare94Website",
+
+    "owner": {
+        "username": "SunFlare94",
+        "email": "mukulpramanik@outlook.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "sunflare94",
+            "value": "sunflare94website.onrender.com"
+        }
+    },
+
+    "proxied": false
+}
