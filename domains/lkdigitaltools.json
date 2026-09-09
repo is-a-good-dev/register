@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/LK-Digital-Tools/LK-Digital-Tools.github.io",
+  "owner": {
+    "username": "LK-Digital-Tools",
+    "email": "support.lkdigitaltools@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "lkdigitaltools",
+      "value": "lk-digital-tools.github.io"
+    }
+  },
+  "proxied": false
+}
