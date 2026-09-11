@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "cmaugino",
+    "email": "maugino@gmail.com"
+  },
+
+  "target": {
+    "<RECORD-TYPE ( REPLACE THIS  WITH A, AAAA, CNAME ) >": {
+       "name": "talent", 
+       "value": "talent.is-a-good.dev"
+     },
+  },
+
+  "proxied": false
+}
