@@ -11,6 +11,10 @@
        "name": "talent", 
        "value": "talent.is-a-good.dev"
      },
+    "<OPTIONAL TXT ( REPLACE THIS  WITH TXT ) >": {
+       "name": "TEXT value, if using vercel only use _vercel, not _vercel.domainname", 
+       "value": ""
+     }
   },
 
   "proxied": false
