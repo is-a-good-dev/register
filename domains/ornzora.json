@@ -1,0 +1,18 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "Ornzora",
+    "email": "ornzoraneko@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "ornzora",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=ornzora.is-a-good.dev,604780bec6d388b60d36"
+    }
+  },
+  "proxied": false
+}
