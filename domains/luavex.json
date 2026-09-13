@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "iQubex",
+    "email": "radiongodss@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "luavex",
+      "value": "sukared.onrender.com"
+    }
+  },
+
+  "proxied": false
+}
