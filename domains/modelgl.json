@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/jaehong6695/model-gl-oauth-site",
+  "owner": {
+    "username": "jaehong6695",
+    "email": "jeon6695@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "modelgl",
+      "value": "jaehong6695.github.io"
+    }
+  },
+  "proxied": false
+}
