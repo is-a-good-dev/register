@@ -1,0 +1,14 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "halderbadal598",
+    "email": "halderbadal598@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "momnet",
+      "value": "76.76.21.21"
+    }
+  },
+  "proxied": false
+}
