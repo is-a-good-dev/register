@@ -1,0 +1,13 @@
+{
+  "description": "My portfolio site",
+  "domain": "is-a-good.dev",
+  "subdomain": "momnet",
+  "owner": {
+    "repo": "https://github.com/halderbadal598-afk/momaranya",
+    "email": "halderbadal598@gmail.com"
+  },
+  "record": {
+    "A": ["76.76.21.21"]
+  },
+  "proxied": false
+}
