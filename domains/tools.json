@@ -3,12 +3,13 @@
   "repo": "https://github.com/tuan1426/register-is-a-good.dev",
   "owner": {
     "username": "tuan1426",
-    "email": "email_cua_ban@gmail.com"
+    "email": "hoanhapxxi@proton.me"
   },
-  "record": {
+  "records": {
     "NS": [
       "dorthy.ns.cloudflare.com",
       "rommy.ns.cloudflare.com"
     ]
-  }
+  },
+  "proxied": true
 }
