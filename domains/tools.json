@@ -1,0 +1,19 @@
+{
+  "description": "Server and network tools",
+  "repo": "https://github.com/tuan1426/register-is-a-good.dev",
+  "owner": {
+    "username": "tuan1426",
+    "email": "hoanhapxxi@proton.me"
+  },
+  "records": {
+    "NS": [
+      {
+        "target": "dorthy.ns.cloudflare.com"
+      },
+      {
+        "target": "rommy.ns.cloudflare.com"
+      }
+    ]
+  },
+  "proxied": true
+}
