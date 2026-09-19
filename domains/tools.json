@@ -1,0 +1,12 @@
+{
+"description": "My Server and Network Tools",
+"repo": "https://github.com/YOUR_GITHUB_USERNAME/register",
+"owner": "tuan1426",
+"email": "hoanhapxxi@proton.me",
+"record": {
+"NS": [
+"dorthy.ns.cloudflare.com",
+"rommy.ns.cloudflare.com"
+]
+}
+}
