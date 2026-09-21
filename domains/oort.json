@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/faizi44/register-is-a-good.dev",
+
+  "owner": {
+    "username": "faizi44",
+    "email": "tfayiz@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "oort",
+      "value": ["193.123.83.192"]
+    }
+  },
+
+  "proxied": false
+}
