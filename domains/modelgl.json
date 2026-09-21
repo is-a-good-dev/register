@@ -8,13 +8,7 @@
     "CNAME": {
       "name": "modelgl",
       "value": "jaehong6695.github.io"
-    },
-    "TXT": [
-      {
-        "name": "modelgl",
-        "value": "google-site-verification=kd3909LuaL6hTHj1-59aScQweNATF9j7UKZa-Xr3wEg"
-      }
-    ]
+    }
   },
   "proxied": false
 }
