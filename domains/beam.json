@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "theprojectmaker",
+    "email": "solomonsasson031@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "beam",
+      "value": "beam-gateway.pages.dev"
+    }
+  },
+
+  "proxied": false
+}
