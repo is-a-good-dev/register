@@ -1,0 +1,20 @@
+{
+  "repo": "https://github.com/uryukim/uryukim.github.io",
+
+  "owner": {
+    "username": "uryukim",
+    "email": "yuki.morales@proton.me"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "yuki", 
+       "value": "uryukim.github.io"
+     },
+    "<OPTIONAL TXT ( REPLACE THIS  WITH TXT ) >": {
+       "name": "TEXT value, if using vercel only use _vercel, not _vercel.domainname", 
+       "value": ""
+     }
+  },
+  "proxied": false
+}
