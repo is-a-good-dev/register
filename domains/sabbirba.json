@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/sabbirba/sabbirba",
+
+  "owner": {
+    "username": "sabbirba",
+    "email": "sabbirba10@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "sabbirba",
+      "value": "sabbirba.pages.dev"
+    }
+  },
+
+  "proxied": false
+}
