@@ -1,5 +1,10 @@
 {
   "proxied": false,
+  "owner": {
+    "username": "mthinhngn",
+    "email": "mthinhngn@gmail.com"
+  },
+  "repo": "https://github.com/mthinhngn/ultra-maxing-portfolio",
   "target": {
     "CNAME": {
       "name": "mthinhngn",
@@ -7,12 +12,7 @@
     },
     "TXT": {
       "name": "_vercel",
-      "value": "vc-domain-verify=mthinhngn.is-a-good.dev,c46173bb7c604d97c365"
+      "value": "vc-domain-verify=mthinhngn.is-a-good.dev,0db287fd6473c2b9458a"
     }
-  },
-  "owner": {
-    "username": "mthinhngn",
-    "email": "mthinhngn@gmail.com"
-  },
-  "repo": "https://github.com/mthinhngn/ultra-maxing-portfolio"
+  }
 }
