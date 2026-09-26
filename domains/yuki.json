@@ -1,0 +1,16 @@
+{
+  "repo": "https://github.com/uryukim/uryukim.github.io",
+
+  "owner": {
+    "username": "uryukim",
+    "email": "yuki.morales@proton.me"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "yuki", 
+       "value": "uryukim.github.io"
+     }
+  },
+  "proxied": false
+}
