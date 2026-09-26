@@ -1,15 +1,15 @@
 {
-    "repo": "https://github.com/cytronicoder/cytronicoder",
+    "repo": "https://github.com/zeyuyaoy/zeyuyaoy",
 
     "owner": {
-        "username": "cytronicoder",
+        "username": "zeyuyaoy",
         "email": "novodoodle@gmail.com"
     },
 
     "target": {
         "CNAME": {
             "name": "peter",
-            "value": "cytronicoder.com"
+            "value": "zeyuyaoy.com"
         },
 
         "TXT": {
