@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/Chinmay-23-cpu/chinmay-portfolio",
+
+  "owner": {
+    "username": "Chinmay-23-cpu",
+    "email": "bhatchinmay172@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "chinmay",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=chinmay.is-a-good.dev,883d3093a24e638ef1eb"
+    }
+  },
+
+  "proxied": false
+}
