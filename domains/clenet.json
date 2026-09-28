@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/ThePheniX974/thephenix974.github.io",
+  "owner": {
+    "username": "ThePheniX974",
+    "email": "ethan.clenet.pro@outlook.fr"
+  },
+  "target": {
+    "CNAME": {
+      "name": "clenet",
+      "value": "thephenix974.github.io"
+    }
+  },
+  "proxied": false
+}
