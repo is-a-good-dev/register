@@ -1,0 +1,20 @@
+{
+
+  "owner": {
+    "username": "Darshan-Dhameliya",
+    "email": "iamdhameliya@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "darshan",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=darshan.is-a-good.dev,140645b272749fb12a10"
+    }
+  },
+
+  "proxied": false
+}
