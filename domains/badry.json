@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/badry-dev",
+
+    "owner": {
+        "username": "badry-dev",
+        "email": "hi@badry.me"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "badry",
+            "value": "badry.dev"
+        }
+    },
+
+    "proxied": false
+}
