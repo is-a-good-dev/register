@@ -6,7 +6,9 @@
   "target": {
     "A": {
       "name": "hitansh",
-      "value": "216.198.79.1"
+      "value": [
+        "216.198.79.1"
+      ]
     },
     "TXT": {
       "name": "_vercel",
