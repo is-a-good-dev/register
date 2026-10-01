@@ -1,5 +1,5 @@
 {
-    "repo": "https://github.com/badry-dev",
+    "repo": "https://github.com/badry-dev/badry.dev",
 
     "owner": {
         "username": "badry-dev",
@@ -10,6 +10,10 @@
         "CNAME": {
             "name": "badry",
             "value": "badry.dev"
+        },
+        "TXT": {
+            "name": "_acme-challenge",
+            "value": "K1lGd9kARN-lOPhDRu52PEA8rr3FPVxYz9gLNicRh1E"
         }
     },
 
