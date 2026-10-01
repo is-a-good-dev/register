@@ -12,7 +12,7 @@
             "value": "badry.dev"
         },
         "TXT": {
-            "name": "_acme-challenge.badry",
+            "name": "_acme-challenge",
             "value": "K1lGd9kARN-lOPhDRu52PEA8rr3FPVxYz9gLNicRh1E"
         }
     },
