@@ -1,8 +1,17 @@
 {
+  "repo": "https://github.com/bharatpatel7/personalPortfolio",
+
   "owner": {
-    "username": "bharatpatel7"
+    "username": "bharatpatel7",
+    "email": "tobharat@gmx.com"
   },
-  "records": {
-    "CNAME": "calm-ocean-0bdaacc0f.4.azurestaticapps.net"
-  }
+
+  "target": {
+    "CNAME": {
+      "name": "bharat",
+      "value": "calm-ocean-0bdaacc0f.4.azurestaticapps.net"
+    }
+  },
+
+  "proxied": false
 }
