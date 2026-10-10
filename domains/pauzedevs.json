@@ -1,0 +1,15 @@
+
+{
+  "repo": "https://github.com/PauzeDevs/Pauze-backup-website",
+  "owner": {
+    "username": "PauzeDevs",
+    "email": "githubpauze@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "pauzedevs",
+      "value": "pauzedevs.github.io"
+    }
+  },
+  "proxied": false
+}
