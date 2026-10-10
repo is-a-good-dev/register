@@ -3,6 +3,11 @@
     "username": "AhmedMishqas",
     "email": "abo.asil07@gmail.com"
   },
-  "target": "axelia-store.axelia.workers.dev",
+  "target": {
+    "CNAME": {
+      "name": "axeliaperfumes",
+      "value": "axelia-store.axelia.workers.dev"
+    }
+  },
   "proxied": false
 }
