@@ -4,7 +4,10 @@
     "email": "pickleparadoxhere@gmail.com"
   },
   "target": {
-    "CNAME": "pickleparadoxhere-pixel.github.io"
+    "CNAME": {
+      "name": "po2suite",
+      "value": "pickleparadoxhere-pixel.github.io"
+    }
   },
   "proxied": false
 }
