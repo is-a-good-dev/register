@@ -1,0 +1,11 @@
+{
+  "description": "PO2Suite project",
+  "repo": "https://github.com/pickleparadoxhere-pixel/PO2Suite",
+  "owner": {
+    "username": "pickleparadoxhere-pixel",
+    "email": "pickleparadoxhere@gmail.com"
+  },
+  "record": {
+    "CNAME": "pickleparadoxhere-pixel.github.io"
+  }
+}
