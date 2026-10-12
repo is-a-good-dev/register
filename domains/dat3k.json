@@ -1,0 +1,14 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "Dat3K",
+    "email": "ntd221103@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "dat3k",
+      "value": "134.185.80.161"
+    }
+  },
+  "proxied": false
+}
