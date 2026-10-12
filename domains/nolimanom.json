@@ -11,7 +11,11 @@
         "TXT": {
             "name": "_vercel",
             "value": "vc-domain-verify=nolimanom.is-a-good.dev,cf38feec819e016279fc"
-        }
+        },    
+        "TXT": {
+            "name": "_google",
+            "value": "google-site-verification=WLDN9Cubv-0cvzehWkvFbwlh-3aKnpmzNtmBMIICCJY"
+         }
     },
     "proxied": false
 }
