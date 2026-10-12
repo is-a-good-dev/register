@@ -7,7 +7,9 @@
   "target": {
     "A": {
       "name": "dat3k",
-      "value": "134.185.80.161"
+      "value": [
+        "134.185.80.161"
+      ]
     }
   },
   "proxied": true
