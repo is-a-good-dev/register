@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "beluga-developer0",
+    "email": "beluga-developer0@users.noreply.github.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "belugagram",
+      "value": "cname.vercel-dns.com"
+    }
+  },
+  "proxied": false
+}
