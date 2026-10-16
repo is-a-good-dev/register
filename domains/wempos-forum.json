@@ -1,0 +1,17 @@
+{
+  "repo": "Wempo-s-Silly-Projects/wempos-forum",
+
+  "owner": {
+    "username": "YourLocalGoober",
+    "email": "itswempo@icloud.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "wempos-forum", 
+       "value": "wempos-forum.itswempo.workers.dev"
+     }
+  },
+
+  "proxied": false
+}
