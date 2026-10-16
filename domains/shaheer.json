@@ -1,0 +1,17 @@
+{
+    "owner":  {
+                  "username":  "Shuruej",
+                  "email":  "shaheeriftikhardesigner@gmail.com"
+              },
+    "target":  {
+                   "CNAME":  {
+                                 "name":  "shaheer",
+                                 "value":  "499d0bf92057d5af.vercel-dns-017.com"
+                             },
+                   "TXT":  {
+                               "name":  "_vercel",
+                               "value":  "vc-domain-verify=shaheer.is-a-good.dev,ed1fb77577fc46e5b5af"
+                           }
+               },
+    "proxied":  false
+}

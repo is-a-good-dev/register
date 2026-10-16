@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/qffygloria/synveil",
+
+  "owner": {
+    "username": "qffygloria",
+    "email": "qffy715@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "synveil",
+      "value": "qffygloria.github.io"
+    }
+  },
+
+  "proxied": false
+}
