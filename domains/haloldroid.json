@@ -1,0 +1,14 @@
+{
+  "repo": "https://haloldroid.blogspot.com",
+  "owner": {
+    "username": "abdo23sal",
+    "email": "abdosal23@proton.me"
+  },
+  "target": {
+    "CNAME": {
+      "name": "haloldroid",
+      "value": "ghs.google.com"
+    }
+  },
+  "proxied": false
+}
