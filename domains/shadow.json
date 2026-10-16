@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "ItzMeShadow999",
+        "email": "itzmeshadow90@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "shadow",
+            "value": "itzmeshadow.pages.dev"
+        }
+    },
+
+    "proxied": false
+}
