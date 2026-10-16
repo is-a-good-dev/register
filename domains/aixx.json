@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "buyxx"
+  },
+  "target": {
+    "NS": {
+      "name": "aixx",
+      "value": [
+        "fred.ns.cloudflare.com",
+        "magali.ns.cloudflare.com"
+      ]
+    }
+  },
+  "proxied": false
+}
