@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/g4zwrr/g4zwrr.github.io",
+  "owner": {
+    "username": "g4zwrr",
+    "email": "z3ivr0@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "g4zwr",
+      "value": "g4zwrr.github.io"
+    }
+  },
+  "proxied": false
+}
