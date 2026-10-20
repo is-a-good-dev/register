@@ -1,0 +1,20 @@
+{
+    "repo": "https://github.com/786-aquib/New-Portfolio",
+    "owner": {
+        "username": "786-aquib",
+        "email": "aquibmahmood106@gmail.com"
+    },
+    "target": {
+        "A": {
+            "name": "aquibmahmood",
+            "value": [
+                "216.198.79.1"
+            ]
+        },
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=aquibmahmood.is-a-good.dev,978992a1aa1041f8ee62"
+        }
+    },
+    "proxied": false
+}
