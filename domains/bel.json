@@ -1,10 +1,14 @@
 {
+  "repo": "https://github.com",
   "owner": {
     "username": "bel-bg",
     "email": "belmondefio@gmail.com"
   },
-  "record": {
-    "CNAME": "bel123.netlify.app"
+  "target": {
+    "CNAME": {
+      "name": "bel",
+      "value": "bel123.netlify.app"
+    }
   },
   "proxied": false
 }
