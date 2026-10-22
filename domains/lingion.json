@@ -1,0 +1,14 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "lingion",
+    "email": "165679819+lingion@users.noreply.github.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "lingion",
+      "value": "blog.qdp.qzz.io"
+    }
+  },
+  "proxied": false
+}
