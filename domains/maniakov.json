@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "Maniakov132414",
+        "email": "work@maniakov.bond"
+    },
+    "target": {
+        "CNAME": {
+            "name": "maniakov",
+            "value": "telecloud.onthewifi.com"
+        }
+    },
+    "proxied": false
+}
