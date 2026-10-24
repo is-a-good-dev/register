@@ -1,9 +1,13 @@
 {
-  "owner": {
-    "username": "lingion",
-    "email": "lingion@hrbeu.edu.cn"
-  },
-  "records": {
-    "CNAME": "lingion-redirect.pages.dev"
-  }
+    "owner": {
+        "username": "lingion",
+        "email": "lingion@hrbeu.edu.cn"
+    },
+    "target": {
+        "CNAME": {
+            "name": "lingion",
+            "value": "lingion-redirect.pages.dev"
+        }
+    },
+    "proxied": false
 }
