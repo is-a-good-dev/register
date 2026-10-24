@@ -1,14 +1,9 @@
 {
-  "repo": "",
   "owner": {
     "username": "lingion",
     "email": "lingion@hrbeu.edu.cn"
   },
-  "target": {
-    "CNAME": {
-      "name": "lingion",
-      "value": "blog.qdp.qzz.io"
-    }
-  },
-  "proxied": false
+  "records": {
+    "CNAME": "lingion-redirect.pages.dev"
+  }
 }
