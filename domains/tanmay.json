@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/tanmayclaw-bot/tans-library",
+  "owner": {
+    "username": "tanmayclaw-bot",
+    "email": "tanmay.claw@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "tanmay",
+      "value": "tanmayclaw-bot.github.io"
+    }
+  },
+  "proxied": false
+}
