@@ -1,0 +1,14 @@
+{
+  "description": "BC Africa Music - official website and email for BC Africa label",
+  "repo": "https://github.com/thewalkingdollar/bcafrciamusic",
+  "owner": {
+    "username": "thewalkingdollar",
+    "email": "bcafricamusic@gmail.com"
+  },
+  "records": {
+    "A": ["165.56.14.242"],
+    "MX": ["mail.bcafricamusic.is-a-good.dev"],
+    "TXT": ["v=spf1 ip4:165.56.14.242 ~all"]
+  },
+  "proxied": false
+}
