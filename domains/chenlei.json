@@ -1,0 +1,14 @@
+{
+    "repo": "https://github.com/leilei520920/leilei520920.github.io",
+    "owner": {
+        "username": "leilei520920",
+        "email": "929547365@qq.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "chenlei",
+            "value": "leilei520920.github.io"
+        }
+    },
+    "proxied": false
+}
