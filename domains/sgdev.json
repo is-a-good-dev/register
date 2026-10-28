@@ -1,0 +1,19 @@
+{
+  "owner": {
+    "username": "sgdev",
+    "email": "admin@sgdev.qd.je"
+  },
+
+  "target": {
+    "A": {
+       "name": "sgdev", 
+       "value": ["216.198.79.1"]
+     },
+    "TXT": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=sgdev.is-a-good.dev,ecff44638a61b4e1f37e"
+     }
+  },
+
+  "proxied": true
+}
