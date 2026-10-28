@@ -1,21 +1,21 @@
 {
   "repo": "https://github.com/AtharvRG/portfolio",
-
+  
   "owner": {
     "username": "AtharvRG",
     "email": "atharv2703123@gmail.com"
   },
-
+  
   "target": {
-    "CNAME": {
-       "name": "atharv", 
-       "value": "portfolio-atharv-r-gachchi.vercel.app"
-     },
+    "A": {
+      "name": "atharv", 
+      "value": ["216.198.79.1"]
+    },
     "TXT": {
-        "name": "_vercel",
-        "value": "vc-domain-verify=atharv.is-a-good.dev,dfbf3a99e72ae4b5a150"
+      "name": "_vercel", 
+      "value": "vc-domain-verify=atharv.is-a-good.dev,e63cd8eb70f636b9ff62"
     }
   },
-
-  "proxied": true
+  
+  "proxied": false
 }

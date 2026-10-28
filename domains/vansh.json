@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "vansharmaweb",
+        "email": "vanshsharmaweb@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "vansh",
+            "value": "vansharmaweb.vercel.app"
+        }
+    },
+    "proxied": false
+}

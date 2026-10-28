@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/NothingButTyler/nothingbuttyler.github.io",
+
+    "owner": {
+        "username": "NothingButTyler",
+        "email": "tylerbloxofficialyt@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "NothingButTyler",
+            "value": "nothingbuttyler.github.io"
+        }
+    },
+
+    "proxied": true
+}

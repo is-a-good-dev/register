@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/rhysinku/rhysin-dev--v1",
+
+  "owner": {
+    "username": "rhysinku",
+    "email": "rhysindodev@email.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "rhysin",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=rhysin.is-a-good.dev,65a416bd79450ab0d3fa"
+    }
+  },
+
+  "proxied": false
+}

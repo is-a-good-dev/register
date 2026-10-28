@@ -5,11 +5,11 @@
     },
 
     "target": {
-        "AAAA": {
+        "CNAME": {
             "name": "gap",
-            "value": ["2602:fa08:20:1926::a"]
+            "value": "cl-gl0b6d4701.gcdn.co"
         }
     },
 
-    "proxied": true
+    "proxied": false
 }

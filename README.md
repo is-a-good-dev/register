@@ -20,7 +20,12 @@ Your pull request **will not** be merged if:
 - The records provided includes invalid/unpermitted record types. If this happens we will notify you and request changes.
 - It violates users privacy.
 - It uses Netlify, as there are issues with subdomain verification. We hope to add support back soon.
-- The domain is not being used for a valid website/blog/portfolio/api application. This is reviewed on a case by case basis.
+- The domain is not being used for a valid *PERSONAL* website/blog/portfolio.
+
+# IMPORTANT:
+Commercial / public projects are not a permitted use case for is-a-good.dev domains.
+
+*is-a-good.dev subdomains are only granted for personal portfolios/websites/blogs.*
 
 *If your subdomain is inactive, it may be purged. We will try and notify you before purging via the email you provided.*
 

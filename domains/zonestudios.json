@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/hashtag0012/z-one",
+  "owner": {
+    "username": "hashtag0012",
+    "email": "hashimadil001@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "zonestudios",
+      "value": "zonestudios.vercel.app"
+    }
+  },
+  "proxied": false
+}

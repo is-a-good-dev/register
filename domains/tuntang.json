@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "tuntang",
+        "email": "tuntang@tencent.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "tuntang",
+            "value": ["118.89.49.196"]
+        }
+    },
+
+    "proxied": true
+}

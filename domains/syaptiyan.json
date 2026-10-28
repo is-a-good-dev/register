@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/Syaptiyan/syaptiyan.github.io",
+
+    "owner": {
+        "username": "Syaptiyan",
+        "email": "syaptiyan@users.noreply.github.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "syaptiyan",
+            "value": "syaptiyan.github.io"
+        }
+    },
+
+    "proxied": true
+}

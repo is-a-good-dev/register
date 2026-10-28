@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "jokoarynt",
+        "email": "0@joko.is-a.dev"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "joko",
+            "value": "edge.redirect.pizza"
+        }
+    },
+
+    "proxied": false
+}

@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/htdtkshi/startover",
+
+    "owner": {
+        "username": "htdtkshi",
+        "email": "hatada.takashi@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "startover",
+            "value": "mcp.shouten.hatada.jp"
+        }
+    },
+
+    "proxied": false
+}

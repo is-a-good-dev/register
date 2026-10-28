@@ -1,0 +1,21 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "kevclint",
+    "email": "dev@kevlarclint.anonaddy.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "kevlarclint",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=kevlarclint.is-a-good.dev,7452617cd503374b55b7"
+    }
+  },
+
+  "proxied": false
+}

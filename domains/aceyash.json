@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/aceyash-dev/aceyash-dev.github.io",
+
+  "owner": {
+    "username": "Ace Yash",
+    "email": "aceyash-dev@proton.me"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "aceyash", 
+      "value": "aceyash-dev.github.io"
+    }
+  },
+
+  "proxied": false
+}

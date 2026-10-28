@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/DavidSkillman/is-a-good-dev.register",
+
+    "owner": {
+        "username": "Cubrift",
+        "email": "cubrift@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "cubrift",
+            "value": "cubrift.io"
+        }
+    },
+
+    "proxied": true
+}

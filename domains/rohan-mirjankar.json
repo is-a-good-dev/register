@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/Rohan-Shridhar/portfolio",
+
+  "owner": {
+    "username": "rohan-shridhar",
+    "email": "rohansm668@gmail.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "rohan-mirjankar", 
+       "value": ["216.198.79.1"]
+     },
+    "TXT": {
+       "name": "_vercel", 
+       "value": "vc-domain-verify=rohan-mirjankar.is-a-good.dev,3ac4e122e5962e3eade1"
+     }
+  },
+
+  "proxied": false
+}

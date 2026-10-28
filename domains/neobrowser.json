@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/pitiflautico/neobrowser",
+  "owner": {
+    "username": "pitiflautico",
+    "email": "pitiflautico3@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "neobrowser",
+      "value": "pitiflautico.github.io"
+    }
+  },
+  "proxied": false
+}

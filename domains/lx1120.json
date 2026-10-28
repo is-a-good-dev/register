@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/xie-good/resume",
+  "owner": {
+    "username": "xie-good",
+    "email": "1269105168@qq.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "lx1120",
+      "value": "xie-good.github.io"
+    }
+  },
+  "proxied": false
+}
