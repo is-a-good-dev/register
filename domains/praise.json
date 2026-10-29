@@ -1,0 +1,20 @@
+{
+  "repo": "https://github.com/praiseadesina2-stack/my-portfolio",
+
+  "owner": {
+    "username": "praiseadesina2-stack",
+    "email": "praiseadesina2@gmail.com"
+  },
+ "target": {
+    "A": {
+      "name": "praise",
+      "value": "216.198.79.1"
+    },
+    "TXT": {
+      "name": "_vercel.praise",
+      "value": "vc-domain-verify=praise.is-a-good.dev,ac13e59940c85e3b9d1f"
+    }
+  },
+
+  "proxied": false
+}
