@@ -1,14 +1,13 @@
 {
-  "repo": "https://github.com/praiseadesina2-stack/my-portfolio",
-
   "owner": {
     "username": "praiseadesina2-stack",
     "email": "praiseadesina2@gmail.com"
   },
- "target": {
+
+  "target": {
     "A": {
       "name": "praise",
-      "value": "216.198.79.1"
+      "value": ["216.198.79.1"]
     },
     "TXT": {
       "name": "_vercel.praise",
