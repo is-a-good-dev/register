@@ -1,0 +1,21 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "rakesh-attri",
+    "email": "rakeshattri007@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "RakeshSharma", 
+       "value": "rakesh-attri.github.io"
+     },
+    "TXT": {
+       "name": "_github-pages-challenge-rakesh-attri", 
+       "value": "47b11cfb4f0533ea0ae250aab2946d"
+     }
+  },
+
+  "proxied": false
+}
