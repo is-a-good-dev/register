@@ -5,14 +5,10 @@
     },
 
     "target": {
-        "A": {
+        "CNAME": {
             "name": "aldi",
-            "value": ["216.198.79.1"]
-        },
-        "TXT": {
-        "name": "_vercel",
-        "value": "vc-domain-verify=aldi.is-a-good.dev,d5534899bce367194f18"
-    }
+            "value": "map.cname.dev"
+        }
     },
 
 
