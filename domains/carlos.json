@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/sadhu89/sadhu89.github.io",
+
+  "owner": {
+    "username": "sadhu89",
+    "email": "carlos.sadhu@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "carlos", 
+       "value": "sadhu89.github.io"
+     },
+  },
+
+  "proxied": true
+}
