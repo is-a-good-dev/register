@@ -5,9 +5,9 @@
   },
 
   "target": {
-    "A": {
+    "CNAME": {
       "name": "tx", 
-      "value": "140.245.62.120"
+      "value": "tx88.eu.org"
     }
   },
 
