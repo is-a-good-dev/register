@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "xandertang",
+    "email": "xandertang@qq.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "tx", 
+      "value": "140.245.62.120"
+    }
+  },
+
+  "proxied": false
+}
