@@ -1,0 +1,19 @@
+{
+  "owner": {
+    "username": "praiseadesina2-stack",
+    "email": "praiseadesina2@gmail.com"
+  },
+
+  "target": {
+    "A": {
+      "name": "praise",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel.praise",
+      "value": "vc-domain-verify=praise.is-a-good.dev,9bc3b6dec552673026d7"
+    }
+  },
+
+  "proxied": false
+}
