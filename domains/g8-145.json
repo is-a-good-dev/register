@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/g8uslab03-sudo/g8-145",
+  "owner": {
+    "username": "g8uslab03-sudo",
+    "email": "g8.us.lab03@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "g8-145",
+      "value": "g8-145.pages.dev"
+    }
+  },
+  "proxied": false
+}
