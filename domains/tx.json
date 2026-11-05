@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "xandertang",
+    "email": "xandertang@qq.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "tx", 
+      "value": "tx88.eu.org"
+    }
+  },
+
+  "proxied": false
+}
