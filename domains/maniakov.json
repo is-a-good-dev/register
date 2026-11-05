@@ -1,0 +1,17 @@
+{
+    "owner": {
+        "username": "Maniakov132414",
+        "email": "work@maniakov.bond"
+    },
+    "target": {
+        "CNAME": {
+            "name": "maniakov",
+            "value": "telecloud.onthewifi.com"
+        },
+        "TXT": {
+            "name": "mail._domainkey",
+            "value": "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtB6eXeiU30v0ehh9USOVRMWuqR5g+WdctJO2RsRny4570gWeYO7EjbnJXsEB2a5DYYarHWFrXwSQz6du5V42R8yJtpPq30aRt4NLvm8/g32GI9m3yj4R+W+rEqgFnUd5u6hlifeV1bsEgBQqDaWWRY+o/mhng0dlYI8CC4y59T0FaVjn2ayEQJZP3PSjFvdjXhGrQYXlDeor7wGTgJ6MWXzk0RKd8H18mKOn4YNO/+4nmyT7dpkWdW93tmXINM1WsMjJz4hm6pfeOMmslVc3UtysIMBFyiSg5nkI0Zb+7m7Lp/COxQLujId0Ny6wM0yT4EAOacyXU4aHrTctqAaM+QIDAQAB"
+        }
+    },
+    "proxied": false
+}
