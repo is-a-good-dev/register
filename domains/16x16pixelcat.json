@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/16x16pixelcat/16x16pixelcat.github.io",
+
+    "owner": {
+        "username": "16x16pixelcat",
+        "email": "no-reply@example.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "16x16pixelcat",
+            "value": "16x16pixelcat.github.io"
+        }
+    },
+
+    "proxied": false
+}
