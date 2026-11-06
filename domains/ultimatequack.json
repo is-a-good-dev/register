@@ -1,0 +1,19 @@
+{
+    "owner": {
+        "username": "havaianasdestruido",
+        "email": "havaianasdestruido@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "quack",
+            "value": "havaianasdestruido.github.io"
+        },
+        "TXT": [
+            {
+                "name": "_github-pages-challenge-havaianasdestruido",
+                "value": "10d199f962b73ac63aba4130a87907"
+            }
+        ]
+    },
+    "proxied": false
+}
