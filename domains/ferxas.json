@@ -1,0 +1,17 @@
+{
+    "repo": "",
+
+    "owner": {
+        "username": "Ferxas",
+        "email": "ferxas321@protonmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "ferxas",
+            "value": "cname.vercel-dns.com"
+        }
+    },
+
+    "proxied": false
+}
