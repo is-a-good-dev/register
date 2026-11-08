@@ -10,6 +10,11 @@
         "CNAME": {
             "name": "ferxas",
             "value": "cname.vercel-dns.com"
+        },
+
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=ferxas.is-a-good.dev,5c1c2b7db7f846734c2a"
         }
     },
 
