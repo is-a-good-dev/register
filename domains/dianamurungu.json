@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "username": "RunyararoEs",
+    "email": "dianaermurungu@gmail.com"
+  },
+  "target": {
+    "A": {
+      "name": "dianamurungu",
+      "value": ["216.198.79.1"]
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=dianamurungu.is-a-good.dev,f9a65e0c7c46cfa58937"
+    }
+  },
+  "proxied": false
+}
