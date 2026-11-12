@@ -1,0 +1,24 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "Xiangyu2141480",
+    "email": "2794555236@qq.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "yiting-wang-portfolio",
+      "value": "custom-domains.chatgpt.site."
+    },
+    "TXT": [
+      {
+        "name": "_openai-site-verification.yiting-wang-portfolio",
+        "value": "openai-site-verification=KBQomAlErw_OZfMI4XVWsQ3BKN6JsSq4hQ4iPtpPaPk"
+      },
+      {
+        "name": "_cf-custom-hostname.yiting-wang-portfolio",
+        "value": "42bc7c85-d7c0-4fbd-80fd-9fb0308e61bb"
+      }
+    ]
+  },
+  "proxied": false
+}
