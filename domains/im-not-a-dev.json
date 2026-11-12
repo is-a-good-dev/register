@@ -1,1 +1,15 @@
 
+{
+  "repo": "https://github.com/tr4c3rz/tr4c3rz.github.io",
+  "owner": {
+    "username": "tr4c3rz",
+    "email": "gxh5598alter@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "im-not-a-dev",
+      "value": "tr4c3rz.github.io"
+    }
+  },
+  "proxied": false
+}
