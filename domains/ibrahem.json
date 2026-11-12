@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/ABOWARD40/ABOWARD40",
+  "owner": {
+    "username": "ABOWARD40",
+    "email": "abrahem.gzawe@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ibrahem",
+      "value": "syriatariff1.pages.dev"
+    }
+  },
+  "proxied": false
+}
