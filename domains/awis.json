@@ -1,0 +1,14 @@
+
+{
+  "owner": {
+    "username": "shahid103045",
+    "email": "shahidchoudhary03045@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "awis",
+      "value": "shahid103045.github.io"
+    }
+  },
+  "proxied": false
+}
