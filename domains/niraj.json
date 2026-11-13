@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "niraj-patil-ai",
+        "email": "npca1905@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "niraj",
+            "value": "nirajpatil.pages.dev"
+        }
+    },
+    "proxied": false
+}
