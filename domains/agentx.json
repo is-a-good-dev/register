@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/abhiyadavj2006-del/abhiyadavj2006-del.github.io",
+  "owner": {
+    "username": "abhiyadavj2006-del",
+    "email": "abhiyadavj2006@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "agentx",
+      "value": "abhiyadavj2006-del.github.io"
+    }
+  },
+  "proxied": false
+}
