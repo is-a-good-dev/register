@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/Bel-bg/belmonde",
+
+  "owner": {
+    "username": "Bel-bg",
+    "email": "belmondefio@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "bel", 
+      "value": "beldev08.vercel.app"
+    }
+  },
+
+  "proxied": false
+}
