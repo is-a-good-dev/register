@@ -1,0 +1,15 @@
+{
+    "description": "TB TroveBooks - Independent Digital Bookstore",
+    "repo": "https://github.com/tarikk786786/Ebook",
+    "owner": {
+        "username": "tarikk786786",
+        "email": "princetarikislam@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "@",
+            "value": "tarikk786786.github.io"
+        }
+    },
+    "proxied": false
+}
