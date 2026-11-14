@@ -1,0 +1,19 @@
+{
+  "repo": "matthew.json",
+
+  "owner": {
+    "username": "michaelscriptss",
+    "email": "ioffical02@gmail.com"
+  },
+
+  "target": {
+    "A": [
+      {
+        "name": "matthew",
+        "value": "51.161.93.20"
+      }
+    ]
+  },
+
+  "proxied": false
+}
