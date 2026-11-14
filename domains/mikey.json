@@ -1,0 +1,14 @@
+{
+    "repo": "https://github.com/miket-tsx/mikey",
+    "owner": {
+        "username": "miket-tsx",
+        "email": "rawlex126+67@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "mikey",
+            "value": "miket-tsx.github.io"
+        }
+    },
+    "proxied": false
+}
