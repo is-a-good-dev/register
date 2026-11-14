@@ -7,10 +7,11 @@
   },
 
   "target": {
-    "<RECORD-TYPE ( REPLACE THIS  WITH A, AAAA, CNAME ) >": {
-       "name": "A", 
-       "value": "51.161.93.20"
-     },
+    "A": {
+      "name": "A",
+      "value": "51.161.93.20"
+    }
+  },
 
   "proxied": false
 }
