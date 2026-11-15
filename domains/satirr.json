@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/satirrdev/satirrdev.github.io",
+  "owner": {
+    "username": "satirrdev",
+    "email": "r86571601@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "satirr",
+      "value": "satirrdev.github.io"
+    }
+  },
+  "proxied": false
+}
