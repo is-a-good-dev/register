@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/wutongworks/wutongworks.github.io",
+
+    "owner": {
+        "username": "wutongworks",
+        "email": "leon.wutong@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "wutong",
+            "value": "wutongworks.github.io"
+        }
+    },
+
+    "proxied": false
+}
