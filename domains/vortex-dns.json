@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "mito-pro",
+    "email": "misticotestedom7@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "vortex-dns",
+      "value": "mistico-domain-manager.vercel.app"
+    }
+  },
+  "proxied": false
+}
