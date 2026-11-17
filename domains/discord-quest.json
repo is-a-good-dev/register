@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "KashikoKanda",
+    "email": "goodgem11@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "discord-quest",
+      "value": "discord-quests.onrender.com"
+    }
+  },
+  "proxied": false
+}
