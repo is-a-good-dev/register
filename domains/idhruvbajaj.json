@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/idhruvbajaj/idhruvbajaj.github.io",
+  "owner": {
+    "username": "idhruvbajaj",
+    "email": "thepakdhruvshivam@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "idhruvbajaj",
+      "value": "idhruvbajaj.github.io"
+    }
+  },
+  "proxied": false
+}
