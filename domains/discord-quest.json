@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "KashikoKanda"
+  },
+  "target": {
+    "CNAME": {
+      "name": "discord-quest",
+      "value": "discord-quests.onrender.com"
+    }
+  },
+  "proxied": false
+}
