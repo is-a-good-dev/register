@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "tankotan",
+        "email": "tankietlam99@gmail.com"
+    },
+    "target": {
+        "CNAME": {
+            "name": "daika",
+            "value": "tankotan.github.io"
+        }
+    },
+    "proxied": false
+}
