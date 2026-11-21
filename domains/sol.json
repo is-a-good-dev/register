@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "SalehAlSalem",
+    "email": "salehbawaneh@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "sol",
+      "value": "salehalsalem.pages.dev"
+    }
+  },
+  "proxied": false
+}
