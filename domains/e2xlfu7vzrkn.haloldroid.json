@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "abdo23sal",
+    "email": "abdosal23@proton.me"
+  },
+  "target": {
+    "CNAME": {
+      "name": "e2xlfu7vzrkn.haloldroid",
+      "value": "gv-di5y7q2ades3py.dv.googlehosted.com"
+    }
+  },
+  "proxied": false
+}
