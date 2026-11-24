@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/ishancodegit/portfolio",
+  "owner": {
+    "username": "ishancodegit",
+    "email": "ishngoated@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ishan",
+      "value": "ishancodegit.github.io"
+    }
+  },
+  "proxied": false
+}
