@@ -1,0 +1,14 @@
+{
+    "owner": {
+        "username": "5aranx",
+        "email": "saranshsingh2006@gmail.com"
+    },
+    "repo": "https://github.com/5aranx/5aranx.github.io",
+    "target": {
+        "CNAME": {
+            "name": "5aranx",
+            "value": "5aranx.github.io"
+        }
+    },
+    "proxied": false
+}
