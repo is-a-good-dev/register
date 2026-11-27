@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/indrajithbandara/portfolio-gooddev-redirect",
+  "owner": {
+    "username": "indrajithbandara",
+    "email": "indrajithbandarasl@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "indrajithbandara",
+      "value": "indrajithbandara.github.io"
+    }
+  },
+  "proxied": false
+}
