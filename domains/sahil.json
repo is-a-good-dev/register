@@ -1,0 +1,21 @@
+{
+    "website": "https://portfolio-five-ashen-hq0zbfd195.vercel.app",
+
+    "owner": {
+        "username": "shahilsingh546",
+        "email": "shahilsingh456@gmail.com"
+    },
+
+    "target": {
+        "A": {
+            "name": "sahil",
+            "value": "216.198.79.1"
+        },
+        "TXT": {
+            "name": "_vercel.sahil",
+            "value": "vc-domain-verify=sahil.is-a-good.dev,563706e0ec77494d412a"
+        }
+    },
+
+    "proxied": false
+}
