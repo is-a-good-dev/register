@@ -1,0 +1,14 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "WanCai8908",
+    "email": "d45767541@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "wancai",
+      "value": "wancai-portfolio.pages.dev"
+    }
+  },
+  "proxied": false
+}
